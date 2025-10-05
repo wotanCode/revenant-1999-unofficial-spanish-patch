@@ -20,7 +20,7 @@ Este proyecto contiene una traducción no oficial del juego **Revenant** (1999) 
 ## Estructura del Proyecto
 
 ```
-├── traslations/
+├── translations/
 │   └── english.def         # Archivo original en inglés (referencia)
 ├── README.md               # Este archivo
 └── changelog.md            # Notas de trabajo en progreso
