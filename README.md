@@ -10,9 +10,8 @@ Este proyecto contiene una traducción no oficial del juego **Revenant** (1999) 
 
 ❌ **INCOMPLETO** - La traducción está en desarrollo activo
 
-<!--
+<!-- TODO:
 ## Instalación
-
 1. Descarga los archivos de traducción
 -->
 
@@ -20,9 +19,9 @@ Este proyecto contiene una traducción no oficial del juego **Revenant** (1999) 
 
 ```
 ├── traslations/
-│   └── english.def          # Archivo original en inglés (referencia)
+│   └── english.def         # Archivo original en inglés (referencia)
 ├── README.md               # Este archivo
-└── wip.txt                 # Notas de trabajo en progreso
+└── changelog.md            # Notas de trabajo en progreso
 ```
 
 ## Contribuciones
