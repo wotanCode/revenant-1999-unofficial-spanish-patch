@@ -1,103 +1,101 @@
 // Revenant - Copyright 1998 Cinematix Studios, Inc.
-// *********** Revenant English DEF File  ************
+// *********** Revenant Spanish DEF File ************
 
 // Game Messages
-LOADMSG "Loading... Please Wait"
-LOADMAPMSG "Loading Map... Please Wait"
-GAMENOTFOUND "Unable to load saved game... starting new game"
-MSGPREFIX "Message: "
-ITEMTOFAR "You are too far away."
-YES "Yes"
+LOADMSG "Cargando... Por favor espera"
+LOADMAPMSG "Cargando mapa... Por favor espera"
+GAMENOTFOUND "No se pudo cargar la partida guardada... iniciando nueva partida"
+MSGPREFIX "Mensaje: "
+ITEMTOFAR "Estás demasiado lejos."
+YES "Sí"
 NO "No"
-ON "On"
-OFF "Off"
-ENABLED "Enabled"
-DISABLED "Disabled"
-OPEN "Open"
-CLOSED "Closed"
+ON "Encendido"
+OFF "Apagado"
+ENABLED "Habilitado"
+DISABLED "Deshabilitado"
+OPEN "Abrir"
+CLOSED "Cerrado"
 
 // In game interface
-QUITGAMEYN "\nAre you sure you want to quit the current module?"
-EXITGAMEYN "\nAre you sure you want to exit the game and return to Windows?"
-LOADINGMAP "The game is loading map graphics, characters, and animations... Please Wait."
+QUITGAMEYN "\n¿Seguro que deseas salir del módulo actual?"
+EXITGAMEYN "\n¿Seguro que deseas salir del juego y volver a Windows?"
+LOADINGMAP "El juego está cargando los gráficos del mapa, personajes y animaciones... Por favor espera."
 
 // Multiplayer messages
-MPMODINFO "%d Players, Levels %d - %d, %d - %d hours"
-MPLEVEL "Level"
-MPNOPARTY "(No Party)"
-MPDELCHAR "Deleted characters can not be restored.  Are you sure you want to delete this character."
-MPNOPENALTY "with no experience penalty"
-MPPENALTY "for a %d%% experience penalty"
-MPRESSURECT "Your character has died, you can choose to be ressurected at a "\
-	"(Game) start point %s, or a (Party) start point %s."
-MPSTARTGAME "You must choose a starting (Game) location from the list "\
-	"below, or choose to start near one of the characters of your (Party), before entering "\
-	"the game."
-MPDISCONNECTED "Your computer has disconnected from the game.  You may reenter where you "\
-	"left off by selecting the same character and clicking 'Play Exisiting Char' on the Connect "\
-	"screen."
-MPDISCONNECTEDTIMEOUT "Your network connection has timed out (lost its connection).  You may reenter where you "\
-	"left off by selecting the same character and clicking 'Play Exisiting Char' on the Connect "\
-	"screen."
-MPDISCONNECTEDSERVER "The host machine has ended the game, or is not responding.  If the host is restarting you can"\
-	"wait for the game to reappear in the connection screen, or you may choose to play another game." 
-MPMUSTSELCHAR "You must first select a character before you can do this.  You can select an exising "\
-	"chararacter, or create a new one by clicking the 'New' button underneath the character list."
-MPMUSTSELMOD "You must first select a module before you can do this.  You select a module by clicking "\
-	"on one of the items in the 'Module' panel."
-MPMUSTSELGAME "You must first select a game before you can do this.  You select a game by clicking "\
-	"on one of the games in the 'Connect' panel.  If there are no games available, you can choose to "\
-	"host your own game by clicking the 'Host Game' button."
-MPENTEREDGAME "%s has entered the game."
-MPLEFTGAME "%s has left the game"
-MPNEWPARTY "%s has created the %s party"
-MPJOINPARTY "%s has joined the %s party"
-MPLEFTPARTY "%s has left the %s party"
-MPGAME "Game"
-MPPARTY "Party"
-MPQTY "Qty"
-MPGP "gp"
-MPWEPTYPES "Hand,Knife,Sword,Bludgeon,Axe,Staff,Bow,Crossbow"
-MPDMGTYPES "Misc,Hand,Puncture,Cut,Chop,Bludgeon,Magical,Burn,Freeze,Poison"
-MPWEAPONDESC "Type: %s      Dmg: %d%\nStr Req: %d    Skill Up: %d"
+MPMODINFO "%d jugadores, niveles %d - %d, %d - %d horas"
+MPLEVEL "Nivel"
+MPNOPARTY "(Sin grupo)"
+MPDELCHAR "Los personajes eliminados no pueden recuperarse. ¿Seguro que deseas eliminar este personaje?"
+MPNOPENALTY "sin penalización de experiencia"
+MPPENALTY "con una penalización de %d%% de experiencia"
+MPRESSURECT "Tu personaje ha muerto. Puedes resucitar en un punto de inicio de "\
+	"(Juego) %s, o en un punto de inicio de (Grupo) %s."
+MPSTARTGAME "Debes elegir una ubicación inicial de (Juego) de la lista "\
+	"inferior, o comenzar cerca de uno de los personajes de tu (Grupo), antes de entrar "\
+	"al juego."
+MPDISCONNECTED "Tu computadora se ha desconectado del juego. Puedes volver al punto "\
+	"donde quedaste seleccionando el mismo personaje y haciendo clic en 'Jugar personaje existente' en la pantalla de conexión."
+MPDISCONNECTEDTIMEOUT "La conexión de red ha expirado (se perdió la conexión). Puedes volver al punto "\
+	"donde quedaste seleccionando el mismo personaje y haciendo clic en 'Jugar personaje existente' en la pantalla de conexión."
+MPDISCONNECTEDSERVER "El host ha terminado la partida o no responde. Si el anfitrión está reiniciando, puedes "\
+	"esperar a que el juego reaparezca en la pantalla de conexión o elegir jugar otra partida." 
+MPMUSTSELCHAR "Debes seleccionar un personaje antes de hacer esto. Puedes seleccionar un personaje existente "\
+	"o crear uno nuevo haciendo clic en el botón 'Nuevo' debajo de la lista de personajes."
+MPMUSTSELMOD "Debes seleccionar un módulo antes de hacer esto. Selecciona un módulo haciendo clic "\
+	"en uno de los elementos del panel 'Módulo'."
+MPMUSTSELGAME "Debes seleccionar una partida antes de hacer esto. Selecciona una partida haciendo clic "\
+	"en una de las partidas del panel 'Conectar'. Si no hay partidas disponibles, puedes "\
+	"hospedar una nueva haciendo clic en el botón 'Hostear partida'."
+MPENTEREDGAME "%s ha entrado al juego."
+MPLEFTGAME "%s ha salido del juego"
+MPNEWPARTY "%s ha creado el grupo %s"
+MPJOINPARTY "%s se ha unido al grupo %s"
+MPLEFTPARTY "%s ha abandonado el grupo %s"
+MPGAME "Juego"
+MPPARTY "Grupo"
+MPQTY "Cant."
+MPGP "oro"
+MPWEPTYPES "Mano,Cuchillo,Espada,Contundente,Hacha,Bastón,Arco,Ballesta"
+MPDMGTYPES "Varios,Mano,Perforante,Corte,Tajo,Contundente,Mágico,Quemadura,Hielo,Veneno"
+MPWEAPONDESC "Tipo: %s      Daño: %d%\nFuerza req.: %d    Habilidad+: %d"
 
 // Account reply messages
-MPREPLYOK "Network command completed successfully"
-MPREPLYFAIL "Unspecified network error.  Is the provider (IPX/TCPIP/MPlayer) installed and working properly?  Could your network be disconnected?"
-MPREPLYTIMEOUT "Network command timed out.  Your network connection may have been lost or the host may have abruptly ended the game."
-MPNOTIMPLEMENTED "This network command is currently not supported in this version of the game.  Are you playing the latest game version?" 
-MPBADPASS "Your password is incorrect.  Please check to insure you are using the proper password for this game or character and try again."
-MPBADPLAYERNUM "The game has received an invalid player id number error.  Please log out and reenter the game."
-MPPLAYERNOTFOUND "There is no character with the name you've entered in the game.  Try uploading your character to the game instead."
-MPNAMETAKEN "A player with this name already exists in this game.  Choose another name and try again."
-MPALREADYLOGGEDIN "Somebody is already online playing this character.  Select another character with a different name."
-MPPLAYERINPLAY "Someone is currently playing the character you have selected.  Try playing another character."
-MPNOTAPPROVED "The game host hasn't approved this character yet.  The host of this game will contact you when your player is enabled."
-MPGAMECLOSED "\nThis session is closed to new players.  Please select another game."
-MPTOOMANYPLAYERS "This session already has the maximum number of players.  Please select another game."
-MPTOOMANYONLINE "This session already has the maximum number of players online.  Please select another game."
-MPLEVELTOOLOW "The level of your character is too low to play this game.  Try a higher level character."
-MPLEVELTOOHIGH "The level of your character is too high to play this game.  Try a lower level character."
-MPNOTNEWCHAR "You may only upload new level 1 characters with no equipment to this session."
-MPWAITAPPROVE "Your character has been successfully uploaded.  You will be notified by the host when your account is enabled."
-MPBADMODID "The module id on the host machine and your machine don't match.  Try reinstalling or redownloading this module."
-MPBADMODVER "The module version on the host machine and your machine don't match.  Try reinstalling or redownloading this module."
-MPBADGAMEVER "The game version on the host machine and your machine don't match.  Try installing the patch or upgrade."
-MPBADMODCRC "The module on your machine has been modified.  Try reinstalling or redownloading the module."
-MPBADSTARTPOS "Unable to start character at selected starting position.  Please choose another starting position."
-MPLOCALREADYSET "\nYou can't set your starting location right now."
-MPPARTYEXISTS "\nThis party already exists.  Try choosing another party name."
-MPPARTYCLOSED "\nThis party is closed to new player.  Try choosing another party to join."
-MPBADPARTYPASS "The password you have entered for this party is incorrect.  You must use the correct password to join this party."
-MPNOTINPARTY "\nYou can't change party information unless you are a member of that party."
-MPCANTCHANGEPARTY "\nYou can't change the party name or password once a party is created."
+MPREPLYOK "Comando de red completado correctamente"
+MPREPLYFAIL "Error de red no especificado. ¿Está instalado y funcionando correctamente el proveedor (IPX/TCPIP/MPlayer)? ¿Podría haberse desconectado tu red?"
+MPREPLYTIMEOUT "El comando de red expiró. Puede que la conexión se haya perdido o que el anfitrión haya finalizado la partida abruptamente."
+MPNOTIMPLEMENTED "Este comando de red no está disponible en esta versión del juego. ¿Estás usando la versión más reciente?"
+MPBADPASS "La contraseña es incorrecta. Verifica que estás usando la contraseña adecuada para esta partida o personaje e inténtalo nuevamente."
+MPBADPLAYERNUM "El juego ha recibido un número de identificación de jugador inválido. Cierra sesión e ingresa nuevamente."
+MPPLAYERNOTFOUND "No existe un personaje con el nombre ingresado. Prueba subiendo tu personaje al juego."
+MPNAMETAKEN "Ya existe un jugador con ese nombre en esta partida. Elige otro nombre e inténtalo nuevamente."
+MPALREADYLOGGEDIN "Alguien ya está jugando con este personaje en línea. Selecciona otro personaje con un nombre diferente."
+MPPLAYERINPLAY "Alguien está jugando actualmente con el personaje que seleccionaste. Prueba con otro personaje."
+MPNOTAPPROVED "El anfitrión del juego aún no ha aprobado este personaje. Te contactará cuando tu jugador esté habilitado."
+MPGAMECLOSED "\nEsta sesión está cerrada a nuevos jugadores. Por favor selecciona otra partida."
+MPTOOMANYPLAYERS "Esta sesión ya tiene el número máximo de jugadores. Por favor selecciona otra partida."
+MPTOOMANYONLINE "Esta sesión ya tiene el número máximo de jugadores conectados. Por favor selecciona otra partida."
+MPLEVELTOOLOW "El nivel de tu personaje es demasiado bajo para unirte a esta partida. Prueba con un personaje de mayor nivel."
+MPLEVELTOOHIGH "El nivel de tu personaje es demasiado alto para unirte a esta partida. Prueba con un personaje de menor nivel."
+MPNOTNEWCHAR "Solo puedes subir personajes nuevos de nivel 1 sin equipamiento a esta sesión."
+MPWAITAPPROVE "Tu personaje se ha subido correctamente. Serás notificado por el anfitrión cuando tu cuenta esté habilitada."
+MPBADMODID "El ID del módulo en el host y en tu máquina no coinciden. Intenta reinstalar o volver a descargar este módulo."
+MPBADMODVER "La versión del módulo en el host y en tu máquina no coinciden. Intenta reinstalar o volver a descargar este módulo."
+MPBADGAMEVER "La versión del juego en el host y en tu máquina no coinciden. Intenta instalar el parche o la actualización correspondiente."
+MPBADMODCRC "El módulo en tu máquina ha sido modificado. Intenta reinstalar o volver a descargar el módulo."
+MPBADSTARTPOS "No se puede iniciar el personaje en la posición seleccionada. Por favor elige otra posición de inicio."
+MPLOCALREADYSET "\nNo puedes establecer tu ubicación inicial en este momento."
+MPPARTYEXISTS "\nEste grupo ya existe. Intenta elegir otro nombre de grupo."
+MPPARTYCLOSED "\nEste grupo está cerrado a nuevos jugadores. Intenta unirte a otro grupo."
+MPBADPARTYPASS "La contraseña ingresada para este grupo es incorrecta. Debes usar la contraseña correcta para unirte."
+MPNOTINPARTY "\nNo puedes cambiar la información del grupo a menos que seas miembro de ese grupo."
+MPCANTCHANGEPARTY "\nNo puedes cambiar el nombre o la contraseña del grupo una vez creado."
 
 // Other error messages
-MPSELSTARTFAILED "Unable to select game starting position.  Starting position may be occupied, or network connection may have been lost."
-MPCOULDNTCONNECT "Unable to establish connection with remote game.  Please check your network settings."
-MPUPLOADFAILED "Unable to upload character to game.  Please try again, or try another game."
-MPLOGINFALED "Unable to play existing character.  Please try again, or choose another character or another game."
-MPUNABLEENTER "Unable to enter the game.  Try choosing another starting position, or another character."
+MPSELSTARTFAILED "No se puede seleccionar la posición de inicio. Es posible que esté ocupada o que se haya perdido la conexión de red."
+MPCOULDNTCONNECT "No se pudo establecer conexión con la partida remota. Verifica tu configuración de red."
+MPUPLOADFAILED "No se pudo subir el personaje a la partida. Intenta nuevamente o prueba con otra partida."
+MPLOGINFALED "No se pudo jugar con el personaje existente. Intenta nuevamente o elige otro personaje o partida."
+MPUNABLEENTER "No se pudo entrar a la partida. Intenta otra posición de inicio u otro personaje."
 
 // Buy Sell Tags
 BSWEA1  "Damage "
