@@ -1,6 +1,8 @@
 # Revenant (1999) - Parche de Traducción al Español
 
-![Revenant Game Screenshot](Revenant-Locke.jpg)
+<div align="center">
+  <img src="Revenant-Locke.jpg" alt="Revenant Game Screenshot">
+</div>
 
 ## Descripción
 
@@ -42,7 +44,17 @@ Este es un proyecto de traducción comunitaria. Si deseas contribuir:
 
 ## Licencia
 
-Este proyecto de traducción es no oficial y no está afiliado con Cinematix Studios. El juego original Revenant es propiedad de sus respectivos dueños.
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
+**Aclaración importante**: Este proyecto de traducción es no oficial y no está afiliado con Cinematix Studios. El juego original Revenant es propiedad de sus respectivos dueños.
+
+## Autor
+
+**Pedro Yanez**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wotanCode)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-yanez/)
 
 ## Créditos
 
