@@ -98,256 +98,256 @@ MPLOGINFALED "No se pudo jugar con el personaje existente. Intenta nuevamente o 
 MPUNABLEENTER "No se pudo entrar a la partida. Intenta otra posición de inicio u otro personaje."
 
 // Buy Sell Tags
-BSWEA1  "Damage "
-BSWEA1  "Min Strength"
-BSARM1  "Protection"
-BSARM2  "Rst Poison"
-BSARM3  "Stlth"
-BSARM4	"Min Strn"
-BSARM5	"Min Cons"
-BSFOOD1	"Cure Health"
-BSFOOD2	"Cure Mana"
-BSFOOD3	"Cure Fatigue"
-BSFOOD4	"Cure Poison"
-BSAMMO1	"Quiver of NUMBER NAME's"
+BSWEA1  "Daño"
+BSWEA1  "Fuerza mínima"
+BSARM1  "Protección"
+BSARM2  "Resistencia a veneno"
+BSARM3  "Sigilo"
+BSARM4	"Fuerza mín."
+BSARM5	"Constitución mín."
+BSFOOD1	"Curar salud"
+BSFOOD2	"Curar maná"
+BSFOOD3	"Curar fatiga"
+BSFOOD4	"Curar veneno"
+BSAMMO1	"Carcaj de NUMBER NAME"
 BSGP    "$"
-BSGOLD  "GOLD"
-BSBUY   "Buy"
-BSSELL  "Sell"
-BSEXIT  "Exit"
-BSBUY2   "Buy Items"
-BSSELL2  "Sell Items"
-BSEXIT2  "Exit Shop"
+BSGOLD  "ORO"
+BSBUY   "Comprar"
+BSSELL  "Vender"
+BSEXIT  "Salir"
+BSBUY2   "Comprar objetos"
+BSSELL2  "Vender objetos"
+BSEXIT2  "Salir de la tienda"
 
 // Class Names
-CLNAME0  "Weapons"
-CLNAME1  "Armor"
-CLNAME2  "Bows"
-CLNAME3  "Arrows"
-CLNAME4  "Talismans"
-CLNAME5  "Food"
-CLNAME6  "Potions"
-CLNAME7  "Containers"
-CLNAME8  "Keys"
-CLNAME9  "Lights"
-CLNAME10 "Lock Picks"
+CLNAME0  "Armas"
+CLNAME1  "Armaduras"
+CLNAME2  "Arcos"
+CLNAME3  "Flechas"
+CLNAME4  "Talismanes"
+CLNAME5  "Comida"
+CLNAME6  "Pociones"
+CLNAME7  "Contenedores"
+CLNAME8  "Llaves"
+CLNAME9  "Luces"
+CLNAME10 "Ganzúas"
 
 // Statpane tags
-STATMAX		"You've maxed this stat, choose another"
+STATMAX		"Has maximizado esta estadística, elige otra"
 
 // Level Up message
-LUPBASE		"You've leveled up"
-LUPJONG		"Visit the combat trainer for new combat moves"
+LUPBASE		"Has subido de nivel"
+LUPJONG		"Visita al entrenador de combate para aprender nuevos movimientos"
 
 // Equip Messages
-EQUIPUNABLE		"This item is not equipable"
-EQUIPBADSLOT	"Bad inventory slot for"
+EQUIPUNABLE		"Este objeto no se puede equipar"
+EQUIPBADSLOT	"Espacio de inventario incorrecto para"
 
 // Food Messages
-FOODUSELESS		"The item was consumed. It tasted terrible, and had no effect."
-FOODGOOD1		"The item was consumed. You feel rejuvenated."
-FOODGOOD2		"The useful portions of the item have been consumed. You feel rejuvenated."
+FOODUSELESS		"El objeto fue consumido. Sabía terrible y no tuvo efecto."
+FOODGOOD1		"El objeto fue consumido. Te sientes rejuvenecido."
+FOODGOOD2		"Las partes útiles del objeto han sido consumidas. Te sientes rejuvenecido."
 
 // Spell CAST Messages
-SPLFATIGUE		"You must rest before casting again"
-SPLLVLLOW		"Refocus your energies and try again"
-SPLLVLNEG		"Your invoke level must be higher"
-SPLMANA			"You must recoup mana first"
-SPLMISTAL		"Some of the talismans you need are missing"
-SPLCASTOK		"Spell cast successfully"
-SPLCASTFAIL		"Spell failed"
-SPLOUTTAL		"No more talismans of that type."
-SPLNOTAL		"Not a valid spell."
+SPLFATIGUE		"Debes descansar antes de volver a lanzar un hechizo"
+SPLLVLLOW		"Refocaliza tus energías e inténtalo de nuevo"
+SPLLVLNEG		"Tu nivel de invocación debe ser mayor"
+SPLMANA			"Debes recuperar maná primero"
+SPLMISTAL		"Faltan algunos de los talismanes necesarios"
+SPLCASTOK		"Hechizo lanzado con éxito"
+SPLCASTFAIL		"Hechizo fallido"
+SPLOUTTAL		"No quedan más talismanes de ese tipo."
+SPLNOTAL		"No es un hechizo válido."
 
 // Stat change information
-STATMODS	"Stat Mods:"
-STATBADCMD	"Bad command in stats:"
-STATINVTIME	"Invalid value for stat time.  Val:"
-STATINVMOD	"Invalid value for stat mod  Val:"
+STATMODS	"Modificadores de estadísticas:"
+STATBADCMD	"Comando incorrecto en estadísticas:"
+STATINVTIME	"Valor inválido para tiempo de estadística. Val:"
+STATINVMOD	"Valor inválido para modificación de estadística. Val:"
 STATVAL		"Val:"
-STATCHEAT	"You cheatin SOB!"
+STATCHEAT	"¡Estás haciendo trampa, desgraciado!"
 
 // Door / Container Messages
-DOORLOCKED		"It seems to be locked"
-CONTPVIALRACK	"Poison Vial put in Vial Rack."
-CONTPVIALTAKE	"Poison Vial taken from Vial Rack."
-CONTFULL		"Can't carry any more."
-CONTUNLOCK		"The lock quietly yields to your skills."
-CONTPICKFAIL	"You fail to pick the lock."
-CONTPICKTOUGH	"The lock is too difficult to pick."
-CONTWRONGKEY	"This is the wrong key."
-CONTUNLOCKED	"Unlocked."
-CONTPUTIN		"put in"
-CONTCLOSED		"closed."
-CONTOPENED		"opened."
-CONTTAKENFROM	"taken from"
-CONTISCLOSED	"is closed."
-CONTISLOCKED	"It seems to be locked."
-CONTPICKUP		"Picked up"
+DOORLOCKED		"Parece estar cerrada con llave"
+CONTPVIALRACK	"Frasco de veneno colocado en el estante."
+CONTPVIALTAKE	"Frasco de veneno tomado del estante."
+CONTFULL		"No puedes llevar más."
+CONTUNLOCK		"La cerradura cede silenciosamente a tus habilidades."
+CONTPICKFAIL	"No logras forzar la cerradura."
+CONTPICKTOUGH	"La cerradura es demasiado difícil de forzar."
+CONTWRONGKEY	"Esta no es la llave correcta."
+CONTUNLOCKED	"Desbloqueado."
+CONTPUTIN		"colocado en"
+CONTCLOSED		"cerrado."
+CONTOPENED		"abierto."
+CONTTAKENFROM	"tomado de"
+CONTISCLOSED	"está cerrado."
+CONTISLOCKED	"Parece estar cerrada con llave."
+CONTPICKUP		"Recogido"
 
 // Use
-USENOTHING	"There is nothing to use"
-GETNOTHING	"There is nothing to get"
-CARRYFULL	"Can't carry any more in current container."
-CARRYFULL2	"Can't carry any more."
-TAKECORPSE	"taken from corpse of"
-TALKTO		"Talk to"
-
+USENOTHING	"No hay nada que usar"
+GETNOTHING	"No hay nada que recoger"
+CARRYFULL	"No puedes llevar más en el contenedor actual."
+CARRYFULL2	"No puedes llevar más."
+TAKECORPSE	"tomado del cadáver de"
+TALKTO		"Hablar con"
 // Base Words
-BASEUSE		"Use"
-BASEGET		"Get"
-BASEHIT		"Hit vs."
-BASEMISS	"Missed"
-BASEDMG		"Dmg"
+BASEUSE		"Usar"
+BASEGET		"Obtener"
+BASEHIT		"Golpe contra"
+BASEMISS	"Falló"
+BASEDMG		"Daño"
 BASEDEF		"Def"
-BASEOFF		"Off"
-BASEFATIGUE	"Fatigued blow vs."
-BASEDOUBLE	"Critical strike vs."
-BASEMINOR	"Light Hit vs."
-BASESMALL	"Weak Hit vs."
-BASEGLANCE	"Glancing Blow vs."
-BASECREATED	"Created"
-BASEARROW	"Arrow hit vs."
-BASEMILK	"got milk?"
-BASETHE	"The"
-BASEENTERED	"entered"
-BASEITWAS	"It was"
-BASEMIDNIGHT "midnight"
-BASEMORNING	"morning"
-BASEDAYTIME "daytime"
-BASENOON	"noon"
-BASEEVENING "evening"
-BASENIGHT	"night"
-BASEDROPEPED "dropped."
-BASEEQUIPED	"equiped"
+BASEOFF		"Atq"
+BASEFATIGUE	"Golpe fatigado contra"
+BASEDOUBLE	"Ataque crítico contra"
+BASEMINOR	"Golpe leve contra"
+BASESMALL	"Golpe débil contra"
+BASEGLANCE	"Golpe de refilón contra"
+BASECREATED	"Creado"
+BASEARROW	"Flecha golpea a"
+BASEMILK	"¿tienes leche?"
+BASETHE		"El"
+BASEENTERED	"entró"
+BASEITWAS	"Era"
+BASEMIDNIGHT "medianoche"
+BASEMORNING	"mañana"
+BASEDAYTIME "día"
+BASENOON	"mediodía"
+BASEEVENING "tarde"
+BASENIGHT	"noche"
+BASEDROPEPED "soltado."
+BASEEQUIPED	"equipado"
 
 // Stat description
-STATCFGLEV	"Level"
+STATCFGLEV	"Nivel"
 STATCFGEXP	"Exp"
-STATCFGNEXP	"NextExp"
-STATCFGHLTH	"Health"
-STATCFGSTRN	"Strength"
-STATCFGCONS	"Consitution"
-STATCFGLUCK	"Luck"
-STATCFGRFLX	"Reflex"
-STATCFGAGIL	"Agility"
-STATCFGATK  "Attack"
-STATCFGDEF	"Defense"
-STATCFGINV	"Invoke"
-STATCFGHAN	"Hands"
-STATCFGKNF	"Knife"
-STATCFGSWR	"Sword"
-STATCFGBLD	"Bludgeon"
-STATCFGAXE	"Axes"
-STATCFGBOW	"Bows"
-STATCFGSLT	"Stealth"
-STATCFGLPK	"LockPick"
-STATCFGATKE	"Attack Experience"
-STATCFGDEEF	"Defense Experience"
-STATCFGINVE	"Invoke Experience"
-STATCFGHANE	"Hands Experience"
-STATCFGKNFE	"Knife Experience"
-STATCFGSWRE	"Sword Experience"
-STATCFGBLDE	"Bludgeon Experience"
-STATCFGAXEE	"Axes Experience"
-STATCFGBOWE	"Bows Experience"
-STATCFGSLTE	"Stealth Experience"
-STATCFGLPKE	"LockPick Experience"
-STATCFGATKN "Attack"
-STATCFGDEFN	"Defense"
-STATCFGINVN	"Invoke"
-STATCFGHANN	"Hands"
-STATCFGKNFN	"Knife"
-STATCFGSWRN	"Sword"
-STATCFGBLDN	"Bludgeon"
-STATCFGAXEN	"Axes"
-STATCFGBOWN	"Bows"
-STATCFGSLTN	"Stealth"
-STATCFGLPKN	"LockPick"
-STATCFGHPCT	"Health Increase"
-STATCFGMPCT	"Mana Increase"
-STATCFGFPCT	"Fatigue Increase"
-STATCFGMHFT	"Max Health Increase"
-STATCFGMMFT	"Max Mana Increase"
-STATCFGMFFT	"Max Fatigue Increase"
-STATCFGMHPC	"Max Health Percentage Increase"
-STATCFGMMPC	"Max Mana Percentage Increase"
-STATCFGMFPC	"Max Fatigue Percentage Increase"
-STATCFGACBN	"Armor Class Bonus"
-STATCFGMCPC	"Mana Use Bonus"
+STATCFGNEXP	"Próx. Exp"
+STATCFGHLTH	"Salud"
+STATCFGSTRN	"Fuerza"
+STATCFGCONS	"Constitución"
+STATCFGLUCK	"Suerte"
+STATCFGRFLX	"Reflejos"
+STATCFGAGIL	"Agilidad"
+STATCFGATK  "Ataque"
+STATCFGDEF	"Defensa"
+STATCFGINV	"Invocar"
+STATCFGHAN	"Manos"
+STATCFGKNF	"Cuchillo"
+STATCFGSWR	"Espada"
+STATCFGBLD	"Maza"
+STATCFGAXE	"Hachas"
+STATCFGBOW	"Arcos"
+STATCFGSLT	"Sigilo"
+STATCFGLPK	"Ganzúa"
+STATCFGATKE	"Experiencia en ataque"
+STATCFGDEEF	"Experiencia en defensa"
+STATCFGINVE	"Experiencia en invocación"
+STATCFGHANE	"Experiencia en manos"
+STATCFGKNFE	"Experiencia en cuchillo"
+STATCFGSWRE	"Experiencia en espada"
+STATCFGBLDE	"Experiencia en maza"
+STATCFGAXEE	"Experiencia en hachas"
+STATCFGBOWE	"Experiencia en arcos"
+STATCFGSLTE	"Experiencia en sigilo"
+STATCFGLPKE	"Experiencia en ganzúa"
+STATCFGATKN "Ataque"
+STATCFGDEFN	"Defensa"
+STATCFGINVN	"Invocar"
+STATCFGHANN	"Manos"
+STATCFGKNFN	"Cuchillo"
+STATCFGSWRN	"Espada"
+STATCFGBLDN	"Maza"
+STATCFGAXEN	"Hachas"
+STATCFGBOWN	"Arcos"
+STATCFGSLTN	"Sigilo"
+STATCFGLPKN	"Ganzúa"
+STATCFGHPCT	"Aumento de salud"
+STATCFGMPCT	"Aumento de maná"
+STATCFGFPCT	"Aumento de fatiga"
+STATCFGMHFT	"Aumento de salud máxima"
+STATCFGMMFT	"Aumento de maná máximo"
+STATCFGMFFT	"Aumento de fatiga máxima"
+STATCFGMHPC	"Aumento porcentual de salud máxima"
+STATCFGMMPC	"Aumento porcentual de maná máximo"
+STATCFGMFPC	"Aumento porcentual de fatiga máxima"
+STATCFGACBN	"Bonificación de clase de armadura"
+STATCFGMCPC	"Bonificación de uso de maná"
 
 
 //Scrolls and Books
 
-MGCSCRL1 "Level 1 Magic Scroll\n"\
-	"Fire Flash: Moon and Sky Talismans\n"\ 
-	"Nourish: Life Talisman\n"\
-	"Might: Soul Talisman\n"\
-	"Fist Mastery: Life and Soul Talismans\n"\
-	"Cure Poison: Life and Sky Talismans\n"\
-	"Poison: Moon Talisman"
+MGCSCRL1 "Pergamino Mágico de Nivel 1\n"\
+	"Destello de Fuego: Talismanes de Luna y Cielo\n"\
+	"Nutrir: Talismán de Vida\n"\
+	"Poder: Talismán de Alma\n"\
+	"Maestría del Puño: Talismanes de Vida y Alma\n"\
+	"Curar Veneno: Talismanes de Vida y Cielo\n"\
+	"Veneno: Talismán de Luna"
 
-MGCSCRL2 "Level 2 Magic Scroll\n"\
-	"Meteor Storm: Earth and Sky Talismans\n"\
-	"Quick Sand: Earth and Ocean Talismans\n"\
-	"Regeneration: Life and Earth Talismans\n"\
-	"Dexterity: Soul and Stars Talismans\n"\
-	"Anti-Magic: Stars and Sky Talismans\n"\
-	"Swift Strike: Ocean and Moon Talismans"
+MGCSCRL2 "Pergamino Mágico de Nivel 2\n"\
+	"Tormenta de Meteoros: Talismanes de Tierra y Cielo\n"\
+	"Arenas Movedizas: Talismanes de Tierra y Océano\n"\
+	"Regeneración: Talismanes de Vida y Tierra\n"\
+	"Dexteridad: Talismanes de Alma y Estrellas\n"\
+	"Antimagia: Talismanes de Estrellas y Cielo\n"\
+	"Golpe Rápido: Talismanes de Océano y Luna"
 
-MGCSCRL3 "Level 3 Magic Scroll\n"\
-	"Tornado: Earth and Stars and Sky Talismans\n"\
-	"Swamp Pit: Ocean and Life and Earth Talismans\n"\
-	"Stone Skin: Moon and Earth Talismans\n"\
-	"Speed: Soul and Life and Stars Talismans\n"\
-	"Physical Paralysis: Life and Moon and Soul Talismans\n"\
-	"Shadow Fist: Stars and Moon Talismans"
+MGCSCRL3 "Pergamino Mágico de Nivel 3\n"\
+	"Tornado: Talismanes de Tierra, Estrellas y Cielo\n"\
+	"Foso Pantanoso: Talismanes de Océano, Vida y Tierra\n"\
+	"Piel de Piedra: Talismanes de Luna y Tierra\n"\
+	"Velocidad: Talismanes de Alma, Vida y Estrellas\n"\
+	"Parálisis Física: Talismanes de Vida, Luna y Alma\n"\
+	"Puño Sombrío: Talismanes de Estrellas y Luna"
 
-MGCSCRL4 "Level 4 Magic Scroll\n"\
-	"Lightning Bolt: Sun and Sky Talismans\n"\
-	"Fire Wind: Sun and Soul and Stars Talismans\n"\
-	"Healing: Life and Soul and Sun Talismans\n"\
-	"Charm: Stars and Sun Talismans\n"\
-	"Fire Ball: Sun and Stars Talismans"
+MGCSCRL4 "Pergamino Mágico de Nivel 4\n"\
+	"Rayo: Talismanes de Sol y Cielo\n"\
+	"Viento Ígneo: Talismanes de Sol, Alma y Estrellas\n"\
+	"Sanación: Talismanes de Vida, Alma y Sol\n"\
+	"Hechizo de Encanto: Talismanes de Estrellas y Sol\n"\
+	"Bola de Fuego: Talismanes de Sol y Estrellas"
 
-MGCSCRL5 "Level 5 Magic Scroll Talismans\n"\
-	"Fire Ball: Sun and Stars Talismans\n"\
-	"Blood Drain: Soul and Sun and Life Talismans\n"\
-	"Mana Drain: Moon and Soul and Stars Talismans\n"\
-	"Warrior Born: Sun and Moon and Stars and Sky Talismans\n"\
-	"Invisibility: Sky and Soul Talismans"
+MGCSCRL5 "Pergamino Mágico de Nivel 5\n"\
+	"Bola de Fuego: Talismanes de Sol y Estrellas\n"\
+	"Drenaje de Sangre: Talismanes de Alma, Sol y Vida\n"\
+	"Drenaje de Maná: Talismanes de Luna, Alma y Estrellas\n"\
+	"Nacido Guerrero: Talismanes de Sol, Luna, Estrellas y Cielo\n"\
+	"Invisibilidad: Talismanes de Cielo y Alma"
 
-MGCSCRL6 "Level 6 Magic Scroll Talismans\n"\
-	"Rock Storm: Earth and Sky and Law Talismans\n"\
-	"Cataclysm: Law and Life and Earth and Sky Talismans\n"\
-	"Troll Blood: Law and Life Talismans\n"\
-	"Iron Skin: Ward and Earth and Moon Talismans\n"\
-	"Neural Paralysis: Ward and Soul and Life and Stars Talismans"
+MGCSCRL6 "Pergamino Mágico de Nivel 6\n"\
+	"Tormenta de Rocas: Talismanes de Tierra, Cielo y Ley\n"\
+	"Cataclismo: Talismanes de Ley, Vida, Tierra y Cielo\n"\
+	"Sangre de Troll: Talismanes de Ley y Vida\n"\
+	"Piel de Hierro: Talismanes de Protección, Tierra y Luna\n"\
+	"Parálisis Neural: Talismanes de Protección, Alma, Vida y Estrellas"
 
-MGCSCRL7 "Level 7 Magic Scroll Talismans\n"\
-	"Napalm: Sun and Sky and Law Talismans\n"\
-	"Ice Storm: Ocean and Life and Law Talismans\n"\
-	"Ogre Strength: Earth and Moon and Law and Ward Talismans\n"\
-	"Weapon Mastery: Moon and Sun and Soul and Sky Talismans\n"\
-	"Nullifier: Ward and Soul Talismans"
+MGCSCRL7 "Pergamino Mágico de Nivel 7\n"\
+	"Napalm: Talismanes de Sol, Cielo y Ley\n"\
+	"Tormenta de Hielo: Talismanes de Océano, Vida y Ley\n"\
+	"Fuerza de Ogro: Talismanes de Tierra, Luna, Ley y Protección\n"\
+	"Maestría con Armas: Talismanes de Luna, Sol, Alma y Cielo\n"\
+	"Anulador: Talismanes de Protección y Alma"
 
-MGCSCRL8 "Level 8 Magic Scroll Talismans\n"\
-	"Ice Bolt: Ocean and Sky and Life Talismans\n"\
-	"Armageddon: Stars and Earth and Sky Talismans\n"\
-	"Advanced Healing: Law and Soul and Life Talismans\n"\
-	"Quicksilver: Sky and Ocean and Earth Talismans\n"\
-	"Full Paralysis: Ward and Life and Soul and Moon Talismans"
+MGCSCRL8 "Pergamino Mágico de Nivel 8\n"\
+	"Proyectil de Hielo: Talismanes de Océano, Cielo y Vida\n"\
+	"Armagedón: Talismanes de Estrellas, Tierra y Cielo\n"\
+	"Sanación Avanzada: Talismanes de Ley, Alma y Vida\n"\
+	"Mercurio: Talismanes de Cielo, Océano y Tierra\n"\
+	"Parálisis Total: Talismanes de Protección, Vida, Alma y Luna"
 
-MGCSCRL9 "Level 9 Magic Scroll Talismans\n"\
-	"Vampiric Drain: Death and Life and Soul Talismans\n"\
-	"Crystalism: Stars and Sky and Death and Chaos Talismans\n"\
-	"Essence Drain: Soul and Chaos Talismans\n"\
-	"Aura: Ward and Life and Soul and Stars Talismans"
+MGCSCRL9 "Pergamino Mágico de Nivel 9\n"\
+	"Drenaje Vampírico: Talismanes de Muerte, Vida y Alma\n"\
+	"Cristalismo: Talismanes de Estrellas, Cielo, Muerte y Caos\n"\
+	"Drenaje de Esencia: Talismanes de Alma y Caos\n"\
+	"Aura: Talismanes de Protección, Vida, Alma y Estrellas"
 
-MGCSCRL10 "Level 10 Magic Scroll Talismans\n"\
-	"Maelstrom: Death and Chaos Talismans\n"\
-	"Restore Life: Life and Soul and Law Talismans\n"\
-	"Immortal Might: Soul and Earth and Moon and Chaos Talismans"
+MGCSCRL10 "Pergamino Mágico de Nivel 10\n"\
+	"Vorágine: Talismanes de Muerte y Caos\n"\
+	"Restaurar Vida: Talismanes de Vida, Alma y Ley\n"\
+	"Poder Inmortal: Talismanes de Alma, Tierra, Luna y Caos"
+
 
 MIBOOK "Military Intelligence on the 'Children of the Change Cult'\n"\
 	"Compiled by Geralt, official scribe of the city of Ahkuilon\n"\
