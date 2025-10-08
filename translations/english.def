@@ -349,158 +349,157 @@ MGCSCRL10 "Pergamino Mágico de Nivel 10\n"\
 	"Poder Inmortal: Talismanes de Alma, Tierra, Luna y Caos"
 
 
-MIBOOK "Military Intelligence on the 'Children of the Change Cult'\n"\
-	"Compiled by Geralt, official scribe of the city of Ahkuilon\n"\
-	"The following text represents all our knowledge of the origins, "\
-	"practices, and ranks of the 'Children of the Change Cult.' We "\
-	"were first made aware of the presence of the cult when the normally "\
-	"reclusive Ogrok�s began attacking villagers who had ventured into the forests. "\ 
-	"Tendrick sent out a garrison to discuss the matter with the Ogrok Chief, but "\
-	"the garrison was never heard from again. Thinking a war with the Ogrok was imminent, "\
-	"Tendrick ordered the city walls sealed and that no man should venture past the confines "\
-	"of the city. Shortly thereafter cloaked priests besieged the town. Using magic beyond "\
-	"our knowledge, the priests would raid the city and abduct townspeople. It was soon "\
-	"discovered that the abducted townspeople were being converted into cult members with powerful "\
-	"control magic. The more citizens were taken from the city, the larger the ranks of the priests "\
-	"would grow. We are under the assumption that the cult has formed their base of operations on the "\
-	"eastern side of Ahkuilon, possibly in the ruins of the ancient empire. As of now, nothing is "\
-	"known about the origins of the cult or their intentions. The armies of the cult are not entirely "\
-	"made up of the magic using priests. We have visual confirmation that the cult has employed a wide "\
-	"variety of creatures to enforce their ranks. Most of those taken from the city have been "\
-	"converted into the priests who make up the bulk of the cults ranks. However, Tendrick�s own "\
-	"Royal Guard has been decimated by the cult. They have taken these highly trained warriors and "\
-	"turned them against the very people they once protected. From the far off lands of the East "\
-	"the Cult has acquired the services of monks and assassins who are highly trained in the martial "\
-	"arts. As stated earlier, the magic powers possessed by the cult are formidable. They have used "\
-	"these powers to raise giants from the elements to solidify their death grip on the island. "\ 
-	"It has also been confirmed that the cult has a large number of the undead in its ranks. "\
-	"In addition, the priests have called forth Dark Revenants. These ferocious warrior mages "\
-	"are without souls... and without mercy. Clearly the situation could not appear to be much "\
-	"worse for our beloved city; it would seem we have little cause for hope.\n"\ 
-	"That concludes this report of all currently available information on the scourge "\
-	"that is the 'Children of the Change' cult.\n"\ 
-	"Signed by Geralt, official scribe to the city of Ahkuilon"  
+MIBOOK "Inteligencia Militar sobre los 'Hijos del Culto del Cambio'\n"\
+	"Compilado por Geralt, escriba oficial de la ciudad de Ahkuilon\n"\
+	"El siguiente texto representa todo nuestro conocimiento sobre los orígenes, "\
+	"prácticas y rangos de los 'Hijos del Culto del Cambio'. Fuimos conscientes por primera vez "\
+	"de la presencia del culto cuando los normalmente reclusos Ogrok comenzaron a atacar a los aldeanos "\ 
+	"que se aventuraban en los bosques. Tendrick envió una guarnición para discutir el asunto con el "\
+	"Jefe Ogrok, pero nunca se volvió a saber de ellos. Pensando que una guerra con los Ogrok era inminente, "\
+	"Tendrick ordenó sellar los muros de la ciudad y que ningún hombre saliera más allá de sus límites. "\
+	"Poco después, sacerdotes encapuchados sitiaron la ciudad. Usando magia más allá de nuestro conocimiento, "\
+	"los sacerdotes asaltaban la ciudad y secuestraban a los habitantes. Pronto se descubrió que los "\
+	"secuestrados estaban siendo convertidos en miembros del culto mediante poderosos hechizos de control. "\
+	"Cuantos más ciudadanos eran llevados de la ciudad, más crecían las filas de los sacerdotes. "\
+	"Suponemos que el culto ha establecido su base de operaciones en el lado oriental de Ahkuilon, "\
+	"posiblemente en las ruinas del antiguo imperio. Hasta ahora, no se sabe nada sobre los orígenes "\
+	"del culto ni sobre sus intenciones. Los ejércitos del culto no están compuestos únicamente por "\
+	"los sacerdotes que usan magia. Tenemos confirmación visual de que el culto ha empleado una amplia "\
+	"variedad de criaturas para reforzar sus filas. La mayoría de los que fueron tomados de la ciudad "\
+	"han sido convertidos en sacerdotes que constituyen la base del culto. Sin embargo, la propia "\
+	"Guardia Real de Tendrick ha sido diezmada por el culto. Han tomado a estos guerreros altamente entrenados "\
+	"y los han vuelto contra el mismo pueblo que una vez protegieron. Desde las lejanas tierras del Este, "\
+	"el culto ha adquirido los servicios de monjes y asesinos altamente entrenados en las artes marciales. "\
+	"Como se mencionó antes, los poderes mágicos que posee el culto son formidables. Han usado "\
+	"estos poderes para levantar gigantes de los elementos y consolidar su mortal dominio sobre la isla. "\ 
+	"También se ha confirmado que el culto cuenta con un gran número de no muertos en sus filas. "\
+	"Además, los sacerdotes han invocado a los Oscuros Revenants. Estos feroces magos guerreros "\
+	"carecen de alma... y de piedad. Claramente, la situación no podría parecer mucho peor "\
+	"para nuestra amada ciudad; parecería que tenemos pocas razones para la esperanza.\n"\ 
+	"Esto concluye este informe con toda la información actualmente disponible sobre la plaga "\
+	"que representa el culto de los 'Hijos del Cambio'.\n"\ 
+	"Firmado por Geralt, escriba oficial de la ciudad de Ahkuilon"  
 
-PCBOOK "Predatory Creatures of Ahkuilon "\
-	"Compiled by Geralt, official scribe of the city of Ahkuilon\n"\
-	"The following document is intended as a reference of all known predatory creatures of the island of Ahkuilon.\n"\
-	"While the island of Ahkuilon is world renowned for it�s beautiful forests, streams, and lakes, it "\
-	"is perhaps best known for the variety of creatures which inhabit them. Ahkuilon is host to a "\
-	"large population of creatures and many of them are unique to the island. It is unfortunate that "\
-	"many of these creatures are known to be hostile towards man. The first of these is the Druhg. "\
-	"The Druhg are small goblin-like creatures with limited intelligence. They will attack mostly to "\
-	"steal the victims� belongings and will usually flee when injured. They are known to attack "\
-	"in-groups of two to three.\n"\
-	"The Kantha is a breed of canine we now know was once domesticated by the ancient Ahkuilonians. "\
-	"Today they are wild and ravenous. Kantha are relatively weak and don�t represent much of a threat "\
-	"to a trained fighter.\n"\
-	"The Hopper is a dangerous amphibious creature known for their ability to jump large distances. "\
-	"They have gaping mouths filled with razor sharp teeth and have a reputation for biting off the "\
-	"heads of their victims.\n"\
-	"The Arakna and their smaller cousins, the Araknid are common throughout the island. It is said "\
-	"that the Arakna are controlled by mythical creatures that were created from a sorcerous union "\
-	"between the Arakna and humans, but this is unconfirmed.\n"\
-	"The Ogrok are a race of creatures that needs no introduction. They are well known throughout "\
-	"the world of Ur for their ferocity in combat. Although the Ogrok are of relatively low intelligence, "\
-	"they more than make up for this in size and power.\n"\
-	"The Dragons of Ahkuilon are among the few remaining on the world of Ur. While lacking the size "\
-	"and intelligence of their ancient ancestors, the dragons of Ahkuilon still make for formidable enemies.\n"\
-	"Two creatures unique to Ahkuilon are the Issathi and Lurker. Both are reptilian in nature and are "\
-	"known to relish the taste of human flesh. Extreme caution is advised when dealing with either of "\
-	"these vicious man-killers.\n"\
-	"This concludes my account of the known predatory creatures of Ahkuilon. It is impossible to "\
-	"know how complete this list is due to the largely unexplored caves and ancient ruins. "\
-	"It is certainly within the realm of possibility that many undocumented species of predator "\
-	"may still be awaiting our discovery.\n"\
-	"Signed by Geralt, official scribe to the city of Ahkuilon."
+PCBOOK "Criaturas Depredadoras de Ahkuilon "\
+	"Compilado por Geralt, escriba oficial de la ciudad de Ahkuilon\n"\
+	"El siguiente documento se presenta como una referencia de todas las criaturas depredadoras conocidas de la isla de Ahkuilon.\n"\
+	"Aunque la isla de Ahkuilon es mundialmente reconocida por sus hermosos bosques, arroyos y lagos, "\
+	"quizás sea mejor conocida por la variedad de criaturas que los habitan. Ahkuilon alberga una "\
+	"gran población de criaturas, muchas de ellas únicas en la isla. Es lamentable que "\
+	"muchas de estas criaturas sean hostiles hacia el hombre. La primera de ellas es el Druhg. "\
+	"Los Druhg son pequeñas criaturas parecidas a goblins con inteligencia limitada. Atacan principalmente "\
+	"para robar las pertenencias de sus víctimas y usualmente huyen cuando resultan heridas. "\
+	"Se sabe que atacan en grupos de dos o tres.\n"\
+	"El Kantha es una raza de caninos que ahora sabemos fue domesticada alguna vez por los antiguos Ahkuilonianos. "\
+	"Hoy en día son salvajes y voraces. Los Kantha son relativamente débiles y no representan gran amenaza "\
+	"para un luchador entrenado.\n"\
+	"El Saltador (Hopper) es una peligrosa criatura anfibia conocida por su capacidad para saltar grandes distancias. "\
+	"Tienen enormes bocas llenas de dientes afilados como cuchillas y tienen fama de arrancar de un mordisco "\
+	"la cabeza de sus víctimas.\n"\
+	"Las Arakna y sus primas más pequeñas, las Araknid, son comunes en toda la isla. Se dice "\
+	"que las Arakna están controladas por criaturas míticas creadas a partir de una unión mágica "\
+	"entre Arakna y humanos, aunque esto no ha sido confirmado.\n"\
+	"Los Ogrok son una raza de criaturas que no necesita presentación. Son bien conocidos en todo "\
+	"el mundo de Ur por su ferocidad en combate. Aunque los Ogrok tienen una inteligencia relativamente baja, "\
+	"compensan esto con su tamaño y fuerza.\n"\
+	"Los Dragones de Ahkuilon están entre los pocos que aún existen en el mundo de Ur. Aunque carecen del tamaño "\
+	"y la inteligencia de sus antiguos ancestros, los dragones de Ahkuilon siguen siendo enemigos formidables.\n"\
+	"Dos criaturas únicas de Ahkuilon son el Issathi y el Acechador (Lurker). Ambos son de naturaleza reptiliana "\
+	"y se sabe que disfrutan del sabor de la carne humana. Se recomienda extrema precaución al enfrentarse "\
+	"a cualquiera de estos feroces asesinos de hombres.\n"\
+	"Esto concluye mi informe sobre las criaturas depredadoras conocidas de Ahkuilon. Es imposible "\
+	"saber cuán completa es esta lista debido a las cuevas y ruinas antiguas en gran parte inexploradas. "\
+	"Es ciertamente posible que muchas especies depredadoras no documentadas aún estén esperando ser descubiertas.\n"\
+	"Firmado por Geralt, escriba oficial de la ciudad de Ahkuilon."
 
-CATBOOK "THE CATACLYSM \n"\
-"Thousands of thousands of years ago. In a time before time was kept, the world of Ur was the "\
-"playground of the gods. They took pleasures in developing their world, each responsible for an "\
-"aspect. They were all its creator, they were all its shaper. The world grew and prospered under their rule. "\
-"Then Nakith, the god of Nights, grew weary and tired. He bored of the eternal surrender to Sollus, "\
-"the god of Days. He decided to use his power and create a new god, Sha, who was the god of Darkness. "\
-"The Council from the beginning forbade the act of creating another god. \n"\
-"The Council of gods voted and decided to levy action against Nakith. The vote was close however, Nakith "\
-"had many friends on the council who didn�t want to see him come into any ill will. It was after this vote "\
-"that the split occurred, and Nakith and the other gods in his camp separated themselves from the others. "\
-"Nakith and his group, calling themselves �Evil� waged war against the other gods, who called themselves "\
-"'Good'. This war was taken from the heavens to the world of Ur itself. The paradise that the gods collectively "\
-"created had now become their battleground. The populous, who worshiped these gods, and built Empires in their "\
-"name were torn in the middle. They too waged wars against one another for the control of Ur. The battles "\
-"raged for millennia, and at the end the immortal gods decided to leave Ur and move on to other things. "\
-"This left the world a scarred, bitter place. And the people that survived it refugees with nowhere to turn to. \n"\
-"This is the world of millennia ago, and it is the world today. The scars of the Cataclysm still mar the "\
-"landscapes, and dark beasts roam the land. Unchecked magic bubbles beneath the earth, bursting forth at "\
-"random intervals. \n"\
-"The gods were gone. All inspiration and achievement went with them. Ur would forever remain the scarred world it is."
+CATBOOK "EL CATACLISMO \n"\
+"Mil miles de años atrás. En un tiempo antes de que el tiempo fuera medido, el mundo de Ur era el "\
+"parque de juegos de los dioses. Se deleitaban en desarrollar su mundo, cada uno responsable de un "\
+"aspecto. Todos eran sus creadores, todos sus modeladores. El mundo creció y prosperó bajo su gobierno. "\
+"Entonces Nakith, el dios de las Noches, se cansó y agotó. Se aburrió de la eterna rendición ante Sollus, "\
+"el dios de los Días. Decidió usar su poder y crear un nuevo dios, Sha, el dios de la Oscuridad. "\
+"El Consejo, desde el principio, prohibió el acto de crear otro dios. \n"\
+"El Consejo de los dioses votó y decidió tomar medidas contra Nakith. La votación fue ajustada, sin embargo, "\
+"Nakith tenía muchos amigos en el consejo que no querían verle sufrir ningún mal. Fue después de esta votación "\
+"que ocurrió la división, y Nakith y los otros dioses de su bando se separaron de los demás. "\
+"Nakith y su grupo, llamándose a sí mismos 'Mal', declararon la guerra a los otros dioses, que se llamaban "\
+"'Bien'. Esta guerra pasó de los cielos al propio mundo de Ur. El paraíso que los dioses habían creado colectivamente "\
+"se convirtió ahora en su campo de batalla. Los pueblos que adoraban a estos dioses y construyeron imperios en su "\
+"nombre quedaron atrapados en medio. Ellos también libraron guerras entre sí por el control de Ur. Las batallas "\
+"rugieron durante milenios, y al final los dioses inmortales decidieron abandonar Ur y seguir adelante con otras cosas. "\
+"Esto dejó al mundo marcado y amargado. Y a los pueblos que sobrevivieron, refugiados sin un lugar al que acudir. \n"\
+"Este es el mundo de hace milenios, y es el mundo de hoy. Las cicatrices del Cataclismo aún mancillan los "\
+"paisajes, y las bestias oscuras vagan por la tierra. La magia descontrolada hierve bajo la tierra, estallando "\
+"en intervalos aleatorios. \n"\
+"Los dioses se habían ido. Toda la inspiración y el logro se fueron con ellos. Ur permanecería para siempre como el mundo marcado que es."
 
-WARBOOK "THE WARRIOR CLANS \n"\
-"My blades raised high! \n"\
-"My enemies before me! \n"\
-"My arm swings without tire! \n"\
-"My arm swings for victory! \n"\
-"�Ancient Clan Battlesong� \n"\
-"The inner wastes. It was here that the first Warrior Clans rose. After the Cataclysm, the most charismatic "\
-"and powerful of the barbarians formed Clans and began the slow process of rebuilding. The Clans moved across "\
-"the waste to the more fertile lands of the west and south. There they found some small settlements that had "\
-"already been established, but they were weak and defenseless. The Clan leaders rose up and conquered these "\
-"settlements, and came to be known as Warlords. \n"\
-"The Warlords built strongholds among the various settlements that they had dominated. They immediately "\
-"began erecting powerful and prosperous houses. They taxed their populace heavily, exacting a hard toll "\
-"from everyone who lived under them. Eventually, the Warlords began to fight among themselves for power. "\
-"Being raiders at heart, they couldn�t help but interfere in each other�s business. Eventually the espionage "\
-"and politics of war became so much of a hassle that the Warlords established rules that allowed them to "\
-"undertake wars without open battle. Guilds of assassins, spies, and mercenaries were formed, as well as "\
-"organizations of priests, sorcerers, and seers. These Guilds and Orders would play key roles in the New Order. "\
-"The gods might have forsaken Ur, but the Warlords took the rebuilding of it to heart. \n"\
-"Each Warlord was allowed to defend his territories and rights by use of the orders, and it was allowed "\
-"within certain guidelines that the orders could be used for espionage, and assassination. Anyone who failed "\
-"to follow the code of the orders would face the combined wrath of the other Warlords. If an unwarranted "\
-"assassination should take place, one Warlord take unnecessary arms against another, or large numbers of "\
-"non-combatants were killed, the combined might of all the other Warlords would fall upon the offending "\
-"house and destroy him, dividing up the spoils amongst themselves. The code was adhered to, and has been to this day."
 
-CHUBOOK "THE CHURCH \n"\
-"There are those that believe that the Cataclysm should have destroyed Ur and all that live upon it. "\
-"It was only by oversight that the gods did not make sure that the world was completely barren. It was "\
-"this fact that allowed the Warrior Clans to rise and begin the long, slow process of rebuilding a world "\
-"sans divine intervention. \n"\
-"Then there are those that believe that the old gods can be summoned back to Ur. They have formed entire "\
-"communities of followers that believe that their actions can return the gods to the pantheons. They believe "\
-"that bringing the old gods back to Ur, they will incur some sort of reward for their doings. \n"\
-"Then there are those that do not believe that gods ever existed. To them I say, look around you! "\
-"The world of Ur is a sad reminder of what they once were. The life that struggles to survive here "\
-"is hardened for a reason. To live here is a miracle, to survive, an impossibility. We even have "\
-"evidence of the gods treading in the form of artifacts from the Cataclysm. Magic weapons and talismans "\
-"from the forgotten age. Rumors of powerful weapons such as Angsaar need to start somehow. The gods were "\
-"here, and they did use Ur as a child would use a toy. But now they have broken it, and they have "\
-"forgotten about it just as easily."
+WARBOOK "LOS CLANES GUERREROS \n"\
+"¡Mis espadas en alto! \n"\
+"¡Mis enemigos ante mí! \n"\
+"¡Mi brazo se mueve sin cansancio! \n"\
+"¡Mi brazo se mueve por la victoria! \n"\
+"�Antigua Canción de Batalla del Clan� \n"\
+"Los desiertos interiores. Fue allí donde surgieron los primeros Clanes Guerreros. Después del Cataclismo, los más carismáticos "\
+"y poderosos de los bárbaros formaron Clanes y comenzaron el lento proceso de reconstrucción. Los Clanes se movieron a través "\
+"de los yermos hacia las tierras más fértiles del oeste y del sur. Allí encontraron algunos pequeños asentamientos que ya "\
+"habían sido establecidos, pero eran débiles y estaban indefensos. Los líderes de los Clanes se alzaron y conquistaron esos "\
+"asentamientos, llegando a ser conocidos como Señores de la Guerra. \n"\
+"Los Señores de la Guerra construyeron fortalezas entre los diversos asentamientos que habían dominado. Inmediatamente "\
+"comenzaron a erigir casas poderosas y prósperas. Gravaron fuertemente a su población, exigiendo un duro tributo "\
+"de todos los que vivían bajo su dominio. Con el tiempo, los Señores de la Guerra comenzaron a luchar entre sí por el poder. "\
+"Siendo saqueadores de corazón, no podían evitar entrometerse en los asuntos de los demás. Finalmente, la política y el espionaje "\
+"de la guerra se volvieron tan molestos que los Señores de la Guerra establecieron reglas que les permitían "\
+"librar guerras sin combate abierto. Se formaron gremios de asesinos, espías y mercenarios, así como "\
+"organizaciones de sacerdotes, hechiceros y videntes. Estos Gremios y Órdenes desempeñarían papeles clave en el Nuevo Orden. "\
+"Puede que los dioses hayan abandonado Ur, pero los Señores de la Guerra se tomaron en serio su reconstrucción. \n"\
+"A cada Señor de la Guerra se le permitía defender sus territorios y derechos mediante el uso de las órdenes, y se permitía "\
+"dentro de ciertas pautas que las órdenes se usaran para el espionaje y el asesinato. Cualquiera que no siguiera el código "\
+"de las órdenes enfrentaría la ira combinada de los demás Señores de la Guerra. Si debía producirse un asesinato injustificado, "\
+"si un Señor de la Guerra tomaba las armas innecesariamente contra otro, o si un gran número de no combatientes moría, "\
+"el poder combinado de todos los demás Señores de la Guerra caería sobre la casa infractora y la destruiría, dividiendo el botín entre ellos. "\
+"El código fue respetado entonces, y lo ha sido hasta el día de hoy."
 
-MAGBOOK "MAGIC \n"\
-"Magic on Ur is left to the Sorcerers, because in the wrong or untrained hands it can be "\
-"self-destructive. Trained sorcerers are capable of bending the forces of nature to their "\
-"will and perform feats that most would deem as miracles. \n"\
-"To do this, all sorcerers and mages need Talismans to focus their energies into a spell "\
-"effect. There are twelve different Talismans known on Ur, these are Life, Moon, Soul, Sky, "\
-"Sun, Stars, Earth, Law, Ocean, Ward, Chaos, and Death. \n"\
-"Each of these is used to manipulate an energy and only when they are combined in the proper "\
-"order, and with the proper talent, can a sorcerer fabricate a spell out of them. A sorcerer "\
-"might have everything required to cast a fireball spell, but without proper knowledge and "\
-"training, all he will end up doing is turning himself into a great big pile of ash and usually those around him too."
+CHUBOOK "LA IGLESIA \n"\
+"Hay quienes creen que el Cataclismo debería haber destruido Ur y a todos los que viven en él. "\
+"Fue solo por descuido que los dioses no se aseguraron de que el mundo quedara completamente desolado. "\
+"Este hecho permitió que los Clanes Guerreros surgieran y comenzaran el largo y lento proceso de reconstruir un mundo "\
+"sin intervención divina. \n"\
+"Luego están aquellos que creen que los antiguos dioses pueden ser invocados nuevamente en Ur. Han formado comunidades enteras "\
+"de seguidores que creen que sus acciones pueden devolver a los dioses a los panteones. Creen que al traer de vuelta a los antiguos dioses a Ur, "\
+"obtendrán algún tipo de recompensa por sus actos. \n"\
+"Y también están aquellos que no creen que los dioses hayan existido jamás. ¡A ellos les digo, miren a su alrededor! "\
+"El mundo de Ur es un triste recordatorio de lo que alguna vez fueron. La vida que lucha por sobrevivir aquí "\
+"está endurecida por una razón. Vivir aquí es un milagro; sobrevivir, una imposibilidad. Incluso tenemos "\
+"evidencia de los pasos de los dioses en forma de artefactos del Cataclismo: armas mágicas y talismanes "\
+"de una era olvidada. Los rumores sobre poderosas armas como Angsaar deben tener algún origen. Los dioses estuvieron "\
+"aquí, y usaron Ur como un niño usaría un juguete. Pero ahora lo han roto, y lo han "\
+"olvidado con la misma facilidad."
 
-TRABOOK "THE TRADE SYNDICATES \n"\
-"The world of Ur today is one of small fiefdoms, each one controlled and defended by a Lord and his "\
-"warrior retainers. Everyone owes their existence on the harsh world of Ur to the Warlords that arose "\
-"from the wastelands many years ago. \n"\
-"In Rugaard in the west, and in many other lands resettled after the Cataclysm, the fiefdoms have "\
-"achieved a tenuous unity. These alliances have allowed trade routes to be established between the "\
-"larger cities, with smaller trade cities popping up where the routes crossed. This led to the creation "\
-"of powerful Trade Syndicates who manage the trade between all the major cities, for their cut in the profits. \n"\
-"In many parts of the world however, such as the island of Ahkuilon, the holds are still relatively "\
-"small and not worth the attention of the powerful Syndicates. These places still struggle to defend "\
-"themselves from both the aggression of the Warlords and from the dark creatures and horrors remaining "\
-"after the Cataclysm."
+MAGBOOK "MAGIA \n"\
+"La magia en Ur queda en manos de los Hechiceros, porque en manos equivocadas o sin entrenamiento puede ser "\
+"autodestructiva. Los hechiceros entrenados son capaces de doblar las fuerzas de la naturaleza a su "\
+"voluntad y realizar hazañas que la mayoría consideraría milagros. \n"\
+"Para hacer esto, todos los hechiceros y magos necesitan Talismanes para enfocar sus energías en un efecto de hechizo. "\
+"Se conocen doce Talismanes diferentes en Ur: Vida, Luna, Alma, Cielo, "\
+"Sol, Estrellas, Tierra, Ley, Océano, Guardia, Caos y Muerte. \n"\
+"Cada uno de ellos se usa para manipular una energía, y solo cuando se combinan en el orden correcto "\
+"y con el talento adecuado, un hechicero puede fabricar un hechizo a partir de ellos. Un hechicero "\
+"puede tener todo lo necesario para lanzar un hechizo de bola de fuego, pero sin el conocimiento y el entrenamiento adecuados, "\
+"lo único que conseguirá será convertirse en un gran montón de cenizas... y normalmente a quienes estén a su alrededor también."
+
+TRABOOK "LOS SINDICATOS COMERCIALES \n"\
+"El mundo de Ur hoy es uno de pequeños feudos, cada uno controlado y defendido por un Señor y sus "\
+"guerreros vasallos. Todos deben su existencia en el duro mundo de Ur a los Señores de la Guerra que surgieron "\
+"de los páramos hace muchos años. \n"\
+"En Rugaard, en el oeste, y en muchas otras tierras repobladas después del Cataclismo, los feudos han "\
+"alcanzado una frágil unidad. Estas alianzas han permitido establecer rutas comerciales entre las "\
+"ciudades más grandes, con pequeñas ciudades mercantiles surgiendo donde las rutas se cruzan. Esto llevó a la creación "\
+"de poderosos Sindicatos Comerciales que gestionan el comercio entre todas las principales ciudades, a cambio de su parte de las ganancias. \n"\
+"Sin embargo, en muchas partes del mundo, como en la isla de Ahkuilon, los dominios siguen siendo relativamente "\
+"pequeños y no merecen la atención de los poderosos Sindicatos. Estos lugares aún luchan por defenderse "\
+"tanto de la agresión de los Señores de la Guerra como de las oscuras criaturas y horrores que permanecieron "\
+"tras el Cataclismo."
 
 
 DRSCROLL "Subject: Dark Revenant\n"\
