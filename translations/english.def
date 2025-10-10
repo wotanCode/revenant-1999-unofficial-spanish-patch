@@ -502,179 +502,179 @@ TRABOOK "LOS SINDICATOS COMERCIALES \n"\
 "tras el Cataclismo."
 
 
-DRSCROLL "Subject: Dark Revenant\n"\
-	"To: Jhaga, High Priest of the Order\n"\
-	"Our scouts have indeed confirmed your suspicions my lord. The sorcerer Sardok has called forth "\
-	"a Revenant back from the dead. While it would appear that even a Revenant would be no match for "\
-	"our superior armies, it is best not to take any chances. It is my opinion that the man they "\
-	"have resurrected must have some kind of significance. Since we know so little about the sorcerer "\
-	"Sardok, it is impossible for us to make any assumptions as to the nature of the Revenant that he has summoned. "\
-	"I have ordered our mages to begin summoning Dark Revenants to deal with this new threat. "\
-	"I will also put our best assassins on the job.\n"\
-	"Signed: Sabu, High Priest of the Order"
+DRSCROLL "Asunto: Revenante Oscuro\n"\
+	"Para: Jhaga, Sumo Sacerdote de la Orden\n"\
+	"Nuestros exploradores han confirmado sus sospechas, mi señor. El hechicero Sardok ha invocado "\
+	"a un Revenante de entre los muertos. Aunque parecería que incluso un Revenante no sería rival para "\
+	"nuestros ejércitos superiores, es mejor no correr riesgos. En mi opinión, el hombre que han "\
+	"resucitado debe tener algún tipo de importancia. Dado que sabemos tan poco sobre el hechicero "\
+	"Sardok, es imposible hacer suposiciones sobre la naturaleza del Revenante que ha invocado. "\
+	"He ordenado a nuestros magos comenzar a invocar Revenantes Oscuros para enfrentar esta nueva amenaza. "\
+	"También pondré a nuestros mejores asesinos en el trabajo.\n"\
+	"Firmado: Sabu, Sumo Sacerdote de la Orden"
 
-LOSSCROLL "Journal: Day 56\n"\
-	"By Sohail the Ogrok Slayer\n"\
-	"Royal Explorer to the Town of Misthaven\n"\
-	"The task before me is indeed daunting. Tendrick, ruler of Misthaven has commissioned me "\
-	"to explore the caves of Ahkuilon. The history of the caves is a well known legend. "\
-	"When the ancient empire was destroyed, many of the ancients fled into the caves and "\
-	"sealed themselves inside. It is said that the ancients had built a monument to their "\
-	"queen deep within the caves, but none have lived to tell of seeing it. "\
-	"There is a myth I have heard that a huge beast was brought forth by the ancients to "\
-	"guard the Queen's Crypt. It is said to live within these caves, blocking the only access to the Crypt. "\
-	"Myth or no, I must be wary of this guardian, for if the legend is true, there is no telling "\
-	"what may happen. Thus it is with great fear that I venture into these caves. For all those "\
-	"that came before me, none have ever returned."
+LOSSCROLL "Diario: Día 56\n"\
+	"Por Sohail el Asesino de Ogroks\n"\
+	"Explorador Real del Pueblo de Misthaven\n"\
+	"La tarea que tengo ante mí es realmente abrumadora. Tendrick, gobernante de Misthaven, me ha encargado "\
+	"explorar las cuevas de Ahkuilon. La historia de las cuevas es una leyenda bien conocida. "\
+	"Cuando el antiguo imperio fue destruido, muchos de los antiguos huyeron a las cuevas y "\
+	"se sellaron dentro. Se dice que los antiguos construyeron un monumento a su "\
+	"reina en lo profundo de las cuevas, pero nadie ha vivido para contarlo. "\
+	"Existe un mito que he escuchado, que una enorme bestia fue invocada por los antiguos para "\
+	"proteger la Cripta de la Reina. Se dice que habita dentro de estas cuevas, bloqueando el único acceso a la Cripta. "\
+	"Mito o no, debo tener cuidado con este guardián, pues si la leyenda es cierta, no se puede saber "\
+	"qué podría suceder. Así, con gran temor me adentro en estas cuevas. De todos aquellos "\
+	"que vinieron antes que yo, ninguno ha regresado."
 
 //Additional Items
-obj58a70065 "A magical torch that must have been left behind by an unfortunate explorer. It�s flame burns eternally."
-obj74190426 "Basic arrows feature a wooden shaft and a steel tip. These are of high quality workmanship."
-obj7419042a "Arrows enchanted with the power of magic. Causes magic damage."
-obj74190427 "Arrows enchanted with the power of flame. Causes fire damage."
-obj74190429 "Arrows enchanted with the power of ice. Causes ice damage."
-obj74190428 "Arrows cursed with the power of poison. Causes poison damage."
-obj98ac0066 "A thieves lockpick."
+obj58a70065 "Una antorcha mágica que debió haber sido dejada atrás por un desafortunado explorador. Su llama arde eternamente."
+obj74190426 "Las flechas básicas tienen un asta de madera y una punta de acero. Estas son de alta calidad artesanal."
+obj7419042a "Flechas encantadas con el poder de la magia. Causan daño mágico."
+obj74190427 "Flechas encantadas con el poder de la llama. Causan daño de fuego."
+obj74190429 "Flechas encantadas con el poder del hielo. Causan daño de hielo."
+obj74190428 "Flechas malditas con el poder del veneno. Causan daño de veneno."
+obj98ac0066 "Una ganzúa de ladrón."
 
 //Spells
 
-SPELLLI "Calling forth the power of flame, this spell engulfs the target in a column of fire. "\ 
-	"This will burn the target alive and cause serious damage."
-SPELLL "The caster is able to call forth a cloud of venom that envelops the target. "\
-	"This cloud will infect the target with poison, dealing out damage over a duration of time. "\
-	"Beware however, as some creatures are immune to poison."
-SPELLB "This spell enables the caster to convert magic energy into food or potions. "\
-	"While relatively simple, nourish can be a travelers best friend when potions are scarce and health is low."
-SPELLBI "This spell enables the caster to counteract the effects of deadly poison once it has entered their system. "\
-	"This spell is crucial on the island of Ahkuilon, where creatures are known for their venomous attacks."
-SPELLE "Granting the caster greater strength for a short period of time, the might spell can be extremely "\
-	"powerful if used properly. Strategic use of the might spell is essential in order to utilize the spell effectively."
-SPELLBE "Any warrior will tell you that hand to hand combat is as important as any weapon skill. This spell "\
-	"will increase the hand to hand combat skill of the caster, enabling them to be more effective "\
-	"in unarmed combat. You can never tell when you might be disarmed, so it is good to have this spell at the ready."
-SPELLJI "Calling forth the power of the heavens, this spell enables the caster to call flaming "\
-	"meteors from the skies to fall on his opponents. This spell will effect all enemies caught within its "\
-	"area of destruction."
-SPELLJC "Melding the power of the Earth and Ocean, the ground will become unstable under the target's "\
-	"feet, causing the ground to shake and spin beneath them. A very useful spell that can hold a target "\
-	"up as well as inflicting heavy damage."
-SPELLCL "In a heated battle against multiple foes, warriors will often find themselves too fatigued to strike. "\
-	"This spell will grant the caster faster fatigue recovery, so they may swing repeatedly without having to rest."
-SPELLBJ "This powerful spell will regenerate health over a duration of time. "\
-	"Essential for long battles and when potions are not available."
-SPELLEF "Increased reflexes are granted to the caster of this spell for a limited time, enabling them "\
-	"to avoid more strikes from enemies."
-SPELLFI "This spell is crucially important when under fire from magical attacks. "\
-	"While it only lasts a short time, anti-magic is an essential spell when fighting magic wielding enemies."
-SPELLJFI "Swirling forces of mystic energy will unite to form a devastating cyclone of magical power. "\
-	"Massive destruction ensues as your targets are engulfed in a whirlwind of pain."
-SPELLCBJ "A more powerful version of the quicksand spell, swamp pit will effect multiple enemies, "\
-	"dragging them into the ground with a violent spinning force."
-SPELLLJ "This spell will infuse the caster's skin with the strength of granite. "\
-	"For a limited time the armor class of the caster will be raised, greatly improving their defense."
-SPELLEBF "With the speed spell the caster will become jolted with a burst of adrenaline. "\
-	"This allows for faster reaction and reflexes, raising the caster's agility for a limited time."
-SPELLBLE "Physical Paralysis will render your enemies powerless to move, holding them in place for a "\
-	"limited time and allowing you to strike or regroup."
-SPELLFL "The stronger and meaner version of Fist Mastery, Shadow Fist will double your attack power "\
-	"in hand to hand combat. Paired with a set of magic gauntlets, this spell can be ferocious."
-SPELLAI "Blue energy will burst from the caster, striking the targeted enemy and electrocuting them."
-SPELLAEF "The Fire Wind spell is a key offensive weapon for any magic user. The caster will "\
-	"channel the element of fire through their body and outwards. "\
-	"A massive shockwave of fire will follow, engulfing all enemies in its path."
-SPELLBEA "The elements of the soul are channeled into the physical body repairing minor damage. "\
-	"This spell will prove to be a lifesaver time and time again."
-SPELLFA "The Charm spell can be very effective if used properly. This spell will temporarily raise your luck."
-SPELLCIF "The teleport spell is a favorite of magic users everywhere. The caster will dissapear from "\
-	"site and re-emerge behind their targeted enemy. As useful on defense as it is on offense, "\
-	"beware magic wielding enemies who use this spell against you."
-SPELLAF "A concentration of rolling fire is built up in the hands of the caster. "\
-	"As they focus their energy they hurl the ball of fire towards their target, blasting it with flaming death."
-SPELLEAB "This spell will suck the life force directly from your target and add it to your own. "\
-	"It is an effective offensive and defensive weapon."
-SPELLLEF "The cousin of Blood Drain, Mana Drain will drain mana energy from your target and add it to your own. "\
-	"Use wisely, as mana drain does not give back as much mana as it costs to cast. It is best "\
-	"used as a means for depleting an enemy�s magic capability."
-SPELLALFI "Warrior Born is a powerful spell that will raise all combat skills for a limited amount of time."
-SPELLIE "The invisibility spell will refract rays of light around the caster, causing them to become "\
-	"invisible to their enemies. Be forewarned, if an enemy should cast this spell you will not be able to target them." 
-SPELLJID "This spell allows the caster to call rocks up from the earth and hurl them at all enemies in the general area."
-SPELLDBJI "A great chunk of rock will fall from the skies and strike all enemies in its path dealing massive damage."
-SPELLDB "Similar to the regeneration spell, Troll Blood will regenerate a larger amount of health over a period of time."
-SPELLKJL "A stronger version of the Stone skin spell, Iron Skin will infuse the casters skin with the strength of iron. "\
-	"Adds to armor class for higher defense."
-SPELLKEBF "Neural Paralysis directly attacks the nerve centers of the brain, making the target unable to "\ 	
-	"move or think. Lasts twice as long as Physical Paralysis."
-SPELLAID "A nasty spell that spews forth flaming hot magma from the hands of the caster. "\
-	"The target will become engulfed in flames for an extended time."
-SPELLCBD "When the Ice Storm spell is cast, the clouds will darken as massive chunks of freezing ice will "\
-	"fall from the skies. An extremely powerful offensive spell, Ice Storm is especially effective "\
-	"against enemies with an aversion to cold."
-SPELLJLDK "The Ogre Strength spell will turn the blood of the caster to that of an Ogre, increasing "\
-	"their strength dramatically for a limited time."
-SPELLLAEI "Weapon Mastery is a much more powerful version of Warrior Born. "\
-	"This spell will grant the caster massive bonuses to all combat statistics for a limited time."
-SPELLKE "Nullifier is the best defensive spell available against magic attacks. "\
-	"All magic damage inflicted to the caster will be reduced greatly for an extended period of time."
-SPELLCIB "With the Ice Bolt spell the caster will summon forth a magical bolt of ice. "\
-	"This freezing bolt of death will encase anything in its path in a block of solid ice. "\
-	"The frozen enemies can then be struck with a weapon, shattering them to pieces."
-SPELLFJI "The Armageddon spell will release the fury of the gods themselves. "\
-	"The caster summons forth asteroids from space to crash down in rapid succession onto your cowering foes. "\
-	"As if the initial impact wasn�t enough, a flaming shockwave follows that ignites everything in its path."
-SPELLDEB "Channeling the power of the elements into the physical body, Advanced Healing will restore a "\
-	"moderate amount of health to the caster. A strong mid-range healing spell."
-SPELLICJ "The ultimate in speed and awareness, the Quicksilver spell will increase the casters "\
-	"reflex and agility for a limited time."
-SPELLKBEL "The strongest of the paralysis spells, Full Paralysis will immobilize multiple targets for a limited time. "\
-	"While useful on offense, Full Paralysis is the perfect spell when a strategic retreat is in order."
-SPELLGBE "A more powerful version of Blood Drain. Vampiric Drain will steal the life energy out of your "\
-	"target and add it to your own. Essential when health potions are scarce."
-SPELLFIGH "The Crystalism spell is a deadly deformation of the Cataclysm spell. "\
-	"Instead of summoning a massive rock from the skies, the caster summons a giant ball "\
-	"of magical energy and sends it crashing into their enemies. The resulting impact is capable of doing "\
-	"massive damage over a large area."
-SPELLEH "A more powerful version of Mana Drain. Essence Drain will steal the magic energy from your "\
-	"target and add it to your own. Essential when mana potions are scarce."
-SPELLKBEF "The ultimate defensive spell, Aura will surround the caster in a glowing fog of magical protection. "\
-	"Raises armor class for maximum defense."
-SPELLGH "The most powerful offensive spell known is Maelstrom. This spell will inflict massive "\
-	"damage on multiple targets. Be warned however, as this spell costs a huge amount of mana to cast."
-SPELLBED "The Restore Life spell offers the maximum amount of healing available through magic. "\
-	"Restore Life is crucial to master in higher level combat scenarios."
-SPELLEJLH "When ultimate power is necessary, the Immortal Might spell is the only way to go. "\
-	"Immortal Might will give the player god-like powers for a short time, adding a huge bonus to all statistics. "\
-	"Brutally effective in any situation."
+SPELLLI "Invocando el poder de la llama, este hechizo envuelve al objetivo en una columna de fuego. "\ 
+	"Esto quemará vivo al objetivo y causará un daño grave."
+SPELLL "El lanzador es capaz de invocar una nube de veneno que envuelve al objetivo. "\
+	"Esta nube infectará al objetivo con veneno, causando daño durante un período de tiempo. "\
+	"Sin embargo, ten cuidado, ya que algunas criaturas son inmunes al veneno."
+SPELLB "Este hechizo permite al lanzador convertir energía mágica en comida o pociones. "\
+	"Aunque es relativamente simple, nutrir puede ser el mejor amigo de un viajero cuando las pociones son escasas y la salud está baja."
+SPELLBI "Este hechizo permite al lanzador contrarrestar los efectos de un veneno mortal una vez que ha entrado en su sistema. "\
+	"Este hechizo es crucial en la isla de Ahkuilon, donde las criaturas son conocidas por sus ataques venenosos."
+SPELLE "Otorgando al lanzador mayor fuerza por un corto período de tiempo, el hechizo de poder puede ser extremadamente "\
+	"efectivo si se usa correctamente. El uso estratégico de este hechizo es esencial para aprovecharlo al máximo."
+SPELLBE "Cualquier guerrero te dirá que el combate cuerpo a cuerpo es tan importante como cualquier habilidad con armas. Este hechizo "\
+	"aumentará la habilidad de combate sin armas del lanzador, permitiéndole ser más efectivo "\
+	"en combate desarmado. Nunca se sabe cuándo podrías quedar desarmado, así que es bueno tener este hechizo listo."
+SPELLJI "Invocando el poder de los cielos, este hechizo permite al lanzador llamar meteoros "\
+	"ardientes desde el cielo para que caigan sobre sus oponentes. Este hechizo afectará a todos los enemigos atrapados dentro de su "\
+	"área de destrucción."
+SPELLJC "Fusionando el poder de la Tierra y el Océano, el suelo se volverá inestable bajo los pies del objetivo, "\
+	"haciendo que el terreno tiemble y gire bajo ellos. Un hechizo muy útil que puede detener a un objetivo "\
+	"y además infligir un gran daño."
+SPELLCL "En una batalla acalorada contra múltiples enemigos, los guerreros a menudo se encuentran demasiado fatigados para atacar. "\
+	"Este hechizo otorgará al lanzador una recuperación de fatiga más rápida, permitiéndole atacar repetidamente sin tener que descansar."
+SPELLBJ "Este poderoso hechizo regenerará salud durante un período de tiempo. "\
+	"Esencial para batallas largas y cuando las pociones no están disponibles."
+SPELLEF "Se otorgan reflejos aumentados al lanzador de este hechizo por un tiempo limitado, permitiéndole "\
+	"evitar más ataques enemigos."
+SPELLFI "Este hechizo es crucialmente importante cuando se está bajo ataque de magia. "\
+	"Aunque solo dura un corto tiempo, anti-magia es un hechizo esencial al luchar contra enemigos que usan magia."
+SPELLJFI "Fuerzas giratorias de energía mística se unirán para formar un devastador ciclón de poder mágico. "\
+	"La destrucción masiva continúa mientras tus objetivos son engullidos en un torbellino de dolor."
+SPELLCBJ "Una versión más poderosa del hechizo de arenas movedizas, foso pantanoso afectará a múltiples enemigos, "\
+	"arrastrándolos al suelo con una fuerza giratoria violenta."
+SPELLLJ "Este hechizo infundirá la piel del lanzador con la fuerza del granito. "\
+	"Por un tiempo limitado, la clase de armadura del lanzador aumentará, mejorando enormemente su defensa."
+SPELLEBF "Con el hechizo de velocidad, el lanzador será impulsado con una ráfaga de adrenalina. "\
+	"Esto permite reacciones y reflejos más rápidos, aumentando la agilidad del lanzador por un tiempo limitado."
+SPELLBLE "La Parálisis Física dejará a tus enemigos incapaces de moverse, manteniéndolos en su lugar por un "\
+	"tiempo limitado y permitiéndote atacar o reagruparte."
+SPELLFL "La versión más fuerte y feroz de Dominio del Puño, Puño Sombrío duplicará tu poder de ataque "\
+	"en combate cuerpo a cuerpo. Combinado con un par de guanteletes mágicos, este hechizo puede ser feroz."
+SPELLAI "Energía azul estallará del lanzador, golpeando al enemigo objetivo y electrocutándolo."
+SPELLAEF "El hechizo Viento de Fuego es un arma ofensiva clave para cualquier usuario de magia. El lanzador "\
+	"canalizará el elemento del fuego a través de su cuerpo hacia el exterior. "\
+	"Una enorme onda expansiva de fuego seguirá, engullendo a todos los enemigos en su camino."
+SPELLBEA "Los elementos del alma se canalizan hacia el cuerpo físico reparando daños menores. "\
+	"Este hechizo será un salvavidas una y otra vez."
+SPELLFA "El hechizo Encanto puede ser muy efectivo si se usa correctamente. Este hechizo aumentará temporalmente tu suerte."
+SPELLCIF "El hechizo de teletransportación es el favorito de los usuarios de magia en todas partes. El lanzador desaparecerá de "\
+	"la vista y reaparecerá detrás de su enemigo objetivo. Tan útil en defensa como en ataque, "\
+	"ten cuidado con los enemigos que usan magia y que puedan usar este hechizo contra ti."
+SPELLAF "Una concentración de fuego giratorio se forma en las manos del lanzador. "\
+	"Al enfocar su energía, lanza la bola de fuego hacia su objetivo, explotándolo con una muerte llameante."
+SPELLEAB "Este hechizo absorberá directamente la fuerza vital de tu objetivo y la añadirá a la tuya. "\
+	"Es un arma ofensiva y defensiva efectiva."
+SPELLLEF "El primo de Drenaje de Sangre, Drenaje de Maná absorberá energía mágica de tu objetivo y la añadirá a la tuya. "\
+	"Úsalo con sabiduría, ya que este hechizo no devuelve tanto maná como cuesta lanzarlo. Es mejor "\
+	"usarlo para agotar la capacidad mágica del enemigo."
+SPELLALFI "Nacido Guerrero es un poderoso hechizo que aumentará todas las habilidades de combate por un tiempo limitado."
+SPELLIE "El hechizo de Invisibilidad refractará los rayos de luz alrededor del lanzador, haciendo que se vuelva "\
+	"invisible para sus enemigos. Ten cuidado, si un enemigo lanza este hechizo no podrás apuntarle."
+SPELLJID "Este hechizo permite al lanzador invocar rocas desde la tierra y lanzarlas contra todos los enemigos en el área general."
+SPELLDBJI "Un gran pedazo de roca caerá desde los cielos y golpeará a todos los enemigos en su camino, causando un daño masivo."
+SPELLDB "Similar al hechizo de regeneración, Sangre de Troll regenerará una mayor cantidad de salud durante un período de tiempo."
+SPELLKJL "Una versión más fuerte del hechizo Piel de Piedra, Piel de Hierro infundirá la piel del lanzador con la fuerza del hierro. "\
+	"Aumenta la clase de armadura para una mayor defensa."
+SPELLKEBF "La Parálisis Neural ataca directamente los centros nerviosos del cerebro, haciendo que el objetivo no pueda "\ 	
+	"moverse ni pensar. Dura el doble que la Parálisis Física."
+SPELLAID "Un hechizo desagradable que arroja magma ardiente de las manos del lanzador. "\
+	"El objetivo quedará envuelto en llamas por un tiempo prolongado."
+SPELLCBD "Cuando se lanza el hechizo Tormenta de Hielo, las nubes se oscurecerán mientras enormes trozos de hielo "\
+	"caen del cielo. Un hechizo ofensivo extremadamente poderoso, Tormenta de Hielo es especialmente efectivo "\
+	"contra enemigos vulnerables al frío."
+SPELLJLDK "El hechizo Fuerza de Ogro convertirá la sangre del lanzador en la de un ogro, aumentando "\
+	"su fuerza dramáticamente por un tiempo limitado."
+SPELLLAEI "Dominio de Armas es una versión mucho más poderosa de Nacido Guerrero. "\
+	"Este hechizo otorgará al lanzador enormes bonificaciones a todas las estadísticas de combate por un tiempo limitado."
+SPELLKE "Anulador es el mejor hechizo defensivo disponible contra ataques mágicos. "\
+	"Todo el daño mágico infligido al lanzador se reducirá enormemente por un período prolongado."
+SPELLCIB "Con el hechizo Rayo de Hielo, el lanzador invocará un proyectil mágico de hielo. "\
+	"Este rayo helado de muerte congelará todo lo que encuentre en su camino en un bloque de hielo sólido. "\
+	"Los enemigos congelados pueden luego ser golpeados con un arma, haciéndolos pedazos."
+SPELLFJI "El hechizo Armagedón liberará la furia de los propios dioses. "\
+	"El lanzador invocará asteroides desde el espacio para que caigan en rápida sucesión sobre tus enemigos aterrados. "\
+	"Como si el impacto inicial no fuera suficiente, una onda expansiva de fuego seguirá, incendiando todo a su paso."
+SPELLDEB "Canalizando el poder de los elementos en el cuerpo físico, Curación Avanzada restaurará una "\
+	"cantidad moderada de salud al lanzador. Un hechizo de curación de rango medio fuerte."
+SPELLICJ "El máximo en velocidad y conciencia, el hechizo Mercurio aumentará los reflejos "\
+	"y la agilidad del lanzador por un tiempo limitado."
+SPELLKBEL "El más fuerte de los hechizos de parálisis, Parálisis Total inmovilizará múltiples objetivos por un tiempo limitado. "\
+	"Aunque útil en ataque, Parálisis Total es el hechizo perfecto cuando se requiere una retirada estratégica."
+SPELLGBE "Una versión más poderosa de Drenaje de Sangre. Drenaje Vampírico robará la energía vital de tu "\
+	"objetivo y la añadirá a la tuya. Esencial cuando las pociones de salud son escasas."
+SPELLFIGH "El hechizo Cristalismo es una deformación mortal del hechizo Cataclismo. "\
+	"En lugar de invocar una roca masiva desde los cielos, el lanzador invoca una gigantesca bola "\
+	"de energía mágica y la envía estrellándose contra sus enemigos. El impacto resultante es capaz de causar "\
+	"un daño masivo en una gran área."
+SPELLEH "Una versión más poderosa de Drenaje de Maná. Drenaje de Esencia robará la energía mágica de tu "\
+	"objetivo y la añadirá a la tuya. Esencial cuando las pociones de maná son escasas."
+SPELLKBEF "El hechizo defensivo definitivo, Aura rodeará al lanzador en una niebla brillante de protección mágica. "\
+	"Aumenta la clase de armadura para la máxima defensa."
+SPELLGH "El hechizo ofensivo más poderoso conocido es Torbellino. Este hechizo infligirá un daño masivo "\
+	"a múltiples objetivos. Sin embargo, ten cuidado, ya que este hechizo cuesta una enorme cantidad de maná para lanzarse."
+SPELLBED "El hechizo Restaurar Vida ofrece la máxima cantidad de curación disponible mediante magia. "\
+	"Restaurar Vida es crucial para dominar en escenarios de combate de alto nivel."
+SPELLEJLH "Cuando se necesita poder absoluto, el hechizo Poder Inmortal es el único camino. "\
+	"Poder Inmortal otorgará al jugador habilidades divinas por un corto tiempo, añadiendo una enorme bonificación a todas las estadísticas. "\
+	"Brutalmente efectivo en cualquier situación."
 
 
 
 // General Object Descriptions
-objarmor "Armor protects the wearer against a variety of mele and ranged weapon "\
-	"damage, but affects the stealth and the magical abilities of the wearer. "
-objweapon "Weapons allow the wielder to deal damage to the unfriendly denizens "\
-	"of Ur.  Certain weapons are more or less effective against certain types of "\
-	"opponents."
-objcontainer "Containers allow the holder to store groups of items together for "\
-	"easier management."
-objfood "Food nourishes the weary and injured adventurer, allowing him to regain "\
-	"a portion of his strength."
-objfood "Food nourishes the weary and injured adventurer, allowing him to regain "\
-	"a portion of his strength."
-objtalisman "Talismans are magical tokens created by the ancients to harness the "\
-	"mystic powers.  Combined in certain combinations with one who has adequate "\
-	"skill and innate magical energy, they can greatly aid ones quest."
-objlightsource "Torches, lanterns, and other lights are necessary when exploring the "\
-	"darker regions of Ur's underworld."
-objmoney "Gold is the universal token of commerce in Ur.  Use it to purchase necessary "\
-	"equipment and items at shops."
-objkey "Keys are useful for opening locked items.  Each key may open one or more "\
-	"item or door."
-objammo "Ranged weapons such as bows need arrows or bolts.  These items can be purchased "\
-	"at shops, or collected while exploring."
-objscroll "Scrolls and books contain information an adventurer may find useful.  It is "\
-	"usually a good idea to keep them around."
-objrangedweapon "Bows and other ranged weapons allow a person to attack an opponent from "\
-	"a distance, thus protecting the attacker from the mele attacks of his enemy."
+objarmor "La armadura protege al portador contra una variedad de daños de armas cuerpo a cuerpo y a distancia, "\
+	"pero afecta la discreción y las habilidades mágicas del usuario."
+objweapon "Las armas permiten al portador infligir daño a los habitantes hostiles "\
+	"de Ur. Ciertas armas son más o menos efectivas contra ciertos tipos de "\
+	"oponentes."
+objcontainer "Los contenedores permiten al usuario almacenar grupos de objetos juntos para "\
+	"una gestión más sencilla."
+objfood "La comida nutre al aventurero cansado o herido, permitiéndole recuperar "\
+	"una parte de su fuerza."
+objfood "La comida nutre al aventurero cansado o herido, permitiéndole recuperar "\
+	"una parte de su fuerza."
+objtalisman "Los talismanes son objetos mágicos creados por los antiguos para canalizar los "\
+	"poderes místicos. Combinados en ciertas formas con alguien que posea suficiente "\
+	"habilidad y energía mágica innata, pueden ayudar enormemente en su misión."
+objlightsource "Las antorchas, linternas y otras fuentes de luz son necesarias al explorar las "\
+	"regiones más oscuras del inframundo de Ur."
+objmoney "El oro es el símbolo universal del comercio en Ur. Úsalo para comprar el "\
+	"equipo y los objetos necesarios en las tiendas."
+objkey "Las llaves son útiles para abrir objetos cerrados. Cada llave puede abrir uno o más "\
+	"objetos o puertas."
+objammo "Las armas a distancia como los arcos necesitan flechas o virotes. Estos objetos pueden comprarse "\
+	"en las tiendas o recolectarse durante la exploración."
+objscroll "Los pergaminos y libros contienen información que puede ser útil para un aventurero. "\
+	"Por lo general, es buena idea conservarlos."
+objrangedweapon "Los arcos y otras armas a distancia permiten atacar a un oponente desde "\
+	"una distancia, protegiendo así al atacante de los ataques cuerpo a cuerpo de su enemigo."
 
 // Specific Object Descriptions
 obj329f0063 "The spell pouch holds the talismans needed to cast spells.  In order "\
