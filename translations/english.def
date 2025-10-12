@@ -915,206 +915,206 @@ obj59a7042c "Este arco ha sido creado por medios hechiceros. A pesar de su hermo
 obj59a7042d "Arco demoníaco que emana un intenso poder maligno. Sus orígenes son desconocidos."
 
 //Enemies
-obj00000090 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
-	"They are fairly intelligent and capable of limited speech. They are small and relatively easy "\
-	"to dispatch, yet their numbers can overwhelm even a well-armed and trained adventurer. There "\
-	"are several different types of Druhg native to Ahkuilon."
-obj00000101 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
-	"They are fairly intelligent and capable of limited speech. They are small and relatively "\
-	"easy to dispatch, yet their numbers can overwhelm even a well-armed and trained adventurer. "\
-	"There are several different types of Druhg native to Ahkuilon."
-obj00000093 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
-	"They are fairly intelligent and capable of limited speech. They are small and relatively easy "\
-	"to dispatch, yet their numbers can overwhelm even a well-armed and trained adventurer. "\
-	"There are several different types of Druhg native to Ahkuilon."
-obj00000091 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
-	"They are fairly intelligent and capable of limited speech. They are small and relatively easy "\
-	"to dispatch, yet their numbers can overwhelm even a well-armed and trained adventurer. "\
-	"There are several different types of Druhg native to Ahkuilon."
-obj00000102 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
-	"They are fairly intelligent and capable of limited speech. They are small and relatively easy "\
-	"to dispatch, yet their numbers can overwhelm even a well-armed and trained adventurer. "\
-	"There are several different types of Druhg native to Ahkuilon."
-obj00000311 "About the size of a small dog, the Araknid have made their presence felt on Ahkuilon. "\
-	"These deadly pests have bitten numerous children, elderly and livestock. "\
-	"A smaller version of the deadly Arakna."
-obj00000366 "About the size of a small dog, the Recluse have made their presence felt on Ahkuilon. "\
-	"These deadly pests have bitten numerous children, elderly and livestock. "\
-	"A smaller version of the deadly Arakna."
-obj00000300 "The Arakna are giant spiders who originate from a spider-infested island off the southern coast of Ahkuilon. "\
-	"With venom dripping from their dagger-sized fangs, they lie in wait for hapless victims to cross their path. "\
-	"There has been more than one account of drunken sailors and townsmen found as dried out husks throughout the forest."
-obj00002002 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\ 
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed." 
-obj00002008 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000056 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000904 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000905 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000906 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000907 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000908 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000909 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, "\
-	"and thick bones, this is a fearsome opponent indeed."
-obj00000910 "This lumbering creature is of lower intelligence, even more so than the Druhg. "\
-	"What the Ogrok lack in mental capacity, they more than compensate for with incredible strength. "\
-	"Standing half again the size of a man, with long, incredibly powerful arms, a tough hide, and "\
-	"thick bones, this is a fearsome opponent indeed."
-obj00000099 "Usually reclusive, the Priests have bred the Lurkers and turned them into ferocious man-killers. "\
-	"Lurkers possess a rock hard exoskeleton that will protect them against most attacks. "\
-	"Lurkers possess fangs and fists that can kill a man with ease. Their bone-chilling roar "\
-	"will strike fear into the hearts of all but the most seasoned adventurers."
-obj00000080 "These creatures originated from an unholy cross breed of man and dragon. "\
-	"Their skin is dry and scaly, and a forked tongue rests between their deadly fangs. "\
-	"Issathi possess excellent night-vision and their speed and agility is unsurpassed. "\
-	"They tend to lurk in the darkest corners of underground caverns and ruins, but occasionally "\
-	"stalk wary travelers above ground."
-obj00001907 "Like vultures drawn to the kill, highwaymen and mercenaries known as the Vashar "\
-	"have been recruited by the cult to do they�re bidding. These seasoned combat veterans can "\
-	"be a worthy opponent, but they lack discipline and training."
-obj00001903 "The Children of the Change have used their magical capabilities to resurrect "\
-	"fighters from the dead to fight for their cause. These warriors were all-powerful "\
-	"in their time and should be feared."
-obj00000901 "Long-dead warriors that have risen to swell the ranks of Yhagoro�s "\
-	"army and wage war against the living, skeleton warriors are tireless foes. Because they "\
-	"are magically sustained, they are very difficult to kill. Since there are no vital organs "\
-	"to puncture and they do not bleed or feel pain, skeleton warriors make a perfect killing machine."
-obj00006990 "The most powerful of the ever living, Undead Sorcerers possess the powers of a living "\
-	"priest along with an insatiable appetite for human souls. Their ability to use demonic magic "\
-	"makes them incredibly powerful."
-obj000000d0 "An amphibious nightmare that resembles a toad, with a huge gaping mouth filled with "\
-	"rows of jagged yellow teeth. Hoppers are known for their ability to leap on unsuspecting "\
-	"adventurers and rip their throats out."
-obj00001908 "The ancient Wyrmms are an extinct creature in Ahkuilon. Countless wars against "\
-	"humans have obliterated their population, and now only a small number of their smaller "\
-	"ancestors remain on the island. Although smaller than they�re monstrous predecessors, "\
-	"the Ahkuilonian dragon remains a lethal foe ready to test scale and maw against any would be dragon slayers."
-obj00001909 "The ancient Wyrmms are an extinct creature in Ahkuilon. Countless wars against "\
-	"humans have obliterated their population, and now only a small number of their smaller "\
-	"ancestors remain on the island. Although smaller than they�re monstrous predecessors, "\
-	"the Ahkuilonian dragon remains a lethal foe ready to test scale and maw against any would be dragon slayers."
-obj0000190a "The ancient Wyrmms are an extinct creature in Ahkuilon. Countless wars "\
-	"against humans have obliterated their population, and now only a small number of "\
-	"their smaller ancestors remain on the island. Although smaller than they�re monstrous "\
-	"predecessors, the Ahkuilonian dragon remains a lethal foe ready to test scale and maw "\
-	"against any would be dragon slayers."
-obj000000e0 "The ancient Wyrmms are an extinct creature in Ahkuilon. Countless wars against "\
-	"humans have obliterated their population, and now only a small number of their smaller "\
-	"ancestors remain on the island. Although smaller than they�re monstrous predecessors, "\
-	"the Ahkuilonian dragon remains a lethal foe ready to test scale and maw against any would be dragon slayers."
-obj00000096 "The Dorogar are among the most feared creatures in all of Ahkuilon. Dorogar�s have "\
-	"twice the strength of an Ogrok and possess high intelligence. A Dorogar armed with its� "\
-	"double-edged polearm can quickly cleave an unskilled adventurer�s head from his person, "\
-	"giving his victim enough time to watch its� headless body drop to the ground."
-obj0000200d "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes they wear. "\
-	"All of these priests are capable of varying types of magic. It is highly essential that "\
-	"Locke learn the capabilities of each of the priest types, as it will affect the best method of attack and defense."
-obj00004006 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. It is highly essential "\
-	"that Locke learn the capabilities of each of the priest types, as it will affect the best method "\
-	"of attack and defense."
-obj00004005 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. "\
-	"It is highly essential that Locke learn the capabilities of each of the priest types, "\
-	"as it will affect the best method of attack and defense."
-obj00004002 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. "\
-	"It is highly essential that Locke learn the capabilities of each of the "\
-	"priest types, as it will affect the best method of attack and defense."
-obj00004001 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. "\
-	"It is highly essential that Locke learn the capabilities of each of the priest "\
-	"types, as it will affect the best method of attack and defense."
-obj00004004 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. "\
-	"It is highly essential that Locke learn the capabilities of each of the priest types, "\
-	"as it will affect the best method of attack and defense."
-obj00004003 "The children of the change cult has thousands of priests under it�s control. "\
-	"They are fiercly loyal to Yhagoro and under the control of the master priest, Jhaga. "\
-	"There are many classifications of priests that can be identified by the colors of robes "\
-	"they wear. All of these priests are capable of varying types of magic. "\
-	"It is highly essential that Locke learn the capabilities of each of the priest types, "\
-	"as it will affect the best method of attack and defense."
-obj00001906 "With the dexterous fingers of a surgeon the Spider Queen fires "\
-	"her bow with deadly accuracy, releasing bolts of venom at her foes. "\
-	"A cold and calculating strategist of high intelligence, the queen of "\
-	"spiders always stacks the deck in her favor."
-obj00000500 "The Ancient Ahkuilonians who were killed in the cataclysm that "\
-	"destroyed their empire still scream for the blood of their former King from the undead plane. "\
-	"Fearsome ghostly opponents, the wraith can often win battles with fear alone."
-obj00000098 "Although common in other lands, Kanthas were never domesticated in Ahkuilon. "\
-	"Wild Kanthas are canine in nature and bred by the priests to be lethal killers. "\
-	"The priests quickly turned their minions loose on the island of Ahkuilon. Kanthas usually hunt in packs." 
-obj00005001 "The Priests have used their evil magic to craft horrible golems from the stuff of the earth. "\
-	"Earth Golems attack with terrible strength and size. A bludgeoning type weapon is best suited "\
-	"for fighting Golems."
-obj00006000 "The most powerful of the Golem creatures is the Infernal Golem. Evil magic was used "\
-	"to summon these beasts from the pits of hell. Immensely powerful and capable of horrific "\
-	"damage. A bludgeoning type weapon is best suited for fighting Golems."
-obj00000902 "The Stone Golem is another terrible creation of evil magic. These stone "\
-	"creatures are not only powerful but also very difficult to damage. "\
-	"A bludgeoning type weapon is best suited for fighting Golems."
-obj00000097 "The priesthood�s crimes against the flesh know no bounds. Not only do they "\
-	"recycle their own dead, but they also resurrect those warriors who defy them. "\
-	"These tortured souls are forced into servitude in the form of rotting zombies. "\
-	"While slow, Zombies have an insatiable hunger for flesh and are very difficult to put down."
-obj00000095 "The cult has solidified its ranks with fighters from the East. Among these are the "\
-	"masters in hand to hand combat, the monk. "\
-	"The fighting monks of Yhagoro pride themselves on mental and physical perfection. "\
-	"Dedicating their lives to turning their bodies into weapons, Monks are more than able "\
-	"stop a man in full armor dead in his tracks."  
-obj00001900 "Sometimes brute force isn�t the only weapon for the priesthood and that�s where the Assassins come in. "\
-	"These stealthy cold-blooded murderers have quenched the fire of many a would-be hero "\
-	"and sent more than a few nobles to an early grave."
-obj00001901 "Sometimes brute force isn�t the only weapon for the priesthood and that�s where the Assassins come in. "\
-	"These stealthy cold-blooded murderers have quenched the fire of many a would-be hero "\
-	"and sent more than a few nobles to an early grave." 
-obj00001902 "Sometimes brute force isn�t the only weapon for the priesthood and that�s where the Assassins come in. "\
-	"These stealthy cold-blooded murderers have quenched the fire of many a would-be hero and sent more "\
-	"than a few nobles to an early grave."
-obj00004000 "These horrific creatures are thought only to exist in nightmares and legends. "\
-	"Residents of the demon realm of Anseraak, the Demon Mage are winged creatures capable of casting "\
-	"the most evil of magic. No mortal man could survive an encounter with this demonic beast."
-obj00001800 "The Ogrok Champion is legendary for his incredible number of kills in the arena of combat. "\
-	"An Ogrok with unheard of size and power, Baez is known for his unorthodox fighting/wrestling style."
-obj0000100c "This beast of legend was called forth by the ancients to protect the Queens Crypt after "\
-	"the great cataclysm. It is rumored to have the size of an ancient dragon and a craving for human flesh."
+obj00000090 "Los Druhg son criaturas bajas y robustas, parecidas a goblins, que se encuentran en abundancia en Ahkuilon. "\
+	"Son bastante inteligentes y capaces de hablar de forma limitada. Son pequeños y relativamente fáciles "\
+	"de eliminar, pero su número puede abrumar incluso a un aventurero bien armado y entrenado. Hay "\
+	"varios tipos diferentes de Druhg nativos de Ahkuilon."
+obj00000101 "Los Druhg son criaturas bajas y robustas, parecidas a goblins, que se encuentran en abundancia en Ahkuilon. "\
+	"Son bastante inteligentes y capaces de hablar de forma limitada. Son pequeños y relativamente "\
+	"fáciles de eliminar, pero su número puede abrumar incluso a un aventurero bien armado y entrenado. "\
+	"Hay varios tipos diferentes de Druhg nativos de Ahkuilon."
+obj00000093 "Los Druhg son criaturas bajas y robustas, parecidas a goblins, que se encuentran en abundancia en Ahkuilon. "\
+	"Son bastante inteligentes y capaces de hablar de forma limitada. Son pequeños y relativamente fáciles "\
+	"de eliminar, pero su número puede abrumar incluso a un aventurero bien armado y entrenado. "\
+	"Hay varios tipos diferentes de Druhg nativos de Ahkuilon."
+obj00000091 "Los Druhg son criaturas bajas y robustas, parecidas a goblins, que se encuentran en abundancia en Ahkuilon. "\
+	"Son bastante inteligentes y capaces de hablar de forma limitada. Son pequeños y relativamente fáciles "\
+	"de eliminar, pero su número puede abrumar incluso a un aventurero bien armado y entrenado. "\
+	"Hay varios tipos diferentes de Druhg nativos de Ahkuilon."
+obj00000102 "Los Druhg son criaturas bajas y robustas, parecidas a goblins, que se encuentran en abundancia en Ahkuilon. "\
+	"Son bastante inteligentes y capaces de hablar de forma limitada. Son pequeños y relativamente fáciles "\
+	"de eliminar, pero su número puede abrumar incluso a un aventurero bien armado y entrenado. "\
+	"Hay varios tipos diferentes de Druhg nativos de Ahkuilon."
+obj00000311 "Del tamaño aproximado de un perro pequeño, los Araknid han hecho sentir su presencia en Ahkuilon. "\
+	"Estas plagas mortales han mordido a numerosos niños, ancianos y ganado. "\
+	"Una versión más pequeña del mortal Arakna."
+obj00000366 "Del tamaño aproximado de un perro pequeño, los Recluse han hecho sentir su presencia en Ahkuilon. "\
+	"Estas plagas mortales han mordido a numerosos niños, ancianos y ganado. "\
+	"Una versión más pequeña del mortal Arakna."
+obj00000300 "Los Arakna son arañas gigantes que provienen de una isla infestada de arañas frente a la costa sur de Ahkuilon. "\
+	"Con veneno goteando de sus colmillos del tamaño de dagas, esperan al acecho a víctimas desprevenidas que crucen su camino. "\
+	"Ha habido más de un relato de marineros y aldeanos ebrios encontrados como cáscaras secas por todo el bosque."
+obj00002002 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\ 
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible." 
+obj00002008 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000056 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000904 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000905 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000906 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000907 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000908 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000909 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura "\
+	"y huesos gruesos, es sin duda un oponente temible."
+obj00000910 "Esta criatura torpe posee una inteligencia baja, incluso menor que la de los Druhg. "\
+	"Lo que los Ogrok carecen en capacidad mental, lo compensan con una fuerza increíble. "\
+	"Con una altura de casi el doble que un hombre, brazos largos e increíblemente poderosos, una piel dura y "\
+	"huesos gruesos, es sin duda un oponente temible."
+obj00000099 "Usualmente solitarios, los Sacerdotes han criado a los Merodeadores y los han convertido en feroces asesinos de hombres. "\
+	"Los Merodeadores poseen un exoesqueleto duro como la roca que los protege contra la mayoría de los ataques. "\
+	"Poseen colmillos y puños capaces de matar a un hombre con facilidad. Su rugido escalofriante "\
+	"inspirará miedo en el corazón de todos, excepto los aventureros más experimentados."
+obj00000080 "Estas criaturas se originaron de una impía cruza entre hombre y dragón. "\
+	"Su piel es seca y escamosa, y una lengua bífida reposa entre sus colmillos mortales. "\
+	"Los Issathi poseen excelente visión nocturna, y su velocidad y agilidad son inigualables. "\
+	"Suelen acechar en los rincones más oscuros de cavernas subterráneas y ruinas, pero ocasionalmente "\
+	"persiguen a viajeros incautos en la superficie."
+obj00001907 "Como buitres atraídos por la carroña, los salteadores y mercenarios conocidos como los Vashar "\
+	"han sido reclutados por el culto para cumplir sus órdenes. Estos veteranos de combate experimentados pueden "\
+	"ser oponentes dignos, pero carecen de disciplina y entrenamiento."
+obj00001903 "Los Hijos del Cambio han usado sus capacidades mágicas para resucitar "\
+	"guerreros de entre los muertos para luchar por su causa. Estos combatientes fueron todopoderosos "\
+	"en su tiempo y deben ser temidos."
+obj00000901 "Guerreros muertos hace mucho que se han alzado para engrosar las filas del ejército de Yhagoro "\
+	"y librar la guerra contra los vivos. Los guerreros esqueleto son enemigos incansables. Debido a que "\
+	"son sostenidos mágicamente, son muy difíciles de matar. Como no tienen órganos vitales "\
+	"que perforar y no sangran ni sienten dolor, los guerreros esqueleto son una máquina de matar perfecta."
+obj00006990 "Los más poderosos entre los no-muertos, los Hechiceros No-Muertos poseen los poderes de un "\
+	"sacerdote viviente junto con un apetito insaciable por las almas humanas. Su habilidad para usar magia demoníaca "\
+	"los hace increíblemente poderosos."
+obj000000d0 "Una pesadilla anfibia que se asemeja a un sapo, con una enorme boca abierta llena de "\
+	"filas de dientes amarillos y dentados. Los Saltadores son conocidos por su habilidad para saltar sobre aventureros "\
+	"desprevenidos y desgarrarles la garganta."
+obj00001908 "Los antiguos Wyrmms son una criatura extinta en Ahkuilon. Incontables guerras contra "\
+	"los humanos han aniquilado su población, y ahora solo un pequeño número de sus ancestros más pequeños "\
+	"permanece en la isla. Aunque son más pequeños que sus monstruosos predecesores, "\
+	"el dragón Ahkuiloniano sigue siendo un enemigo letal, listo para poner sus escamas y fauces a prueba contra cualquier cazador de dragones."
+obj00001909 "Los antiguos Wyrmms son una criatura extinta en Ahkuilon. Incontables guerras contra "\
+	"los humanos han aniquilado su población, y ahora solo un pequeño número de sus ancestros más pequeños "\
+	"permanece en la isla. Aunque son más pequeños que sus monstruosos predecesores, "\
+	"el dragón Ahkuiloniano sigue siendo un enemigo letal, listo para poner sus escamas y fauces a prueba contra cualquier cazador de dragones."
+obj0000190a "Los antiguos Wyrmms son una criatura extinta en Ahkuilon. Incontables guerras "\
+	"contra los humanos han aniquilado su población, y ahora solo un pequeño número de "\
+	"sus ancestros más pequeños permanece en la isla. Aunque son más pequeños que sus monstruosos "\
+	"predecesores, el dragón Ahkuiloniano sigue siendo un enemigo letal, listo para poner sus escamas y fauces "\
+	"a prueba contra cualquier cazador de dragones."
+obj000000e0 "Los antiguos Wyrmms son una criatura extinta en Ahkuilon. Incontables guerras contra "\
+	"los humanos han aniquilado su población, y ahora solo un pequeño número de sus ancestros más pequeños "\
+	"permanece en la isla. Aunque son más pequeños que sus monstruosos predecesores, "\
+	"el dragón Ahkuiloniano sigue siendo un enemigo letal, listo para poner sus escamas y fauces a prueba contra cualquier cazador de dragones."
+obj00000096 "Los Dorogar están entre las criaturas más temidas de todo Ahkuilon. Los Dorogar tienen "\
+	"el doble de fuerza que un Ogrok y poseen una gran inteligencia. Un Dorogar armado con su "\
+	"alabarda de doble filo puede rápidamente separar la cabeza de un aventurero inexperto de su cuerpo, "\
+	"dándole a su víctima suficiente tiempo para ver cómo su cuerpo sin cabeza cae al suelo."
+obj0000200d "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas que visten. "\
+	"Todos estos sacerdotes son capaces de distintos tipos de magia. Es sumamente esencial que "\
+	"Locke aprenda las capacidades de cada tipo de sacerdote, ya que esto afectará el mejor método de ataque y defensa."
+obj00004006 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. Es sumamente esencial "\
+	"que Locke aprenda las capacidades de cada tipo de sacerdote, ya que esto afectará el mejor método "\
+	"de ataque y defensa."
+obj00004005 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. "\
+	"Es sumamente esencial que Locke aprenda las capacidades de cada tipo de sacerdote, "\
+	"ya que esto afectará el mejor método de ataque y defensa."
+obj00004002 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. "\
+	"Es sumamente esencial que Locke aprenda las capacidades de cada uno de los "\
+	"tipos de sacerdote, ya que esto afectará el mejor método de ataque y defensa."
+obj00004001 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. "\
+	"Es sumamente esencial que Locke aprenda las capacidades de cada tipo de sacerdote, "\
+	"ya que esto afectará el mejor método de ataque y defensa."
+obj00004004 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. "\
+	"Es sumamente esencial que Locke aprenda las capacidades de cada tipo de sacerdote, "\
+	"ya que esto afectará el mejor método de ataque y defensa."
+obj00004003 "Los Hijos del Culto del Cambio tienen miles de sacerdotes bajo su control. "\
+	"Son ferozmente leales a Yhagoro y están bajo el mando del sumo sacerdote, Jhaga. "\
+	"Existen muchas clasificaciones de sacerdotes que pueden identificarse por los colores de las túnicas "\
+	"que visten. Todos estos sacerdotes son capaces de distintos tipos de magia. "\
+	"Es sumamente esencial que Locke aprenda las capacidades de cada tipo de sacerdote, "\
+	"ya que esto afectará el mejor método de ataque y defensa."
+obj00001906 "Con los dedos tan diestros como los de un cirujano, la Reina Araña dispara "\
+	"su arco con mortal precisión, lanzando pernos de veneno hacia sus enemigos. "\
+	"Estratega fría y calculadora de gran inteligencia, la reina de las arañas siempre "\
+	"asegura que las probabilidades estén a su favor."
+obj00000500 "Los antiguos Ahkuilonianos que murieron en el cataclismo que "\
+	"destruyó su imperio aún claman por la sangre de su antiguo rey desde el plano de los no muertos. "\
+	"Temibles oponentes espectrales, los espectros a menudo pueden ganar batallas solo con el miedo."
+obj00000098 "Aunque comunes en otras tierras, los Kanthas nunca fueron domesticados en Ahkuilon. "\
+	"Los Kanthas salvajes son de naturaleza canina y fueron criados por los sacerdotes para ser asesinos letales. "\
+	"Los sacerdotes rápidamente liberaron a sus esbirros en la isla de Ahkuilon. Los Kanthas usualmente cazan en manadas."
+obj00005001 "Los Sacerdotes han usado su magia maligna para crear horribles gólems a partir de la materia de la tierra. "\
+	"Los Gólems de Tierra atacan con terrible fuerza y tamaño. Un arma contundente es la más adecuada "\
+	"para luchar contra Gólems."
+obj00006000 "El más poderoso de los Gólems es el Gólem Infernal. Magia maligna fue usada "\
+	"para invocar a estas bestias desde los pozos del infierno. Inmensamente poderosos y capaces de causar "\
+	"daños horrendos. Un arma contundente es la más adecuada para luchar contra Gólems."
+obj00000902 "El Gólem de Piedra es otra terrible creación de magia maligna. Estas criaturas de piedra "\
+	"no solo son poderosas, sino también muy difíciles de dañar. "\
+	"Un arma contundente es la más adecuada para luchar contra Gólems."
+obj00000097 "Los crímenes del sacerdocio contra la carne no tienen límites. No solo "\
+	"reciclan a sus propios muertos, sino que también resucitan a los guerreros que los desafían. "\
+	"Estas almas torturadas son forzadas a la servidumbre en la forma de zombis en descomposición. "\
+	"Aunque lentos, los zombis tienen un hambre insaciable por la carne y son muy difíciles de eliminar."
+obj00000095 "El culto ha fortalecido sus filas con combatientes del Este. Entre ellos están los "\
+	"maestros del combate cuerpo a cuerpo, los monjes. "\
+	"Los monjes de combate de Yhagoro se enorgullecen de su perfección mental y física. "\
+	"Dedicando sus vidas a convertir sus cuerpos en armas, los Monjes son más que capaces de "\
+	"detener a un hombre con armadura completa en seco."
+obj00001900 "A veces la fuerza bruta no es el único arma del sacerdocio, y ahí es donde entran los Asesinos. "\
+	"Estos sigilosos y sanguinarios asesinos han apagado el fuego de más de un posible héroe "\
+	"y enviado a más de un noble prematuramente a la tumba."
+obj00001901 "A veces la fuerza bruta no es el único arma del sacerdocio, y ahí es donde entran los Asesinos. "\
+	"Estos sigilosos y sanguinarios asesinos han apagado el fuego de más de un posible héroe "\
+	"y enviado a más de un noble prematuramente a la tumba."
+obj00001902 "A veces la fuerza bruta no es el único arma del sacerdocio, y ahí es donde entran los Asesinos. "\
+	"Estos sigilosos y sanguinarios asesinos han apagado el fuego de más de un posible héroe y enviado a "\
+	"más de un noble prematuramente a la tumba."
+obj00004000 "Se piensa que estas horribles criaturas solo existen en pesadillas y leyendas. "\
+	"Habitantes del reino demoníaco de Anseraak, los Magos Demonio son criaturas aladas capaces de lanzar "\
+	"la más maligna de las magias. Ningún hombre mortal podría sobrevivir a un encuentro con esta bestia demoníaca."
+obj00001800 "El Campeón Ogrok es legendario por su increíble número de muertes en la arena de combate. "\
+	"Un Ogrok de tamaño y poder nunca antes vistos, Baez es conocido por su estilo de lucha y combate cuerpo a cuerpo poco ortodoxo."
+obj0000100c "Esta bestia de leyenda fue invocada por los antiguos para proteger la Cripta de la Reina después "\
+	"del gran cataclismo. Se rumorea que tiene el tamaño de un dragón ancestral y un apetito por la carne humana."
 
 //NPC's
 obj00001008 "The ruler of Misthaven once had complete control over the island of Ahkuilon. "\
