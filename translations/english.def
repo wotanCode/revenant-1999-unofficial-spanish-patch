@@ -1117,516 +1117,527 @@ obj0000100c "Esta bestia de leyenda fue invocada por los antiguos para proteger 
 	"del gran cataclismo. Se rumorea que tiene el tamaño de un dragón ancestral y un apetito por la carne humana."
 
 //NPC's
-obj00001008 "The ruler of Misthaven once had complete control over the island of Ahkuilon. "\
-	"With the lucrative shipping trade, his home city of Misthaven flourished under his rule. "\
-	"The father of a single daughter and a former general, Tendrick is respected by his people."
-obj0000200a "This sorcerer arrived in Misthaven shortly after the cult began attacking the city. "\
-	"He quickly earned the trust of Tendrick and was appointed official advisor to the throne. "\
-	"Little else is known about this mysterious individual."
-obj00002027 "This career soldier has been a loyal follower of Tendrick since they graduated from the academy. "\
-	"He has been unable to rise above his lowly castle guard status do to a weak spine."
-obj00003001 "The captain of the guard is fiercely loyal to his master, the warlord Tendrick. "\
-	"Gow has seen his soldiers decimated at the hands of the priests and is thirsty for vengeance."
-obj00000020 "This strange old hermit lives just outside of Misthaven in the forest. "\
-	"He has lived on Ahkuilon longer than anyone can remember. "\
-	"Although he appears to have lost his mind, he can often be the source of crucial information."
-obj00000797 "Cronus is an orphaned Cyclops who knows nothing of his origin. "\
-	"He is an expert blacksmith and his armors have a unique style and strength not found anywhere else."
-obj00000700 "Gina comes from a race of half human half feline creatures known as the Siinj. "\
-	"She is a weaponry expert capable of crafting excellent tools of destruction. "\
-	"She is also known for her trading abilities, which allows her to acquire weapons both unique and legendary."
-obj00001004 "Hruthford is a simple man trying to earn a living running the item shop in Misthaven. "\
-	"His wife and children were lost at sea and he has thrown himself into his work ever since."
-obj00001002 "Misthaven�s healer is quite an enigma. Although he has saved hundreds of lives over the years "\
-	"and pleases the townspeople with his singing, his insistence that he is from another place and time tend "\
-	"to cause him many lonely days and nights."
-obj00003002 "Misthaven�s resident combat trainer is a veteran of the eastern wars. Captured from his homeland by "\
-	"raiding armies, Jong made a daring escape at sea and swam hundreds of miles to be washed up on the shores "\
-	"of Ahkuilon. Believing he was dishonored by not receiving an honorable death in combat, Jong has vowed never "\
-	"to return to the East."
-obj00002003 "The harbormaster for Misthaven is a simple man. While not blessed with intelligence, Gus has a warm heart "\
-	"and always has nice things to say to people."
-obj00001005 "Kylie is a dancer who works at the Drunken Whore Tavern. She is a woman starved for attention and "\
-	"will do just about anything to gain others interest in her."
-obj00001007 "Rubold is the owner of the Drunken Whore Tavern. He is very proud of his establishment and does "\
-	"quite well for himself catering to sailors from other lands. He is fiercely protective of Kylie and "\
-	"has a short temper."
-obj00001fff "Sabu is the right hand man of Jhaga, leader of the Yhagoro cult. Although Sabu is fluent in the "\
-	"magic arts, he fears confrontation and will avoid it at all costs."
-obj00000052 "The leader of the Children of the Change cult, Jhaga is a sorcerer who possesses incredible magic "\
-	"power. He is a worshiper of the demon god Yhagoro and will follow his master�s commands at any cost."
-obj0000200f "A resident of Misthaven."
-obj0000200e "A resident of Misthaven."
-obj00002011 "A resident of Misthaven."
+obj00001008 "El gobernante de Misthaven una vez tuvo control absoluto sobre la isla de Ahkuilon. "\
+	"Gracias al lucrativo comercio marítimo, su ciudad natal de Misthaven prosperó bajo su mando. "\
+	"Padre de una única hija y antiguo general, Tendrick es respetado por su pueblo."
+obj0000200a "Este hechicero llegó a Misthaven poco después de que el culto comenzara a atacar la ciudad. "\
+	"Rápidamente se ganó la confianza de Tendrick y fue nombrado asesor oficial del trono. "\
+	"Poco más se sabe sobre este misterioso individuo."
+obj00002027 "Este soldado de carrera ha sido un leal seguidor de Tendrick desde que ambos se graduaron de la academia. "\
+	"No ha podido ascender más allá de su modesto rango de guardia del castillo debido a su débil carácter."
+obj00003001 "El capitán de la guardia es ferozmente leal a su señor, el caudillo Tendrick. "\
+	"Gow ha visto a sus soldados diezmados a manos de los sacerdotes y anhela vengarse."
+obj00000020 "Este extraño anciano ermitaño vive justo fuera de Misthaven, en el bosque. "\
+	"Ha vivido en Ahkuilon desde antes de que nadie pueda recordarlo. "\
+	"Aunque parece haber perdido la cordura, a menudo es una fuente de información crucial."
+obj00000797 "Cronus es un cíclope huérfano que no sabe nada sobre su origen. "\
+	"Es un herrero experto, y sus armaduras poseen un estilo y una resistencia únicos que no se encuentran en ningún otro lugar."
+obj00000700 "Gina proviene de una raza de criaturas mitad humanas y mitad felinas conocidas como los Siinj. "\
+	"Es una experta en armamento, capaz de fabricar excelentes herramientas de destrucción. "\
+	"También es conocida por sus habilidades comerciales, que le permiten adquirir armas únicas y legendarias."
+obj00001004 "Hruthford es un hombre sencillo que intenta ganarse la vida administrando la tienda de objetos en Misthaven. "\
+	"Su esposa e hijos se perdieron en el mar, y desde entonces se ha volcado completamente en su trabajo."
+obj00001002 "El sanador de Misthaven es todo un enigma. Aunque ha salvado cientos de vidas a lo largo de los años "\
+	"y deleita al pueblo con su canto, su insistencia en que proviene de otro lugar y tiempo le ha causado "\
+	"muchos días y noches de soledad."
+obj00003002 "El instructor de combate de Misthaven es un veterano de las guerras del Este. Capturado en su tierra natal por "\
+	"ejércitos invasores, Jong realizó una fuga audaz por mar y nadó cientos de millas hasta llegar a las costas "\
+	"de Ahkuilon. Creyendo que fue deshonrado por no recibir una muerte honorable en combate, Jong ha jurado nunca "\
+	"volver al Este."
+obj00002003 "El maestro del puerto de Misthaven es un hombre sencillo. Aunque no es muy inteligente, Gus tiene un gran corazón "\
+	"y siempre tiene palabras amables para los demás."
+obj00001005 "Kylie es una bailarina que trabaja en la Taberna de la Ramera Ebria. Es una mujer hambrienta de atención y "\
+	"hará casi cualquier cosa para atraer el interés de los demás."
+obj00001007 "Rubold es el propietario de la Taberna de la Ramera Ebria. Está muy orgulloso de su establecimiento y le va "\
+	"bastante bien atendiendo a marineros de otras tierras. Es ferozmente protector con Kylie y tiene un temperamento fuerte."
+obj00001fff "Sabu es la mano derecha de Jhaga, líder del culto de Yhagoro. Aunque Sabu domina las artes mágicas, "\
+	"teme el enfrentamiento y lo evitará a toda costa."
+obj00000052 "El líder del culto de los Hijos del Cambio, Jhaga, es un hechicero que posee un increíble poder mágico. "\
+	"Es un adorador del dios demonio Yhagoro y seguirá las órdenes de su maestro sin dudarlo."
+obj0000200f "Un residente de Misthaven."
+obj0000200e "Un residente de Misthaven."
+obj00002011 "Un residente de Misthaven."
 
 //missing Yhagoro
 
 //Armor Sets
 
 //cloth armors
-objf3d7005c "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d7005d "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d7005e "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d7005f "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70060 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70061 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70062 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70063 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70064 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70065 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70066 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
-objf3d70067 "Crafted from cotton, this clothing represents the most basic available. "\
-	"It offers no combat protection and is available in several different colors."
+objf3d7005c "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d7005d "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d7005e "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d7005f "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70060 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70061 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70062 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70063 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70064 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70065 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70066 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
+objf3d70067 "Confeccionada con algodón, esta prenda representa lo más básico disponible. "\
+	"No ofrece protección en combate y está disponible en varios colores."
 
 //Gothic Armor
-objf3d7008b "A vampire lord once owned this heavy plate armor. It was created by submersing "\
-	"cursed plate armor into vampire blood, giving it a crimson appearance. Highly effective "\
-	"against all magic attacks."
-objf3d7008c "A vampire lord once owned this heavy plate armor. It was created by submersing "\
-	"cursed plate armor into vampire blood, giving it a crimson appearance. Highly effective "\
-	"against all magic attacks."
-objf3d7008d "A vampire lord once owned this heavy plate armor. It was created by submersing "\
-	"cursed plate armor into vampire blood, giving it a crimson appearance. Highly effective "\
-	"against all magic attacks."
-objf3d7008e "A vampire lord once owned this heavy plate armor. It was created by submersing "\
-	"cursed plate armor into vampire blood, giving it a crimson appearance. Highly effective "\
-	"against all magic attacks."
-objf3d7008f "A vampire lord once owned this heavy plate armor. It was created by submersing "\
-	"cursed plate armor into vampire blood, giving it a crimson appearance. Highly effective "\
-	"against all magic attacks."
+objf3d7008b "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
+	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
+	"contra todo tipo de ataques mágicos."
+objf3d7008c "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
+	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
+	"contra todo tipo de ataques mágicos."
+objf3d7008d "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
+	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
+	"contra todo tipo de ataques mágicos."
+objf3d7008e "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
+	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
+	"contra todo tipo de ataques mágicos."
+objf3d7008f "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
+	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
+	"contra todo tipo de ataques mágicos."
 
 //Animal Fur Armor
-objf3d7007c "Crafted from the skins and pelts of various creatures, the woodland armor offers "\
-	"basic combat protection. It is lightweight and has good resistance to poison attacks."
-objf3d7007d "Crafted from the skins and pelts of various creatures, the woodland armor offers "\
-	"basic combat protection. It is lightweight and has good resistance to poison attacks."
-objf3d7007e "Crafted from the skins and pelts of various creatures, the woodland armor offers "\
-	"basic combat protection. It is lightweight and has good resistance to poison attacks."
-objf3d7007f "Crafted from the skins and pelts of various creatures, the woodland armor offers "\
-	"basic combat protection. It is lightweight and has good resistance to poison attacks."
-objf3d70080 "Crafted from the skins and pelts of various creatures, the woodland armor offers "\
-	"basic combat protection. It is lightweight and has good resistance to poison attacks."
+objf3d7007c "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
+	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
+objf3d7007d "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
+	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
+objf3d7007e "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
+	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
+objf3d7007f "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
+	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
+objf3d70080 "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
+	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
 
 //Woodland Armor
-objf3d7009f "This armor is crafted by riveting wooden shingles onto a light leather material. "\
-	"Its light construction offers the wearer increased energy."
-objf3d700a0 "This armor is crafted by riveting wooden shingles onto a light leather material. "\
-	"Its light construction offers the wearer increased energy."
-objf3d700a1 "This armor is crafted by riveting wooden shingles onto a light leather material. "\
-	"Its light construction offers the wearer increased energy."
-objf3d700a2 "This armor is crafted by riveting wooden shingles onto a light leather material. "\
-	"Its light construction offers the wearer increased energy."
-objf3d700a3 "This armor is crafted by riveting wooden shingles onto a light leather material. "\
-	"Its light construction offers the wearer increased energy."
+objf3d7009f "Esta armadura está fabricada uniendo tablillas de madera sobre un material de cuero ligero. "\
+	"Su construcción liviana otorga al portador una mayor energía."
+objf3d700a0 "Esta armadura está fabricada uniendo tablillas de madera sobre un material de cuero ligero. "\
+	"Su construcción liviana otorga al portador una mayor energía."
+objf3d700a1 "Esta armadura está fabricada uniendo tablillas de madera sobre un material de cuero ligero. "\
+	"Su construcción liviana otorga al portador una mayor energía."
+objf3d700a2 "Esta armadura está fabricada uniendo tablillas de madera sobre un material de cuero ligero. "\
+	"Su construcción liviana otorga al portador una mayor energía."
+objf3d700a3 "Esta armadura está fabricada uniendo tablillas de madera sobre un material de cuero ligero. "\
+	"Su construcción liviana otorga al portador una mayor energía."
 
 //Leather Armors
-objf3d70090 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70091 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70092 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70093 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70094 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70095 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70096 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70097 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70098 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d70099 "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d7009a "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d7009b "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d7009c "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d7009d "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
-objf3d7009e "Gina�s leather armor is renowned for its unique style. "\
-	"Leather pads are riveted over a thick quilted base. Good protection for lower level combat."
+objf3d70090 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70091 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70092 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70093 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70094 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70095 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70096 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70097 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70098 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d70099 "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d7009a "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d7009b "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d7009c "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d7009d "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
+objf3d7009e "La armadura de cuero de Gina es reconocida por su estilo único. "\
+	"Las placas de cuero están remachadas sobre una base acolchada gruesa. "\
+	"Ofrece buena protección para combates de bajo nivel."
 
 //Bone Armor
-objf3d70054 "The bone armor is comprised of equal parts cloth, leather, and bone. "\
-	"The bone armor was constructed by the ancients and restored to its current form. "\
-	"Offers very strong defense for a lower level armor."
-objf3d70055 "The bone armor is comprised of equal parts cloth, leather, and bone. "\
-	"The bone armor was constructed by the ancients and restored to its current form. "\
-	"Offers very strong defense for a lower level armor."
-objf3d70056 "The bone armor is comprised of equal parts cloth, leather, and bone. "\
-	"The bone armor was constructed by the ancients and restored to its current form. "\
-	"Offers very strong defense for a lower level armor."
+objf3d70054 "La armadura de hueso está compuesta en partes iguales de tela, cuero y hueso. "\
+	"Fue construida por los antiguos y restaurada a su forma actual. "\
+	"Ofrece una defensa muy sólida para una armadura de nivel bajo."
+objf3d70055 "La armadura de hueso está compuesta en partes iguales de tela, cuero y hueso. "\
+	"Fue construida por los antiguos y restaurada a su forma actual. "\
+	"Ofrece una defensa muy sólida para una armadura de nivel bajo."
+objf3d70056 "La armadura de hueso está compuesta en partes iguales de tela, cuero y hueso. "\
+	"Fue construida por los antiguos y restaurada a su forma actual. "\
+	"Ofrece una defensa muy sólida para una armadura de nivel bajo."
 
 //Studded Armor
-objf3d700a4 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700a5 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700a6 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700a7 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700a8 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700a9 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700aa "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700ab "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700ac "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700ad "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700ae "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700af "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700b0 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700b1 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
-objf3d700b2 "The studded armor is a full suit of leather adorned with hundreds "\
-	"of metal rivets for increased protection. This armor is available in several different colors."
+objf3d700a4 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700a5 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700a6 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700a7 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700a8 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700a9 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700aa "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700ab "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700ac "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700ad "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700ae "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700af "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700b0 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700b1 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
+objf3d700b2 "La armadura tachonada es un traje completo de cuero adornado con cientos "\
+	"de remaches metálicos para una mayor protección. Esta armadura está disponible en varios colores."
 
 //Scalemail Armors
-objf3d700b8 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700b9 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700ba "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700bb "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700bc "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700bd "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700be "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700bf "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c0 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c1 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c2 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c3 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c4 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c5 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
-objf3d700c6 "This armor is a blend of light plate and dragon scales. "\
-	"Each color of this armor is made with the scales of a different type "\
-	"of dragon, and will offer resistance to different types of magical attacks."
+objf3d700b8 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700b9 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700ba "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700bb "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700bc "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700bd "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700be "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700bf "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c0 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c1 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c2 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c3 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c4 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c5 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
+objf3d700c6 "Esta armadura es una combinación de placas ligeras y escamas de dragón. "\
+	"Cada color de esta armadura está hecho con las escamas de un tipo diferente "\
+	"de dragón, y ofrece resistencia a distintos tipos de ataques mágicos."
 
 //Celtic Armor
-objf3d70081 "A high quality quilted armor from the northlands. This armor has "\
-	"been blessed by the Celtic gods and offers good resistance to magical and flame damage."
-objf3d70082 "A high quality quilted armor from the northlands. This armor has "\
-	"been blessed by the Celtic gods and offers good resistance to magical and flame damage."
-objf3d70083 "A high quality quilted armor from the northlands. This armor has "\
-	"been blessed by the Celtic gods and offers good resistance to magical and flame damage."
-objf3d70084 "A high quality quilted armor from the northlands. This armor has "\
-	"been blessed by the Celtic gods and offers good resistance to magical and flame damage."
-objf3d70085 "A high quality quilted armor from the northlands. This armor has "\
-	"been blessed by the Celtic gods and offers good resistance to magical and flame damage."
+objf3d70081 "Una armadura acolchada de alta calidad proveniente de las tierras del norte. "\
+	"Ha sido bendecida por los dioses celtas y ofrece buena resistencia al daño mágico y al fuego."
+objf3d70082 "Una armadura acolchada de alta calidad proveniente de las tierras del norte. "\
+	"Ha sido bendecida por los dioses celtas y ofrece buena resistencia al daño mágico y al fuego."
+objf3d70083 "Una armadura acolchada de alta calidad proveniente de las tierras del norte. "\
+	"Ha sido bendecida por los dioses celtas y ofrece buena resistencia al daño mágico y al fuego."
+objf3d70084 "Una armadura acolchada de alta calidad proveniente de las tierras del norte. "\
+	"Ha sido bendecida por los dioses celtas y ofrece buena resistencia al daño mágico y al fuego."
+objf3d70085 "Una armadura acolchada de alta calidad proveniente de las tierras del norte. "\
+	"Ha sido bendecida por los dioses celtas y ofrece buena resistencia al daño mágico y al fuego."
 
 //Chainmail Armors
-objf3d70068 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70069 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006a "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006b "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006c "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006d "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006e "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7006f "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70070 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70071 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70077 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70078 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70079 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7007a "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7007b "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70086 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70087 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70088 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d70089 "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
-objf3d7008a "Crafted from steel ringlets, chain mail is a solid armor that has some "\
-	"resistance to magical attacks. This armor has been a staple of combat for centuries."
+objf3d70068 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70069 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006a "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006b "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006c "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006d "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006e "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7006f "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70070 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70071 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70077 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70078 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70079 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7007a "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7007b "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70086 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70087 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70088 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d70089 "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
+objf3d7008a "Fabricada con anillos de acero, la cota de malla es una armadura sólida que ofrece "\
+	"cierta resistencia a los ataques mágicos. Esta armadura ha sido un pilar del combate durante siglos."
 
 //Barbarian Armor
-objf3d70057 "The barbarians of the northern wastes made this armor famous. "\
-	"Don�t let the appearance fool you, as this armor has proven itself in "\
-	"battle time and time again. Rumored to increase the rage of those that wear it, making them fierce in combat."
-objf3d70058 "The barbarians of the northern wastes made this armor famous. "\
-	"Don�t let the appearance fool you, as this armor has proven itself in "\
-	"battle time and time again. Rumored to increase the rage of those that wear it, making them fierce in combat."
-objf3d70059 "The barbarians of the northern wastes made this armor famous. "\
-	"Don�t let the appearance fool you, as this armor has proven itself in "\
-	"battle time and time again. Rumored to increase the rage of those that wear it, making them fierce in combat."
-objf3d7005a "The barbarians of the northern wastes made this armor famous. "\
-	"Don�t let the appearance fool you, as this armor has proven itself in "\
-	"battle time and time again. Rumored to increase the rage of those that wear it, making them fierce in combat."
-objf3d7005b "The barbarians of the northern wastes made this armor famous. "\
-	"Don�t let the appearance fool you, as this armor has proven itself in "\
-	"battle time and time again. Rumored to increase the rage of those that wear it, making them fierce in combat."
-
+objf3d70057 "Los bárbaros de los páramos del norte hicieron famosa esta armadura. "\
+	"No te dejes engañar por su apariencia, ya que esta armadura ha demostrado su eficacia "\
+	"una y otra vez en batalla. Se rumorea que aumenta la furia de quienes la portan, haciéndolos fieros en combate."
+objf3d70058 "Los bárbaros de los páramos del norte hicieron famosa esta armadura. "\
+	"No te dejes engañar por su apariencia, ya que esta armadura ha demostrado su eficacia "\
+	"una y otra vez en batalla. Se rumorea que aumenta la furia de quienes la portan, haciéndolos fieros en combate."
+objf3d70059 "Los bárbaros de los páramos del norte hicieron famosa esta armadura. "\
+	"No te dejes engañar por su apariencia, ya que esta armadura ha demostrado su eficacia "\
+	"una y otra vez en batalla. Se rumorea que aumenta la furia de quienes la portan, haciéndolos fieros en combate."
+objf3d7005a "Los bárbaros de los páramos del norte hicieron famosa esta armadura. "\
+	"No te dejes engañar por su apariencia, ya que esta armadura ha demostrado su eficacia "\
+	"una y otra vez en batalla. Se rumorea que aumenta la furia de quienes la portan, haciéndolos fieros en combate."
+objf3d7005b "Los bárbaros de los páramos del norte hicieron famosa esta armadura. "\
+	"No te dejes engañar por su apariencia, ya que esta armadura ha demostrado su eficacia "\
+	"una y otra vez en batalla. Se rumorea que aumenta la furia de quienes la portan, haciéndolos fieros en combate."
 //Dragon Armors
-objf3d700c7 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700c8 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700c9 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700ca "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700cb "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700cc "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700cd "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700ce "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700cf "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d0 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d1 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d2 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d3 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d4 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
-objf3d700d5 "The dragon armor was once worn by the legendary dragon riders of Vaughn. "\
-	"The dragon riders were wiped out in the eastern wars but the amazing armor they "\
-	"wore lives on. Fearsome to look at and strong on defense, this armor also carries magical properties."
+objf3d700c7 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700c8 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700c9 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700ca "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700cb "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700cc "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700cd "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700ce "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700cf "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d0 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d1 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d2 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d3 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d4 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
+objf3d700d5 "La armadura de dragón fue una vez usada por los legendarios jinetes de dragón de Vaughn. "\
+	"Los jinetes de dragón fueron eliminados en las guerras del este, pero la increíble armadura que "\
+	"usaban perdura. Imponente a la vista y fuerte en defensa, esta armadura también posee propiedades mágicas."
 
 //Nightshade Armor
-objf3d700ea "This suit of armor is a remnant from the days of the ancient empire. "\
-	"Highly stylized and adorned in red and black. Offers additional resistance to poison."
-objf3d700eb "This suit of armor is a remnant from the days of the ancient empire. "\
-	"Highly stylized and adorned in red and black. Offers additional resistance to poison."
-objf3d700ec "This suit of armor is a remnant from the days of the ancient empire. "\
-	"Highly stylized and adorned in red and black. Offers additional resistance to poison."
-objf3d700ed "This suit of armor is a remnant from the days of the ancient empire. "\
-	"Highly stylized and adorned in red and black. Offers additional resistance to poison."
-objf3d700ee "This suit of armor is a remnant from the days of the ancient empire. "\
-	"Highly stylized and adorned in red and black. Offers additional resistance to poison."
+objf3d700ea "Esta armadura es un vestigio de los días del antiguo imperio. "\
+	"Altamente estilizada y adornada en rojo y negro. Ofrece resistencia adicional al veneno."
+objf3d700eb "Esta armadura es un vestigio de los días del antiguo imperio. "\
+	"Altamente estilizada y adornada en rojo y negro. Ofrece resistencia adicional al veneno."
+objf3d700ec "Esta armadura es un vestigio de los días del antiguo imperio. "\
+	"Altamente estilizada y adornada en rojo y negro. Ofrece resistencia adicional al veneno."
+objf3d700ed "Esta armadura es un vestigio de los días del antiguo imperio. "\
+	"Altamente estilizada y adornada en rojo y negro. Ofrece resistencia adicional al veneno."
+objf3d700ee "Esta armadura es un vestigio de los días del antiguo imperio. "\
+	"Altamente estilizada y adornada en rojo y negro. Ofrece resistencia adicional al veneno."
 
 //Assassin Armor
-objf3d700f8 "This armor is used primarily by the assassins from the eastern lands. "\
-	"It offers good protection and is recommended for situations calling for stealth."
-objf3d700f9 "This armor is used primarily by the assassins from the eastern lands. "\
-	"It offers good protection and is recommended for situations calling for stealth."
-objf3d700fa "This armor is used primarily by the assassins from the eastern lands. "\
-	"It offers good protection and is recommended for situations calling for stealth."
-objf3d700fb "This armor is used primarily by the assassins from the eastern lands. "\
-	"It offers good protection and is recommended for situations calling for stealth."
-objf3d700fc "This armor is used primarily by the assassins from the eastern lands. "\
-	"It offers good protection and is recommended for situations calling for stealth."
+objf3d700f8 "Esta armadura es usada principalmente por los asesinos de las tierras del este. "\
+	"Ofrece buena protección y se recomienda para situaciones que requieran sigilo."
+objf3d700f9 "Esta armadura es usada principalmente por los asesinos de las tierras del este. "\
+	"Ofrece buena protección y se recomienda para situaciones que requieran sigilo."
+objf3d700fa "Esta armadura es usada principalmente por los asesinos de las tierras del este. "\
+	"Ofrece buena protección y se recomienda para situaciones que requieran sigilo."
+objf3d700fb "Esta armadura es usada principalmente por los asesinos de las tierras del este. "\
+	"Ofrece buena protección y se recomienda para situaciones que requieran sigilo."
+objf3d700fc "Esta armadura es usada principalmente por los asesinos de las tierras del este. "\
+	"Ofrece buena protección y se recomienda para situaciones que requieran sigilo."
 
 //Holy Armor
-objf3d700e0 "The Holy Armor became a legend during the Rugaardic wars. It is told that "\
-	"a lone warrior wearing the holy armor and riding a pure white steed wiped out "\
-	"thousands of men in the battle of Lamark. The warrior was later found to be a "\
-	"young girl empowered by the Gods. She was eventually captured and put to death, "\
-	"and the armor was thought lost."
-objf3d700e1 "The Holy Armor became a legend during the Rugaardic wars. It is told that "\
-	"a lone warrior wearing the holy armor and riding a pure white steed wiped out "\
-	"thousands of men in the battle of Lamark. The warrior was later found to be a young "\
-	"girl empowered by the Gods. She was eventually captured and put to death, and the armor was thought lost."
-objf3d700e2 "The Holy Armor became a legend during the Rugaardic wars. It is told that "\
-	"a lone warrior wearing the holy armor and riding a pure white steed wiped out "\
-	"thousands of men in the battle of Lamark. The warrior was later found to be a young "\
-	"girl empowered by the Gods. She was eventually captured and put to death, and the armor was thought lost."
-objf3d700e3 "The Holy Armor became a legend during the Rugaardic wars. It is told that "\
-	"a lone warrior wearing the holy armor and riding a pure white steed wiped out "\
-	"thousands of men in the battle of Lamark. The warrior was later found to be a "\
-	"young girl empowered by the Gods. She was eventually captured and put to death, and the armor was thought lost."
-objf3d700e4 "The Holy Armor became a legend during the Rugaardic wars. It is told that a "\
-	"lone warrior wearing the holy armor and riding a pure white steed wiped out thousands "\
-	"of men in the battle of Lamark. The warrior was later found to be a young girl empowered by the "\
-	"Gods. She was eventually captured and put to death, and the armor was thought lost."
+objf3d700e0 "La Armadura Santa se convirtió en leyenda durante las guerras Rugaardicas. Se dice que "\
+	"una guerrera solitaria usando la armadura santa y montando un corcel blanco puro eliminó "\
+	"miles de hombres en la batalla de Lamark. La guerrera resultó ser una joven empoderada por los Dioses. "\
+	"Eventualmente fue capturada y ejecutada, y se pensó que la armadura se había perdido."
+objf3d700e1 "La Armadura Santa se convirtió en leyenda durante las guerras Rugaardicas. Se dice que "\
+	"una guerrera solitaria usando la armadura santa y montando un corcel blanco puro eliminó "\
+	"miles de hombres en la batalla de Lamark. La guerrera resultó ser una joven empoderada por los Dioses. "\
+	"Eventualmente fue capturada y ejecutada, y se pensó que la armadura se había perdido."
+objf3d700e2 "La Armadura Santa se convirtió en leyenda durante las guerras Rugaardicas. Se dice que "\
+	"una guerrera solitaria usando la armadura santa y montando un corcel blanco puro eliminó "\
+	"miles de hombres en la batalla de Lamark. La guerrera resultó ser una joven empoderada por los Dioses. "\
+	"Eventualmente fue capturada y ejecutada, y se pensó que la armadura se había perdido."
+objf3d700e3 "La Armadura Santa se convirtió en leyenda durante las guerras Rugaardicas. Se dice que "\
+	"una guerrera solitaria usando la armadura santa y montando un corcel blanco puro eliminó "\
+	"miles de hombres en la batalla de Lamark. La guerrera resultó ser una joven empoderada por los Dioses. "\
+	"Eventualmente fue capturada y ejecutada, y se pensó que la armadura se había perdido."
+objf3d700e4 "La Armadura Santa se convirtió en leyenda durante las guerras Rugaardicas. Se dice que "\
+	"una guerrera solitaria usando la armadura santa y montando un corcel blanco puro eliminó "\
+	"miles de hombres en la batalla de Lamark. La guerrera resultó ser una joven empoderada por los Dioses. "\
+	"Eventualmente fue capturada y ejecutada, y se pensó que la armadura se había perdido."
 
 //Berserker Armor
-objf3d700f3 "The Berserker armor came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they cause earned them the berserker name, now legendary throughout Ur. "\
-	"This armor is infused with the same potion, boosting the wearer with greater energy."
-objf3d700f4 "The Berserker armor came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they cause earned them the berserker name, now legendary throughout Ur. "\
-	"This armor is infused with the same potion, boosting the wearer with greater energy."
-objf3d700f5 "The Berserker armor came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they cause earned them the berserker name, now legendary throughout Ur. "\
-	"This armor is infused with the same potion, boosting the wearer with greater energy."
-objf3d700f6 "The Berserker armor came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they cause earned them the berserker name, now legendary throughout Ur. "\
-	"This armor is infused with the same potion, boosting the wearer with greater energy."
-objf3d700f7 "The Berserker armor came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they cause earned them the berserker name, now legendary throughout Ur. "\
-	"This armor is infused with the same potion, boosting the wearer with greater energy."
+objf3d700f3 "La armadura Berserker surgió durante las guerras del este. "\
+	"Una división de bárbaros fue obligada a beber una poción mágica que los llenó de furia sanguinaria. "\
+	"La destrucción que causaron les valió el nombre de Berserker, ahora legendario en todo Ur. "\
+	"Esta armadura está impregnada con la misma poción, aumentando la energía del portador."
+objf3d700f4 "La armadura Berserker surgió durante las guerras del este. "\
+	"Una división de bárbaros fue obligada a beber una poción mágica que los llenó de furia sanguinaria. "\
+	"La destrucción que causaron les valió el nombre de Berserker, ahora legendario en todo Ur. "\
+	"Esta armadura está impregnada con la misma poción, aumentando la energía del portador."
+objf3d700f5 "La armadura Berserker surgió durante las guerras del este. "\
+	"Una división de bárbaros fue obligada a beber una poción mágica que los llenó de furia sanguinaria. "\
+	"La destrucción que causaron les valió el nombre de Berserker, ahora legendario en todo Ur. "\
+	"Esta armadura está impregnada con la misma poción, aumentando la energía del portador."
+objf3d700f6 "La armadura Berserker surgió durante las guerras del este. "\
+	"Una división de bárbaros fue obligada a beber una poción mágica que los llenó de furia sanguinaria. "\
+	"La destrucción que causaron les valió el nombre de Berserker, ahora legendario en todo Ur. "\
+	"Esta armadura está impregnada con la misma poción, aumentando la energía del portador."
+objf3d700f7 "La armadura Berserker surgió durante las guerras del este. "\
+	"Una división de bárbaros fue obligada a beber una poción mágica que los llenó de furia sanguinaria. "\
+	"La destrucción que causaron les valió el nombre de Berserker, ahora legendario en todo Ur. "\
+	"Esta armadura está impregnada con la misma poción, aumentando la energía del portador."
 
 //Spiked Armor
-objf3d7004f "The black knight of Argus originally wore this armor. "\
-	"Rumored to be indestructible, a former king from the ancient empire "\
-	"challenged the black knight and defeated him in hand to hand combat. "\
-	"Although heavy and cumbersome, this armor will add to your hand to hand combat power."
-objf3d70050 "The black knight of Argus originally wore this armor. "\
-	"Rumored to be indestructible, a former king from the ancient empire challenged "\
-	"the black knight and defeated him in hand to hand combat. Although heavy and cumbersome, "\
-	"this armor will add to your hand to hand combat power."
-objf3d70051 "The black knight of Argus originally wore this armor. "\
-	"Rumored to be indestructible, a former king from the ancient empire challenged the "\
-	"black knight and defeated him in hand to hand combat. Although heavy and cumbersome, "\
-	"this armor will add to your hand to hand combat power."
-objf3d70052 "The black knight of Argus originally wore this armor. Rumored to be indestructible, "\
-	"a former king from the ancient empire challenged the black knight and defeated him in hand "\
-	"to hand combat. Although heavy and cumbersome, this armor will add to your hand to hand combat power."
-objf3d70053 "The black knight of Argus originally wore this armor. "\
-	"Rumored to be indestructible, a former king from the ancient empire challenged "\
-	"the black knight and defeated him in hand to hand combat. Although heavy and cumbersome, "\
-	"this armor will add to your hand to hand combat power."
+objf3d7004f "El Caballero Negro de Argus originalmente llevaba esta armadura. "\
+	"Se rumorea que es indestructible, un antiguo rey del imperio desafió al caballero negro "\
+	"y lo derrotó en combate cuerpo a cuerpo. Aunque pesada y engorrosa, esta armadura "\
+	"incrementará tu poder en combate cuerpo a cuerpo."
+objf3d70050 "El Caballero Negro de Argus originalmente llevaba esta armadura. "\
+	"Se rumorea que es indestructible, un antiguo rey del imperio desafió al caballero negro "\
+	"y lo derrotó en combate cuerpo a cuerpo. Aunque pesada y engorrosa, esta armadura "\
+	"incrementará tu poder en combate cuerpo a cuerpo."
+objf3d70051 "El Caballero Negro de Argus originalmente llevaba esta armadura. "\
+	"Se rumorea que es indestructible, un antiguo rey del imperio desafió al caballero negro "\
+	"y lo derrotó en combate cuerpo a cuerpo. Aunque pesada y engorrosa, esta armadura "\
+	"incrementará tu poder en combate cuerpo a cuerpo."
+objf3d70052 "El Caballero Negro de Argus originalmente llevaba esta armadura. "\
+	"Se rumorea que es indestructible, un antiguo rey del imperio desafió al caballero negro "\
+	"y lo derrotó en combate cuerpo a cuerpo. Aunque pesada y engorrosa, esta armadura "\
+	"incrementará tu poder en combate cuerpo a cuerpo."
+objf3d70053 "El Caballero Negro de Argus originalmente llevaba esta armadura. "\
+	"Se rumorea que es indestructible, un antiguo rey del imperio desafió al caballero negro "\
+	"y lo derrotó en combate cuerpo a cuerpo. Aunque pesada y engorrosa, esta armadura "\
+	"incrementará tu poder en combate cuerpo a cuerpo."
 
 //Missing Iron Armor
 
 //Plate Armor
-objf3d70046 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down. The plate armor is the most "\
-	"common armor used by high level warriors. It is made from thick steel plating and has "\
-	"excellent durability. Be warned that this armor is extremely heavy and will slow you down."
-objf3d70047 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d70048 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d70049 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d7004a "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d700b3 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d700b4 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d700b5 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d700b6 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
-objf3d700b7 "The plate armor is the most common armor used by high level warriors. "\
-	"It is made from thick steel plating and has excellent durability. Be warned "\
-	"that this armor is extremely heavy and will slow you down."
+objf3d70046 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d70047 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d70048 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d70049 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d7004a "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d700b3 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d700b4 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d700b5 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d700b6 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
+objf3d700b7 "La armadura de placas es la armadura más común usada por guerreros de alto nivel. "\
+	"Está hecha de gruesas placas de acero y tiene excelente durabilidad. Ten en cuenta "\
+	"que esta armadura es extremadamente pesada y ralentizará tus movimientos."
 
 //Samurai Armor
-objf3d700e5 "This armor has been imported from the eastern lands. It is a stylized armor "\
-	"that is both heavy and durable. The samurai warriors from the east have used it for ages."
-objf3d700e6 "This armor has been imported from the eastern lands. It is a stylized armor "\
-	"that is both heavy and durable. The samurai warriors from the east have used it for ages."
-objf3d700e7 "This armor has been imported from the eastern lands. It is a stylized armor "\	
-	"that is both heavy and durable. The samurai warriors from the east have used it for ages."
-objf3d700e8 "This armor has been imported from the eastern lands. It is a stylized armor "\
-	"that is both heavy and durable. The samurai warriors from the east have used it for ages."
-objf3d700e9 "This armor has been imported from the eastern lands. It is a stylized armor "\
-	"that is both heavy and durable. The samurai warriors from the east have used it for ages."
+objf3d700e5 "Esta armadura ha sido importada de las tierras del este. Es una armadura estilizada "\
+	"que es a la vez pesada y duradera. Los guerreros samuráis del este la han usado durante siglos."
+objf3d700e6 "Esta armadura ha sido importada de las tierras del este. Es una armadura estilizada "\
+	"que es a la vez pesada y duradera. Los guerreros samuráis del este la han usado durante siglos."
+objf3d700e7 "Esta armadura ha sido importada de las tierras del este. Es una armadura estilizada "\
+	"que es a la vez pesada y duradera. Los guerreros samuráis del este la han usado durante siglos."
+objf3d700e8 "Esta armadura ha sido importada de las tierras del este. Es una armadura estilizada "\
+	"que es a la vez pesada y duradera. Los guerreros samuráis del este la han usado durante siglos."
+objf3d700e9 "Esta armadura ha sido importada de las tierras del este. Es una armadura estilizada "\
+	"que es a la vez pesada y duradera. Los guerreros samuráis del este la han usado durante siglos."
 
 //Nahkranoth Armor
-objf3d700ef "This demonic armor is not of this earth. It radiates intense evil power. Use with extreme caution."
-objf3d700f0 "This demonic armor is not of this earth. It radiates intense evil power. Use with extreme caution."
-objf3d700f1 "This demonic armor is not of this earth. It radiates intense evil power. Use with extreme caution."
-objf3d700f2 "This demonic armor is not of this earth. It radiates intense evil power. Use with extreme caution."
+objf3d700ef "Esta armadura demoníaca no es de este mundo. Irradia un intenso poder maligno. Úsala con extrema precaución."
+objf3d700f0 "Esta armadura demoníaca no es de este mundo. Irradia un intenso poder maligno. Úsala con extrema precaución."
+objf3d700f1 "Esta armadura demoníaca no es de este mundo. Irradia un intenso poder maligno. Úsala con extrema precaución."
+objf3d700f2 "Esta armadura demoníaca no es de este mundo. Irradia un intenso poder maligno. Úsala con extrema precaución."
 
 
 // Demo Dialog Lines
-DEOLI01 "Ahhh, there you are.  You finally made it."
-DEOLI02 "A test... A test I have for you."
-DEOLI03 "Deep within the caves, you will find the lair of a dragon."
-DEOLI04 "You must prove yourself by defeating the dragon in combat."
-DEOLI05 "Good...and if you manage to survive your ordeal, I will contact you again."
-DEOLI06 "Well done Locke.  You have proved yourself worthy."
-DEOLI07 "That is the end of this quest, but there are many adventures yet to be had in this land."
-DEOLI08 "Very soon your destiny will reveal itself."
-DELOC01 "What are you doing here?"
-DELOC02 "What test?"
-DELOC03 "I will do what you ask, old man."
+DEOLI01 "Ahhh, ahí estás. Finalmente llegaste."
+DEOLI02 "Una prueba... Una prueba que tengo para ti."
+DEOLI03 "En lo profundo de las cuevas, encontrarás la guarida de un dragón."
+DEOLI04 "Debes probar tu valía derrotando al dragón en combate."
+DEOLI05 "Bien... y si logras sobrevivir a tu prueba, me pondré en contacto contigo nuevamente."
+DEOLI06 "Bien hecho, Locke. Has demostrado ser digno."
+DEOLI07 "Ese es el fin de esta misión, pero aún hay muchas aventuras por vivir en esta tierra."
+DEOLI08 "Muy pronto tu destino se revelará."
+DELOC01 "¿Qué haces aquí?"
+DELOC02 "¿Qué prueba?"
+DELOC03 "Haré lo que pidas, viejo."
 
 // Dialog Lines
 I1LOC00 "Where am I?"
