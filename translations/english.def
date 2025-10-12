@@ -378,7 +378,7 @@ MIBOOK "Inteligencia Militar sobre los 'Hijos del Culto del Cambio'\n"\
 	"para nuestra amada ciudad; parecería que tenemos pocas razones para la esperanza.\n"\ 
 	"Esto concluye este informe con toda la información actualmente disponible sobre la plaga "\
 	"que representa el culto de los 'Hijos del Cambio'.\n"\ 
-	"Firmado por Geralt, escriba oficial de la ciudad de Ahkuilon"  
+	"Firmado por Geralt, escriba oficial de la ciudad de Ahkuilon"
 
 PCBOOK "Criaturas Depredadoras de Ahkuilon "\
 	"Compilado por Geralt, escriba oficial de la ciudad de Ahkuilon\n"\
@@ -645,7 +645,7 @@ SPELLBED "El hechizo Restaurar Vida ofrece la máxima cantidad de curación disp
 SPELLEJLH "Cuando se necesita poder absoluto, el hechizo Poder Inmortal es el único camino. "\
 	"Poder Inmortal otorgará al jugador habilidades divinas por un corto tiempo, añadiendo una enorme bonificación a todas las estadísticas. "\
 	"Brutalmente efectivo en cualquier situación."
-
+	
 
 
 // General Object Descriptions
@@ -1204,7 +1204,7 @@ objf3d7008e "Un señor vampiro fue el antiguo dueño de esta pesada armadura de 
 objf3d7008f "Un señor vampiro fue el antiguo dueño de esta pesada armadura de placas. Fue creada al sumergir "\
 	"una armadura maldita en sangre de vampiro, otorgándole su aspecto carmesí. Altamente efectiva "\
 	"contra todo tipo de ataques mágicos."
-
+	
 //Animal Fur Armor
 objf3d7007c "Elaborada con las pieles y cueros de varias criaturas, la armadura del bosque ofrece "\
 	"una protección básica en combate. Es liviana y posee buena resistencia a los ataques con veneno."
@@ -1705,10 +1705,14 @@ I1SAR24 "Me pregunto... ¿no era ese el mismo guardia que custodiaba a tu hija l
 I1TEN18 "¡Por los dioses, tienes razón! ¡Lleven a Rand a la mazmorra de inmediato!"
 I1SAR25 "Me encargaré personalmente."
 I1TEN19 "Locke, ya nos has demostrado que elegimos sabiamente."
+I1TEN19 "Locke, ya nos has demostrado que elegimos sabiamente." 
 I1TEN20 "Debes encontrar a mi hija y traerla de regreso a salvo."
+I1TEN20 "Debes encontrar a mi hija y traerla de regreso a salvo."
+I1TEN21 "Sé que estás obligado por el hechizo de invocación, pero te lo ruego: ¡encuéntrala, por favor!"
 I1TEN21 "Sé que estás obligado por el hechizo de invocación, pero te lo ruego: ¡encuéntrala, por favor!"
 I1LOC17 "Tu hija no significa nada para mí, como tampoco ustedes. Pero este hechizo es fuerte, y debo obedecerles. Solo pido ser libre una vez que cumpla mi tarea."
 I1TEN22 "De acuerdo."
+I1SAR26 "Regresa aquí si tienes problemas. Me encontrarás como un recurso invaluable."
 I1SAR26 "Regresa aquí si tienes problemas. Me encontrarás como un recurso invaluable."
 I2DAL00 "Así que realmente reclutaron a un cadáver para hacer el trabajo sucio."
 I2DAL01 "¿Cómo se siente estar muerto?"
@@ -1819,6 +1823,7 @@ I3RAN23 "Bueno, ¿no es obvio? ¡Es el único además de los sacerdotes que pued
 I3LOC15 "Estas son las divagaciones de un hombre desesperado. No tengo más tiempo para esto."
 I3LOC16 "Haré lo que pueda, pero no prometo nada."
 I3RAN24 "Debo creer que puedes convencerlos de que me perdonen. Mi vida está ahora en tus manos."
+I3RAN24 "Debo creer que puedes convencerlos de que me perdonen. Mi vida está ahora en tus manos."
 I4TEN00 "¿Qué has aprendido de Rand?"
 I4LOC00 "Parece que operan desde el lado este de la isla."
 I4LOC01 "Siguen las órdenes de un dios llamado Yhagoro."
@@ -1914,9 +1919,13 @@ I9LOC00 "Fue un largo y duro viaje hasta el Este de Ahkuilon."
 I9LOC01 "Ahora que he llegado, siento confianza en que tu hija estará a salvo en poco tiempo."
 I9TEN01 "Me alegra escuchar eso."
 I9SAR00 "Lamento que haya sido necesario pasar por todo eso."
+I9SAR00 "Lamento que haya sido necesario pasar por todo eso."
+I9SAR01 "Desafortunadamente, era la única manera de que pudieras recuperar tus habilidades de combate."
 I9SAR01 "Desafortunadamente, era la única manera de que pudieras recuperar tus habilidades de combate."
 I9LOC02 "Entiendo. El tiempo no fue en vano."
 I9TEN02 "Quizás deberías visitar las tiendas."
+I9TEN02 "Quizás deberías visitar las tiendas."
+I9TEN03 "Recibimos un envío de suministros mientras estabas fuera."
 I9TEN03 "Recibimos un envío de suministros mientras estabas fuera."
 I9LOC03 "Echaré un vistazo, mago."
 I10LOC00 "Sardok, ¿qué sabes sobre la reina antigua?"
@@ -2173,6 +2182,7 @@ II10BAY07 "Es una oferta amable, pero tengo otros asuntos que atender ahora."
 II10BAY08 "Quizás algún día tengamos la oportunidad de luchar lado a lado."
 II10LOC09 "Espero con ansias ese día."
 II10BAY09 "Tus palabras son admirables."
+II10BAY10 "Quizás cuando hayas saldado tu deuda con Tendrick y Sardok nos volvamos a encontrar."
 II10BAY10 "Quizás cuando hayas saldado tu deuda con Tendrick y Sardok nos volvamos a encontrar."
 II11CAM00 "Tu tipo no es bienvenido en mi hogar. Por favor, márchate."
 II11LOC00 "¿Así es como tratas a aquellos que intentarían salvarte del culto?"
@@ -2514,6 +2524,8 @@ III1LOC06 "No caeré víctima de tus avances, tentadora."
 III1HAR08 "¿Tentadora? Me gusta cómo suena eso. ¿Te sientes tentado por mí?"
 III1LOC07 "¡Basta! ¿Dónde está el anillo?"
 III1HAR09 "El anillo está en la cima de la torre, en mis habitaciones."
+III1HAR09 "El anillo está en la cima de la torre, en mis habitaciones."
+III1HAR10 "El teletransportador al final del pasillo te llevará allí."
 III1HAR10 "El teletransportador al final del pasillo te llevará allí."
 III2MOR00 "Saludos, extraño, soy Morganna."
 III2LOC00 "Saludos Morganna, soy Locke."
@@ -2528,6 +2540,8 @@ III2MOR06 "Tal vez en el futuro podamos aventurarnos juntos, pero por ahora luch
 III2MOR07 "Haré mi parte para reducir sus números en estos bosques."
 III2LOC03 "Te lo agradezco."
 III2LOC04 "Espero que nos volvamos a encontrar."
+III2LOC04 "Espero que nos volvamos a encontrar."
+III2MOR08 "Quizás, sí."
 III2MOR08 "Quizás, sí."
 III3HAR00 "¡Dioses! ¡Estás vivo!"
 III3LOC00 "Sí. Aunque no puedo decir lo mismo de tu mascota."
@@ -2538,11 +2552,13 @@ III3HAR03 "Me vi obligada a robar tesoros para él."
 III3HAR04 "¡Mi torturador está muerto! ¡Nunca volveré a robar!"
 III3LOC02 "De alguna manera, me cuesta creer eso."
 III3HAR05 "Gracias señor, gracias."
+III3HAR05 "Gracias señor, gracias."
 III4MOR00 "Así que mataste al Dragón."
 III4MOR01 "Debes ser bastante hábil con esa arma."
 III4LOC00 "¿Cambiaste de opinión sobre unirte a mí?"
 III4MOR02 "Como dije, quizás en el futuro."
 III4LOC01 "Como desees."
+III4MOR03 "Buena suerte ahí afuera, Revenant. La vas a necesitar."
 III4MOR03 "Buena suerte ahí afuera, Revenant. La vas a necesitar."
 III5GUS00 "Isla Arakna... este lugar me pone los pelos de punta."
 III5GUS01 "¿Estás listo para regresar ya?"
@@ -2644,59 +2660,6 @@ III11LOC01 "¿Qué ocurre?"
 III11OLI01 "¿Un fantasma? ¿Un fantasma del pasado camina entre nosotros?"
 III11LOC02 "Así que tú también sabes de mi resurrección."
 III11OLI02 "¿Resurrección?"
-"III11OLI03": "Sardok. Debería haberlo sabido.",
-"III11LOC03": "Sí, fue Sardok quien me trajo de vuelta. ¿Lo conoces?",
-"III11OLI04": "Cada hombre sigue su propio camino, los nuestros se han cruzado antes.",
-"III11LOC04": "Me dijeron que te buscara por cierta información.",
-"III11OLI05": "¿Información? ¿Deseas conocer mi receta de sopa de Druhg?",
-"III11LOC05": "En realidad, tenía otra información en mente.",
-"III11LOC06": "Me trajeron aquí para destruir a los Hijos del Cambio.",
-"III11LOC07": "¿Cómo puedo recuperar los recuerdos de mi vida pasada?",
-"III11LOC08": "Me dicen que debo pasar por las cuevas para llegar al este de Ahkuilon. ¿Las conoces?",
-"III11LOC09": "Nada por ahora.",
-"III11OLI06": "¿Destruir el culto? ¿El culto? Imposible. Incluso para un ejército de hombres.",
-"III11OLI07": "Los caminos de la espada yacen fuertes y profundos dentro de ti.",
-"III11OLI08": "Jong, el maestro de combate, es a quien debes buscar.",
-"III11OLI09": "Ten cuidado con lo que deseas.",
-"III11OLI10": "Los recuerdos desagradables a menudo es mejor dejarlos olvidados.",
-"III11OLI11": "Redescubre tu pasado. Sí, tu pasado. Deshaz lo que se ha hecho.",
-"III11OLI12": "Si nada más, esto debes hacer.",
-"III11OLI13": "La entrada de la cueva está dentro del pueblo de los Ogrok.",
-"III11OLI14": "Pero los Ogrok no sienten amor por los humanos.",
-"III11OLI15": "Antes de irte, toma este talismán.",
-"III11OLI16": "Puede que hayas conocido la cara de la muerte, pero un guerrero resucitado puede ser muerto como cualquier otro.",
-"III11OLI17": "Los caminos de la magia serán una salvación para ti.",
-"III11LOC10": "Gracias por tu ayuda.",
-"III11OLI18": "Te veré de nuevo.",
-"III11OLI19": "Tu regreso a Ahkuilon concierne a cada hombre, mujer, niño y bestia que vive aquí.",
-"III11OLI20": "Tu regreso a Ahkuilon concierne a cada hombre, mujer, niño y bestia que vive aquí.",
-"III12CHI00": "Así que el guerrero-humano regresa. ¿Cómo va tu misión?",
-"III12LOC00": "Me vuelvo más fuerte con cada batalla. La isla de Ahkuilon se teñirá con la sangre de los Hijos del Cambio pronto.",
-"III12CHI01": "Es bueno escuchar que estás confiado, Locke, pero apenas has comenzado a comprender el verdadero poder del culto.",
-"III12CHI02": "Tal vez los Ogrok puedan ayudar.",
-"III12CHI03": "Hemos decidido que los seguidores del cambio son nuestro enemigo común.",
-"III12CHI04": "Con este fin, también hemos decidido ayudarte en todo lo que podamos.",
-"III12CHI05": "La derrota de Baez ha dejado en cuestión la propiedad de su arma legendaria, la poderosa Soulcleaver.",
-"III12CHI06": "Nadie es más digno que tú de empuñar la Soulcleaver contra el culto.",
-"III12CHI07": "Por lo tanto, te otorgo el arma más poderosa que los Ogrok hayan forjado jamás, la legendaria SoulCleaver.",
-"III12LOC01": "Gracias Jefe. Te doy mi palabra de que esta arma se alimentará de la carne del culto.",
-"III13OLI00": "Veo que has regresado. ¿Todo va bien?",
-"III13LOC00": "La misión va bien.",
-"III13LOC01": "Conquistaré las cuevas pronto.",
-"III13LOC02": "Podría usar algo de ayuda.",
-"III13OLI01": "Es bueno escucharlo.",
-"III13OLI02": "¿Cómo va tu progreso en las cuevas?",
-"III13OLI03": "Debes enfrentar esta misión solo.",
-"III13OLI04": "Ahora, cuéntame sobre las cuevas.",
-"III13OLI05": "Ah sí, ¿y tal vez aprender algo en el camino?",
-"III13LOC03": "Ya he aprendido cosas.",
-"III13OLI06": "¿Ah sí?",
-"III13OLI07": "Oh, dime, ¿qué has aprendido?",
-"III13LOC04": "Me he vuelto un asesino más efectivo.",
-"III13LOC05": "Hay mucho tesoro por encontrar en las cuevas.",
-"III13LOC06": "He aprendido a no escuchar a viejos locos.",
-"III13OLI08": "Seguro, pero no es exactamente lo que quería decir.",
-"III13OLI09": "¿Qué más has aprendido?"
 III13OLI10 "La riqueza material es lo de menos para ti."
 III13OLI11 "¿Hay algo más?"
 III13OLI12 "¿Loco? Subestimas mi consejo."
@@ -3162,6 +3125,8 @@ VII7WAN08 "Confían en mí con acceso a todos los ingredientes y el conocimiento
 VII7LOC06 "Supongo que no tengo otra opción que confiar en ti por ahora."
 VII7LOC07 "Si descubro que todo esto fue una mentira creada para salvarte, te prometo una muerte excruciante."
 VII7WAN09 "Déjame darte un consejo antes de que te vayas."
+VII7WAN09 "Déjame darte un consejo antes de que te vayas."
+VII7WAN10 "Ten cuidado con Jhaga y Sabu. Sus poderes mágicos superan a cualquiera que haya visto antes."
 VII7WAN10 "Ten cuidado con Jhaga y Sabu. Sus poderes mágicos superan a cualquiera que haya visto antes."
 VII7LOC08 "Lo recordaré."
 VII8LOC00 "¿Qué hacen aquí?"
@@ -3182,7 +3147,9 @@ VII8LOC06 "Pero..."
 VII8DR204 "Solo hay una manera de liberar a los Druhg. El humano debe matar a Sabu y romper el hechizo de control."
 VII8LOC07 "¿Matar a Sabu? Esperaba que dijeras otra cosa."
 VII8DR205 "No más charla. Druhg trabajen ahora. Humano regresa cuando Sabu esté muerto."
+VII8DR205 "No más charla. Druhg trabajen ahora. Humano regresa cuando Sabu esté muerto."
 VII8LOC08 "He venido a ayudarlos a escapar."
+VII8DR300 "Druhg no pueden escapar."
 VII8DR300 "Druhg no pueden escapar."
 VII8LOC09 "¡Necesitan salir de aquí ahora!"
 VII8LOC10 "Estoy cansado de intentar ayudarlos, criaturas estúpidas."
@@ -3356,6 +3323,7 @@ VIII8GER04 "Temía eso desde el principio. Una batalla entre dos hombres que por
 VIII8LOC04 "Cierto, pero esa batalla no se librará en este mundo."
 VIII8GER05 "¿Quieres decir que viajarás a otro plano?"
 VIII8LOC05 "Debo enfrentar a Yhagoro en Anserak, el plano demoníaco."
+VIII8GER06 "Es peor de lo que imaginaba. Que los dioses nos salven a todos."
 VIII8GER06 "Es peor de lo que imaginaba. Que los dioses nos salven a todos."
 VIII8LOC06 "Los dioses no tienen nada que ver con esto. Yo soy el único que puede salvarlos ahora."
 VIII8GER07 "Tal vez, pero cuando completes tu misión y destruyas a esos sacerdotes, ¿quién te salvará a ti?"
@@ -3758,6 +3726,7 @@ XII22GIN07 "Vuelve más tarde y quizás tenga algunos artículos nuevos."
 XII22GIN08 "Buen día."
 XII23GIN00 "¿Una hermana de la hoja?"
 XII23GIN01 "Es un placer conocerte."
+XII23GIN01 "Es un placer conocerte."
 XII23GIN02 "Tengo la sensación de que necesitarás armas para asesinos."
 XII23MOR00 "Tus hojas son excepcionales."
 XII23MOR01 "Muéstrame lo que tienes disponible."
@@ -3766,7 +3735,6 @@ XII23MOR02 "Por ahora, sí."
 XII23MOR03 "¿Puedo ver tus productos una vez más?"
 XII23GIN04 "Tengo la sensación de que el culto probará esas armas con frecuencia."
 XII23GIN05 "Tengo algunas cosas en preparación que podrían interesarte, así que vuelve más tarde."
-XII23GIN06 "Buena suerte allá afuera."
 XII24GIN00 "Buscas armas de mago."
 XII24GIN01 "Creo tener exactamente lo que estás buscando."
 XII24NAV00 "Muéstrame lo que tienes."
@@ -4102,3 +4070,58 @@ XIV21JHA02 "Permíteme mostrarte lo que realmente es el poder."
 outdemo1 "Esta primavera, vuelvo para quedarme."
 outdemo2 "¿Qué quieres decir con que este es el final de la demo? ¡Yo apenas me estaba entonando!"
 
+// Keys faltantes (aunque esten repetidas, supongo que son una especie de fallback, revisar despues)
+III11LOC03 "Sí, fue Sardok quien me trajo de vuelta. ¿Lo conoces?"
+III11LOC04 "Me dijeron que debía verte para obtener cierta información."
+III11LOC05 "En realidad, tenía otra información en mente."
+III11LOC06 "Me trajeron aquí para destruir a los Hijos del Cambio."
+III11LOC07 "¿Cómo puedo recuperar los recuerdos de mi vida pasada?"
+III11LOC08 "Me dicen que debo atravesar las cuevas para llegar al este de Ahkuilon. ¿Las conoces?"
+III11LOC09 "Nada por ahora."
+III11LOC10 "Gracias por tu ayuda."
+III11OLI03 "Sardok. Debería haberlo sabido."
+III11OLI04 "Cada hombre sigue su propio camino, los nuestros se han cruzado antes."
+III11OLI05 "¿Información? ¿Deseas conocer mi receta de sopa de Druhg?"
+III11OLI06 "¿Destruir el culto? ¿El culto? Imposible. Incluso para un ejército de hombres."
+III11OLI07 "Los caminos de la espada están fuertes y profundos dentro de ti."
+III11OLI08 "Jong, el maestro de combate, es a quien debes buscar."
+III11OLI09 "Ten cuidado con lo que deseas."
+III11OLI10 "Los recuerdos desagradables a menudo es mejor dejarlos olvidados."
+III11OLI11 "Redescubre tu pasado. Sí, tu pasado. Deshaz lo que se ha hecho."
+III11OLI12 "Si nada más, esto debes hacerlo."
+III11OLI13 "La entrada de la cueva está dentro del pueblo de los Ogrok."
+III11OLI14 "Pero los Ogrok no sienten cariño por los humanos."
+III11OLI15 "Antes de irte, toma este talismán."
+III11OLI16 "Puede que hayas conocido la cara de la muerte, pero un guerrero resucitado puede ser asesinado igual que cualquier otro."
+III11OLI17 "Los caminos de la magia serán una salvación para ti."
+III11OLI18 "Te volveré a ver."
+III11OLI19 "Tu regreso a Ahkuilon concierne a cada hombre, mujer, niño y bestia que vive aquí."
+III11OLI20 "Tu regreso a Ahkuilon concierne a cada hombre, mujer, niño y bestia que vive aquí."
+III12CHI00 "Así que el guerrero-humano regresa. ¿Cómo va tu misión?"
+III12CHI01 "Es bueno oír que tienes confianza, Locke, pero apenas has comenzado a comprender el verdadero poder del culto."
+III12CHI02 "Quizás los Ogrok puedan ayudar."
+III12CHI03 "Hemos decidido que los seguidores del cambio son nuestro enemigo común."
+III12CHI04 "Con este fin, también hemos decidido ayudarte de cualquier manera que podamos."
+III12CHI05 "La derrota de Baez ha dejado en duda la propiedad de su legendaria arma, la poderosa Cortalma."
+III12CHI06 "Nadie es más digno que tú de empuñar la Cortalma contra el culto."
+III12CHI07 "Por lo tanto, te concedo el arma más poderosa que los Ogrok hayan forjado jamás, la legendaria Cortalma."
+III12LOC00 "Me hago más fuerte con cada batalla. La isla de Ahkuilon pronto se manchará con la sangre de los Hijos del Cambio."
+III12LOC00 "Es bueno oír que tienes confianza, Locke, pero apenas has comenzado a comprender el verdadero poder del culto."
+III12LOC01 "Gracias, Jefe. Te doy mi palabra de que esta arma se alimentará de la carne del culto."
+III13LOC00 "La misión va bien."
+III13LOC01 "Conquistaré las cuevas pronto."
+III13LOC02 "Podría usar algo de ayuda."
+III13LOC03 "Ya he aprendido algunas cosas."
+III13LOC04 "Me he convertido en un asesino más eficaz."
+III13LOC05 "Hay mucho tesoro por encontrar en las cuevas."
+III13LOC06 "He aprendido a no escuchar a viejos locos."
+III13OLI00 "Veo que has regresado. ¿Todo va bien?"
+III13OLI01 "Es bueno oírlo."
+III13OLI02 "¿Cómo va tu progreso en las cuevas?"
+III13OLI03 "Debes enfrentar esta misión solo."
+III13OLI04 "Ahora, cuéntame sobre las cuevas."
+III13OLI05 "Ah sí, ¿y tal vez aprender algo en el camino?"
+III13OLI06 "¿Oh, en serio?"
+III13OLI07 "Oh, dime, ¿qué has aprendido?"
+III13OLI08 "Seguro es cierto, pero no exactamente a lo que me refería."
+III13OLI09 "¿Qué más has aprendido?"

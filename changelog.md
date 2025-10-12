@@ -1,5 +1,9 @@
 ### 12-10-2025
-- 915 - 4103 english.def
+- 915 - 4128 english.def
+- add originals keys
+- add gitignore
+- add analyze_keys.py
+- update readme
 
 ### 11-10-2025
 - 607 - 915 english.def

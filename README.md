@@ -42,6 +42,28 @@ Este es un proyecto de traducción comunitaria. Si deseas contribuir:
 - Las claves deben mantenerse exactamente igual que en el archivo original
 - Los comentarios de los desarrolladores se mantienen originales.
 
+## Herramienta de Verificación
+
+### analyze_keys.py
+
+Script para verificar la integridad estructural de los archivos de traducción.
+
+**¿Para qué sirve?**
+- Detecta keys faltantes o extra en la traducción
+- Identifica duplicados incorrectos (las keys duplicadas son fallbacks necesarios)
+
+**Cómo ejecutarlo:**
+```bash
+python analyze_keys.py
+```
+
+**Cuándo usarlo:**
+- ⚠️ **ANTES** de instalar cualquier traducción
+- Después de editar manualmente el archivo `english.def`
+- Para verificar que la estructura coincide con el original
+
+El script compara `english_original.def` con `english.def` y muestra un reporte detallado de diferencias.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
