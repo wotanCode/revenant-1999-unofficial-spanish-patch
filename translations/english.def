@@ -676,245 +676,243 @@ objscroll "Los pergaminos y libros contienen información que puede ser útil pa
 objrangedweapon "Los arcos y otras armas a distancia permiten atacar a un oponente desde "\
 	"una distancia, protegiendo así al atacante de los ataques cuerpo a cuerpo de su enemigo."
 
-// Specific Object Descriptions
-obj329f0063 "The spell pouch holds the talismans needed to cast spells.  In order "\
-	"to use a talisman, it must be placed in this pouch."
-obj41980061 "A bag can contain a number of infrequently used items, allowing you to "\
-	"keep more frequently used items in your pack."
-obj329f0063 "The spell pouch holds the talismans needed to cast spells.  In order "\
-	"to use a talisman, it must be placed in this pouch."
+/// Specific Object Descriptions
+obj329f0063 "La bolsa de hechizos contiene los talismanes necesarios para lanzar conjuros. Para "\
+	"usar un talismán, debe colocarse en esta bolsa."
+obj41980061 "Una bolsa puede contener varios objetos de uso poco frecuente, permitiéndote "\
+	"mantener los objetos de uso frecuente en tu mochila."
+obj329f0063 "La bolsa de hechizos contiene los talismanes necesarios para lanzar conjuros. Para "\
+	"usar un talismán, debe colocarse en esta bolsa."
 //Food
-obj7b150055 "A hunk of roast beef. Restores some health."
-obj8786005c "A fresh fish. Restores some mana."
-obj8992006d "Pork sausage links. Restores some health."
-obj89920069 "A large turkey leg. Restores some health."
-objce3b0056 "A wedge of cheese. Restores a little health, and a bit of mana and fatigue."
-objee75005b "A glass of wine. Restores a little health."
-objd38b005d "A mug of Ale. Restores a little health."
-obj89920068 "A chocolate bar. Restores some fatigue."
-obj5f560058 "A loaf of bread. Restores some health."
-obj8992006b "A bran muffin. Restores a little health and a bit of mana."
-objcc530057 "A juicy red apple. Restores a bit of health, a little mana, and some fatigue."
-objb2590059 "A bunch of grapes. Restores a bit of health, a little mana, and some fatigue."
-obj968e005e "A slice of watermelon. Restores a bit of health, a little mana, and some fatigue."
-obj89920066 "A ripe banana. Restores a bit of health, a little mana, and some fatigue."
-obj8992005f "A stalk of celery. Restores a bit of health and a little mana."
-obj89920067 "A Carrot. Restores a bit of health and a little mana."
-obj8992006a "A head of lettuce. Restores a bit of health and a little mana."
+obj7b150055 "Un trozo de carne asada. Restaura algo de salud."
+obj8786005c "Un pez fresco. Restaura algo de maná."
+obj8992006d "Salchichas de cerdo. Restaura algo de salud."
+obj89920069 "Una pierna de pavo grande. Restaura algo de salud."
+objce3b0056 "Un trozo de queso. Restaura un poco de salud y algo de maná y fatiga."
+objee75005b "Un vaso de vino. Restaura un poco de salud."
+objd38b005d "Una jarra de cerveza. Restaura un poco de salud."
+obj89920068 "Una barra de chocolate. Restaura algo de fatiga."
+obj5f560058 "Un pan. Restaura algo de salud."
+obj8992006b "Un muffin de salvado. Restaura un poco de salud y algo de maná."
+objcc530057 "Una jugosa manzana roja. Restaura algo de salud, un poco de maná y algo de fatiga."
+objb2590059 "Un racimo de uvas. Restaura algo de salud, un poco de maná y algo de fatiga."
+obj968e005e "Una rebanada de sandía. Restaura algo de salud, un poco de maná y algo de fatiga."
+obj89920066 "Un plátano maduro. Restaura algo de salud, un poco de maná y algo de fatiga."
+obj8992005f "Un tallo de apio. Restaura algo de salud y un poco de maná."
+obj89920067 "Una zanahoria. Restaura algo de salud y un poco de maná."
+obj8992006a "Una lechuga. Restaura algo de salud y un poco de maná."
 
 //Potions
-obj89920069 "A mystical white potion made from the venom of a sea serpent. Cures poison status."
-obj89920060 "A red potion made from the blood of giants. Restores minor health."
-obj89920061 "A glowing purple potion containing stardust and moon rock. Restores minor mana."
-obj89920062 "A brown mixture of earth, blood, and dragon scales. Restores minor health and mana."
-obj89920063 "A yellow potion made with the nectar of the ecstasy fruit. Restores health."
-obj89920064 "An indigo concoction comprised of minerals mined from the planet core. Restores mana."
-obj89920065 "An orange potion created by fusing the power of sunlight and flame. Restores health and mana."
-obj89920066 "A green potion containing the sap from the magical tree of Arbor. Restores maximum health."
-obj89920067 "A blue potion crafted by combining 12 elements found only on Ahkuilon. Restores maximum mana."
-obj89920068 "A mystical teal potion containing the blood of a god. Restores maximum health and mana."
+obj89920069 "Una poción blanca mística hecha del veneno de una serpiente marina. Cura el estado de veneno."
+obj89920060 "Una poción roja hecha de la sangre de gigantes. Restaura salud menor."
+obj89920061 "Una poción púrpura luminosa que contiene polvo de estrellas y roca lunar. Restaura maná menor."
+obj89920062 "Una mezcla marrón de tierra, sangre y escamas de dragón. Restaura salud y maná menor."
+obj89920063 "Una poción amarilla hecha con el néctar del fruto del éxtasis. Restaura salud."
+obj89920064 "Una mezcla índigo compuesta por minerales extraídos del núcleo del planeta. Restaura maná."
+obj89920065 "Una poción naranja creada fusionando el poder de la luz solar y la llama. Restaura salud y maná."
+obj89920066 "Una poción verde que contiene la savia del árbol mágico de Arbor. Restaura salud máxima."
+obj89920067 "Una poción azul elaborada combinando 12 elementos encontrados únicamente en Ahkuilon. Restaura maná máximo."
+obj89920068 "Una poción mística color teal que contiene la sangre de un dios. Restaura salud y maná máximos."
 
 //Magic Items
-obj734c0026 "Magical ring forged by ancient alchemists as a tribute to the serpent god Kaa. Adds mana."
-objc35e002a "A ring fashioned from a magical emerald. Offers resistance to poison."
-objf865012c "A collar encrusted with the bones of a race long extinct. Adds to mana."
-obje1cd0043 "A golden amulet with a glowing red gemstone at the center. Reduces amount of mana needed to cast spells."
-obje1cd0046 "A mystical band crafted in the east and worn by assassins. Gives stealth bonus."
-obje1cd0045 "A bracelet forged from ancient molten rock recovered from the cataclysm. Adds to luck stat."
-obj4c592029 "A pendant carved from the ivory tusks of a forgotten beast. Adds to Armor Class."
-obje1cd0047 "A band formed of fossilized dwarven blood. Slowly regenerates health over time."
-objc869002d "A legendary object crafted from glacier ice taken from them North and South Poles of Ur. Adds to damage."
-obj4c594029 "A ring crafted with the venom of a sea serpent. Hand to Hand attacks cause poison damage."
-obj63560028 "A pair of gauntlets blessed by the god of war. Increased edged weapon damage."
-obj4c593029 "An ancient item recovered from a ghost ship. Adds to constitution stat."
-objae410025 "A basic golden ring fused with the power of magical energies. Adds to maximum mana."
-objc4a3003a "A golden ring emblazoned with a glowing red gemstone. Rumored to be crafted by dwarven hands "\
-	"deep below the surface of Ur. Increases resistance to fire."
-objf865002c "A collar fashioned from the polished emerald scales of an ancient serpent. Increases resistance to poison."
-obj4c591029 "An amulet encrusted with reflective crystal stones. Adds to mind stat."
-obj35a8023b "A ring called forth from another realm by the sorcerers of the ancient empire. Adds to mana "\
-	"and increases spell damage."
-obj63561028 "Gauntlets crafted by magic wielding monks using the Chaos talisman. Hand to Hand attacks "\
-	"cause magic, poison, freeze, and burn damage."
-objda6c012e "A pendant crafted with the eye of the dragon Kloraath, protector of the ancient empire. "\
-	"Adds to Health and Mana."
-obj63562028 "A pair of gauntlets stolen from the dwarven gods. Adds to Strength stat."
-obj4c590f29 "A necklace made with the infamous alpha gem, a unique object said to have fallen from "\
-	"the stars. Adds to mana and spell damage."
-objf962002b "A bracelet crafted of emerald crystal recovered from an undersea cave. Offers maximum resistance to poison."
-obj63563028 "Light weight gauntlets crafted by eastern blacksmiths for mobility in combat. Increases agility."
-obj4c590c29 "A necklace infused with the power of the sun. The necklace is said to have taken over "\
-	"five thousand years to craft. Adds to spell damage."
-obje1cd0146 "A ring forged from a blend of gold and diamond. Crafted by a half-god blacksmith. Adds to fatigue."
-obje1cd0049 "A dangerously powerful amulet containing the tears of a god and the fangs of a dragon. Adds to damage."
-obj4c590029 "A necklace holding the teeth of the ancient dragon Kloraath, protector of the ancient empire. "\
-	"Immune to poison. Adds to strength and constitution."
-  
+obj734c0026 "Anillo mágico forjado por antiguos alquimistas como tributo al dios serpiente Kaa. Aumenta maná."
+objc35e002a "Un anillo hecho de un esmeralda mágico. Ofrece resistencia al veneno."
+objf865012c "Un collar incrustado con los huesos de una raza extinta. Aumenta maná."
+obje1cd0043 "Un amuleto dorado con una gema roja brillante en el centro. Reduce la cantidad de maná necesaria para lanzar hechizos."
+obje1cd0046 "Una banda mística elaborada en el este y usada por asesinos. Otorga bonificación de sigilo."
+obje1cd0045 "Una pulsera forjada con roca fundida antigua recuperada del cataclismo. Aumenta la estadística de suerte."
+obj4c592029 "Un colgante tallado a partir de los colmillos de marfil de una bestia olvidada. Aumenta la Clase de Armadura."
+obje1cd0047 "Una banda formada con sangre enana fosilizada. Regenera salud lentamente con el tiempo."
+objc869002d "Un objeto legendario elaborado con hielo glaciar tomado de los polos Norte y Sur de Ur. Aumenta daño."
+obj4c594029 "Un anillo elaborado con el veneno de una serpiente marina. Los ataques cuerpo a cuerpo causan daño por veneno."
+obj63560028 "Un par de guanteletes bendecidos por el dios de la guerra. Aumenta el daño de armas cortantes."
+obj4c593029 "Un objeto antiguo recuperado de un barco fantasma. Aumenta la estadística de constitución."
+objae410025 "Un anillo dorado básico fusionado con el poder de energías mágicas. Aumenta maná máximo."
+objc4a3003a "Un anillo dorado con una gema roja brillante. Se rumorea que fue elaborado por enanos "\
+	"profundamente bajo la superficie de Ur. Incrementa la resistencia al fuego."
+objf865002c "Un collar hecho con las escamas de esmeralda pulidas de una serpiente antigua. Incrementa resistencia al veneno."
+obj4c591029 "Un amuleto incrustado con piedras de cristal reflectante. Aumenta la estadística de mente."
+obj35a8023b "Un anillo traído desde otro reino por los hechiceros del antiguo imperio. Aumenta maná "\
+	"y aumenta el daño de hechizos."
+obj63561028 "Guanteletes elaborados por monjes que manejan la magia usando el talismán del Caos. Los ataques cuerpo a cuerpo "\
+	"causan daño mágico, por veneno, congelación y quemadura."
+objda6c012e "Un colgante elaborado con el ojo del dragón Kloraath, protector del antiguo imperio. "\
+	"Aumenta salud y maná."
+obj63562028 "Un par de guanteletes robados de los dioses enanos. Aumenta la estadística de fuerza."
+obj4c590f29 "Un collar hecho con la infame gema alfa, un objeto único que se dice cayó de "\
+	"las estrellas. Aumenta maná y daño de hechizos."
+objf962002b "Una pulsera hecha de cristal de esmeralda recuperado de una cueva submarina. Ofrece resistencia máxima al veneno."
+obj63563028 "Guanteletes livianos elaborados por herreros orientales para movilidad en combate. Aumenta agilidad."
+obj4c590c29 "Un collar infundido con el poder del sol. Se dice que su elaboración tomó más de "\
+	"cinco mil años. Aumenta el daño de hechizos."
+obje1cd0146 "Un anillo forjado de una mezcla de oro y diamante. Elaborado por un herrero semi-dios. Aumenta fatiga."
+obje1cd0049 "Un amuleto peligrosamente poderoso que contiene lágrimas de un dios y colmillos de un dragón. Aumenta daño."
+obj4c590029 "Un collar que sostiene los dientes del antiguo dragón Kloraath, protector del antiguo imperio. "\
+	"Inmune al veneno. Aumenta fuerza y constitución."
+
 //Quest Items
-objdefbc430 "A golden key crafted in the shape of the sun. Also known as the Solaria, the golden sun "\
-	"key is said to unlock the ancient tower."
-obje1cd0044 "A gaudy diamond engagement ring. Harowen conned Gus out of this ring using her feminine charm."
-obje1cd0048 "This object is held in high regard by the Ogrok. Given to them for bravery in battle "\
-	"during the Rugaardic wars, the amulet was stolen from the Ogrok by Sohail the Ogrok slayer."
-obj0f000014 "An ornate ceremonial dagger. Its purpose is unclear but it seems both vaguely familiar "\
-	"and monumentally important."
-objdb0da002 "A rare blue flower that flourished on Ahkuilon prior to the cataclysm, it is now near extinction."
-obj3c06a003 "A leg bone from an undead skeleton."
-obj6c5aa004 "A claw that has been torn from the body of an Issathi."
-obj3c06a005 "A root from an unknown plant. Emanates magical properties."
-objb324a000 "An empty glass vial. Large enough to place small items inside."
-objdefbc436 "A glass vial filled with crystal blue water."
-objdefbc437 "A glass vial filled with corrosive green acid."
-objdefbc438 "A glass vial containing a magical root."
-objdefbc439 "A glass vial containing a rare blue flower."
-objdefbc43a "A glass vial containing the claw of an Issathi."
-objdefbc43b "A glass vial containing a bone from an undead skeleton."
-objda6c002e "A magical item of unknown origin. Purpose is unknown."
-objd8420004 "A small dagger that has been dipped in deadly poison."
-objdefb8000 "A glowing blue crystal of demonic origin. Could be some type of key."
-objdefb8001 "A glowing green crystal of demonic origin. Could be some type of key."
-objdefb8002 "A glowing orange crystal of demonic origin. Could be some type of key."
-objdefb8003 "A glowing purple crystal of demonic origin. Could be some type of key."
-objdefb8004 "A glowing red crystal of demonic origin. Could be some type of key."
-objdefb8005 "A glowing white crystal of demonic origin. Could be some type of key."
-objdefb8006 "A glowing yellow crystal of demonic origin. Could be some type of key."
+objdefbc430 "Una llave dorada elaborada con la forma del sol. También conocida como Solaria, se dice que "\
+	"abre la torre antigua."
+obje1cd0044 "Un ostentoso anillo de compromiso con diamantes. Harowen engañó a Gus para obtener este anillo usando su encanto femenino."
+obje1cd0048 "Este objeto es altamente valorado por los Ogrok. Les fue dado por su valentía en batalla "\
+	"during las guerras Rugaardicas, el amuleto fue robado a los Ogrok por Sohail, el asesino de Ogrok."
+obj0f000014 "Una daga ceremonial ornamentada. Su propósito es incierto, pero parece tanto vagamente familiar "\
+	"como monumentalmente importante."
+objdb0da002 "Una rara flor azul que floreció en Ahkuilon antes del cataclismo, ahora está casi extinta."
+obj3c06a003 "Un hueso de pierna de un esqueleto no muerto."
+obj6c5aa004 "Una garra que ha sido arrancada del cuerpo de un Issathi."
+obj3c06a005 "Una raíz de una planta desconocida. Emanan propiedades mágicas."
+objb324a000 "Un frasco de vidrio vacío. Suficientemente grande para colocar pequeños objetos dentro."
+objdefbc436 "Un frasco de vidrio lleno de agua azul cristalina."
+objdefbc437 "Un frasco de vidrio lleno de ácido verde corrosivo."
+objdefbc438 "Un frasco de vidrio que contiene una raíz mágica."
+objdefbc439 "Un frasco de vidrio que contiene una rara flor azul."
+objdefbc43a "Un frasco de vidrio que contiene la garra de un Issathi."
+objdefbc43b "Un frasco de vidrio que contiene un hueso de un esqueleto no muerto."
+objda6c002e "Un objeto mágico de origen desconocido. Propósito desconocido."
+objd8420004 "Una pequeña daga que ha sido sumergida en veneno mortal."
+objdefb8000 "Un cristal azul brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8001 "Un cristal verde brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8002 "Un cristal naranja brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8003 "Un cristal púrpura brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8004 "Un cristal rojo brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8005 "Un cristal blanco brillante de origen demoníaco. Podría ser algún tipo de llave."
+objdefb8006 "Un cristal amarillo brillante de origen demoníaco. Podría ser algún tipo de llave."
 
 //Spell Talismans
-obje6ef0049 "The Life Talisman represents the force of life in the universe. "\
-	"This talisman was created when ten thousand righteous people gave their lives to honor "\
-	"the Gods. The Life talisman relates to primarily to the physical body."
-objd3080051 "The Moon talisman represents the force of the moon. This talisman was created "\
-	"when a large chunk of moon rock was recovered in an expedition to the South Pole of Ur. "\
-	"This rock was then exposed to moonlight for thousands of years before being crafted into its current form."
-obj29ec0048 "The Soul talisman represents the force of the spiritual being. It is said that the "\
-	"Soul talisman was created when a wizard was able to fuse into a talisman the screams of "\
-	"millions of souls dying during the cataclysm."
-obja6ff004e "The Sky talisman represents the force of the wind. A legend from long ago states "\
-	"that a sorcerer had harnessed the power of the wind and given himself the gift of flight. "\
-	"The Gods became so angered by this that they transformed the sorcerer into the Sky talisman, "\
-	"so that the gift of flight would never again fall into human hands."
-obj6501004f "The Earth talisman represents the force of the land. During the Rugaardic wars, "\
-	"a massive battle was fought and the bodies of millions were buried in a massive grave. "\
-	"Hundreds of years later when the gravesite was excavated, no bones, armor, or weapons could be found. "\
-	"The earth talisman was all that remained.The Earth talisman represents the force of the land. "\
-	"During the Rugaardic wars, a massive battle was fought and the bodies of millions were buried in "\
-	"a massive grave. Hundreds of years later when the gravesite was excavated, no bones, armor, or "\
-	"weapons could be found. The earth talisman was all that remained."
-obj31f2004a "The Ocean Talisman represents the force of the sea. In the days before time was "\
-	"recorded it is said that the ocean covered the world of Ur. During this time a race of "\
-	"water breathing beings existed under the murky depths. Once powerful in the magical arts, "\
-	"the Ocean talisman is all that remains of this long forgotten race."
-objfff6004b "The Stars Talisman represents the power of the stars in the heavens. A great king once "\
-	"commissioned his astronomers to chart every star in the night sky. The task took thousands of "\
-	"years, but when it was completed a message revealed itself among the patterns of the stars. "\
-	"This message gave the astronomers the instructions for crafting the Stars talisman."
-objeae80047 "The Sun talisman represents the power of the Sun in the sky. The great dragon Kloraath, "\
-	"protector of the ancient empire, was so enraged by the destruction of the empire that he flew "\
-	"directly into the sun to confront the gods. Soon thereafter a great roar was heard and the Sun "\
-	"talisman fell to the ground. Kloraath was never seen again."
-objb4050050 "The Ward talisman represents the power of conviction. Forged by a group of "\
-	"500 woman sworn to a vow of silence and virginity to honor the gods, the ward talisman "\
-	"was a gift given to them for their devotion. It is used primarily for defensive spells."
-obj16db0046 "The Law talisman represents the power of justice. Legend tells of a great magical "\
-	"artifact known as the power talisman. The power talisman was capable of anything the user "\
-	"wished of it. However, the power talisman was too powerful to contain its own energies and "\
-	"thus it split into the law and chaos talismans."
-objf2f9004c "The Death talisman represents the finality of death. There was a time when the population "\
-	"of Ur believed that after death, came rebirth. Death was looked upon as a rite of passage into "\
-	"the next existence. As time passed, the belief in reincarnation was lost and death became a "\
-	"thing to be feared. The death talisman was created by a powerful mage in order to give him "\
-	"immortality. Rather than saving him, the death talisman destroyed him and remains the most "\
-	"destructive talisman in existence."
-objb0fb004d "The Chaos talisman represents the power of the force of chaos. A legend tells of a great "\
-	"magical artifact known as the power talisman. The power talisman was capable of anything the user "\
-	"wished of it. However, the power talisman was too powerful to contain its own energies and thus "\
-	"it split into the law and chaos talismans."
+obje6ef0049 "El Talismán de la Vida representa la fuerza de la vida en el universo. "\
+	"Este talismán fue creado cuando diez mil personas justas dieron sus vidas para honrar "\
+	"a los Dioses. El talismán de la Vida se relaciona principalmente con el cuerpo físico."
+objd3080051 "El talismán de la Luna representa la fuerza de la luna. Este talismán fue creado "\
+	"cuando un gran fragmento de roca lunar fue recuperado en una expedición al Polo Sur de Ur. "\
+	"Esta roca fue expuesta a la luz de la luna durante miles de años antes de ser transformada en su forma actual."
+obj29ec0048 "El talismán del Alma representa la fuerza del ser espiritual. Se dice que el "\
+	"talismán del Alma fue creado cuando un mago pudo fusionar en un talismán los gritos de "\
+	"millones de almas muriendo durante el cataclismo."
+obja6ff004e "El talismán del Cielo representa la fuerza del viento. Una leyenda antigua dice "\
+	"que un hechicero había dominado el poder del viento y se dio a sí mismo el don del vuelo. "\
+	"Los Dioses se enojaron tanto por esto que transformaron al hechicero en el talismán del Cielo, "\
+	"para que el don del vuelo nunca cayera nuevamente en manos humanas."
+obj6501004f "El talismán de la Tierra representa la fuerza de la tierra. Durante las guerras Rugaardic, "\
+	"se libró una batalla masiva y los cuerpos de millones fueron enterrados en una tumba enorme. "\
+	"Siglos después, cuando se excavó el lugar, no se encontraron huesos, armaduras ni armas. "\
+	"El talismán de la Tierra fue lo único que permaneció. El talismán de la Tierra representa la fuerza de la tierra. "\
+	"Durante las guerras Rugaardic, se libró una batalla masiva y los cuerpos de millones fueron enterrados en una tumba enorme. "\
+	"Siglos después, cuando se excavó el lugar, no se encontraron huesos, armaduras ni armas. El talismán de la Tierra fue lo único que permaneció."
+obj31f2004a "El talismán del Océano representa la fuerza del mar. En los días antes de que el tiempo "\
+	"fuera registrado, se dice que el océano cubría el mundo de Ur. Durante este tiempo existió "\
+	"una raza de seres acuáticos que respiraban bajo las profundidades turbias. Una vez poderosos en las artes mágicas, "\
+	"el talismán del Océano es todo lo que queda de esta raza olvidada."
+objfff6004b "El talismán de las Estrellas representa el poder de las estrellas en los cielos. Un gran rey "\
+	"encargó a sus astrónomos trazar cada estrella en el cielo nocturno. La tarea tomó miles de años, "\
+	"pero cuando se completó, un mensaje se reveló entre los patrones de las estrellas. "\
+	"Este mensaje dio a los astrónomos las instrucciones para crear el talismán de las Estrellas."
+objeae80047 "El talismán del Sol representa el poder del Sol en el cielo. El gran dragón Kloraath, "\
+	"protector del antiguo imperio, estaba tan enfurecido por la destrucción del imperio que voló "\
+	"directamente al sol para confrontar a los dioses. Poco después se escuchó un gran rugido y el talismán del Sol "\
+	"cayó al suelo. Kloraath nunca fue visto de nuevo."
+objb4050050 "El talismán de la Protección representa el poder de la convicción. Forjado por un grupo de "\
+	"500 mujeres que juraron un voto de silencio y virginidad para honrar a los dioses, el talismán de la Protección "\
+	"fue un regalo dado por su devoción. Se utiliza principalmente para hechizos defensivos."
+obj16db0046 "El talismán de la Ley representa el poder de la justicia. La leyenda cuenta sobre un gran artefacto mágico "\
+	"conocido como el talismán del poder. Este talismán podía conceder cualquier deseo del usuario. "\
+	"Sin embargo, el talismán del poder era demasiado poderoso para contener su propia energía y "\
+	"se dividió en los talismanes de la ley y el caos."
+objf2f9004c "El talismán de la Muerte representa la finalidad de la muerte. Hubo un tiempo en que la población "\
+	"de Ur creía que tras la muerte venía el renacimiento. La muerte se veía como un rito de paso a "\
+	"la siguiente existencia. Con el tiempo, la creencia en la reencarnación se perdió y la muerte "\
+	"se convirtió en algo temido. El talismán de la Muerte fue creado por un mago poderoso para otorgarle "\
+	"inmortalidad. En lugar de salvarlo, el talismán de la Muerte lo destruyó y sigue siendo el talismán más "\
+	"destructivo que existe."
+objb0fb004d "El talismán del Caos representa el poder de la fuerza del caos. La leyenda cuenta sobre un gran "\
+	"artefacto mágico conocido como el talismán del poder. Este talismán podía conceder cualquier deseo del usuario. "\
+	"Sin embargo, el talismán del poder era demasiado poderoso para contener su propia energía y "\
+	"se dividió en los talismanes de la ley y el caos."
 
 //Weapon Descriptions
-obj20240003b "A poor sword with a worn wooden handle and a dull blade. "\
-	"Although light and easy to wield, it is only capable of minor damage."
-objd0d40000 "A very basic bludgeoning weapon crafted of relatively sturdy oak. "\
-	"This weapon is quite weak and should be used only if nothing else is available."
-objba200002 "This weapon has been crafted from redwood and the sharpened bone of an Ogrok. "\
-	"Sturdy and lightweight, the bone pickaxe is a capable low level weapon."
-obj3f040001 "A Stone Axe made from polished rock with a wooden handle. "\
-	"The blade is extremely sharp. Appears to be an effective weapon."
-obj403c002d "A weapon crafted by an ancient tribe, the ball racker is made from a petrified gourd. "\
-	"Don�t let the appearance fool you, as this is one of the more powerful low level weapons."
-obj403c0029 "A wooden bat coated with metal studs. "\
-	"This is one of the weakest mid level weapons, but is still an effective bludgeoning tool."
-obj403c002a "A brutal bludgeoning weapon, the spiked bat is made of hard wood with steel "\
-	"spikes driven through it for added puncture damage. A perfect choice when choosing a lower level weapon."
-obj403c0039 "Used properly, a sickle can be a formidable weapon. "\
-	"This version is made from the polished bone of a sea serpent."
-objb3e8000d "A hammer made of steel. Mauls make for devastating bludgeoning weapons. "\
-	"This is the most basic of all the hammers."
-obj73980008 "A vicious bludgeoning weapon featuring an iron ball covered with spikes. "\
-	"Morning Stars were used extensively in the Rugaardic wars and are still a favorite weapon of the Ogrok."
-obj403c0027 "An alternate version of the sickle weapon. This one is crafted from stainless steel. "\
-	"Lightweight and extremely sharp, this is an excellent weapon featuring mid level damage with low "\
-	"level strength requirements."
-obj403c002b "This maul features a hard oak shaft and an iron head that has been sharpened "\
-	"to points for additional damage. Stronger than the basic maul and worth the extra cost."
-obje26f0007 "The most basic of the war axes, the battle-axe is made of iron and steel. Hits hard and cuts deep."
-obj684d0006 "A moderately heavy bludgeoning weapon, the flanged mace is a very solid mid to low-level weapon."
-objd8eb000e "Earning its reputation on the high seas, the tulwar is a formidable blade of eastern origins. "\
-	"Sea Pirates have made this blade famous over the years."
-obj403c0035 "A slight variation of the Tulwar, the golden tulwar offers better workmanship for more damage."
-obj403c0033 "The legendary weapon of the Ogrok Champion Baez. "\
-	"This blade not only looks fierce but is also capable of solid damage."
-obj310e0018 "A black tempered iron axe. This axe was forged in the eastern lands and thus is highly stylized."
+obj20240003b "Una espada pobre con un mango de madera gastado y una hoja opaca. "\
+	"Aunque ligera y fácil de manejar, solo es capaz de infligir daño menor."
+objd0d40000 "Un arma contundente muy básica, fabricada de roble relativamente resistente. "\
+	"Esta arma es bastante débil y debería usarse solo si no hay nada más disponible."
+objba200002 "Esta arma ha sido fabricada con madera de secuoya y el hueso afilado de un Ogrok. "\
+	"Resistente y ligera, la piqueta de hueso es un arma de bajo nivel efectiva."
+obj3f040001 "Un hacha de piedra hecha de roca pulida con mango de madera. "\
+	"La hoja es extremadamente afilada. Parece ser un arma efectiva."
+obj403c002d "Un arma fabricada por una tribu antigua, el 'ball racker' está hecho de una calabaza petrificada. "\
+	"No dejes que la apariencia te engañe, ya que es una de las armas de bajo nivel más poderosas."
+obj403c0029 "Un bate de madera recubierto de clavos de metal. "\
+	"Es una de las armas de nivel medio más débiles, pero sigue siendo una herramienta contundente efectiva."
+obj403c002a "Un arma contundente brutal, el bate con clavos está hecho de madera dura con clavos de acero "\
+	"insertados para un daño adicional por perforación. Una elección perfecta como arma de bajo nivel."
+obj403c0039 "Usada correctamente, una hoz puede ser un arma formidable. "\
+	"Esta versión está hecha del hueso pulido de una serpiente marina."
+objb3e8000d "Un martillo hecho de acero. Los mazos son armas contundentes devastadoras. "\
+	"Este es el más básico de todos los martillos."
+obj73980008 "Un arma contundente viciosa con una bola de hierro cubierta de clavos. "\
+	"Los Morning Stars se usaron extensamente en las guerras Rugaardic y siguen siendo un arma favorita de los Ogrok."
+obj403c0027 "Una versión alternativa del arma hoz. Esta está fabricada de acero inoxidable. "\
+	"Ligera y extremadamente afilada, es un arma excelente con daño de nivel medio y bajo requerimiento de fuerza."
+obj403c002b "Este mazo tiene un mango de roble duro y una cabeza de hierro afilada en punta para daño adicional. "\
+	"Más fuerte que el mazo básico y vale el costo adicional."
+obje26f0007 "El más básico de los hachas de guerra, el hacha de batalla está hecha de hierro y acero. Golpea fuerte y corta profundo."
+obj684d0006 "Un arma contundente moderadamente pesada, la maza con aletas es un arma muy sólida de nivel medio a bajo."
+objd8eb000e "Ganando su reputación en alta mar, el tulwar es una hoja formidable de origen oriental. "\
+	"Los piratas han hecho famosa esta hoja a lo largo de los años."
+obj403c0035 "Una ligera variación del Tulwar, el Tulwar dorado ofrece mejor manufactura para más daño."
+obj403c0033 "El arma legendaria del campeón Ogrok Baez. "\
+	"Esta hoja no solo se ve feroz, sino que también es capaz de infligir daño sólido."
+obj310e0018 "Un hacha de hierro templado negro. Este hacha fue forjada en las tierras orientales y por lo tanto es muy estilizada."
 //missing long sword
-obj5ea3000a "A classic weapon that has proved itself time and time again in battle. "\
-	"A perfect choice for a mid range weapon."
-obj403c002c "A finely crafted sword used for centuries by rangers. "\
-	"It is rumored that this weapon was originally designed by elves."
-obj17c9000b "A heavy and durable five-foot sword crafted by the barbarians of the northern wastes."
-obj403c0026 "A huge sword made famous by the highlanders of the northlands. "\
-	"Its size alone is enough to strike fear into the hearts of your foes." 
-objadf80012 "This sword is the weapon of choice for the female warrior tribe known as the valkyries."
-obj65130019 "A black tempered iron version of the morning star. A heavy weapon capable of inflicting serious damage."
-obj1fee000f "This blade has been the staple of Eastern combat for centuries. It is the preferred weapon "\
-	"of most assassins."
-obj9af20010 "Similar in size to the claymore, the flamberge features a double-edged multi curved blade capable "\
-	"of causing massive internal injury."
-obj403c0034 "A version of the flamberge that has been crafted with gold. "\
-	"Offers slightly more damage than its counterpart."
-obj81fc0013 "A golden version of the morning star. A heavy weapon capable of inflicting serious damage."
-obj403c0036 "A hybrid of the katana, the ninja to is a heavier and more powerful version of the eastern sword."
+obj5ea3000a "Un arma clásica que se ha probado una y otra vez en batalla. "\
+	"Una elección perfecta para un arma de rango medio."
+obj403c002c "Una espada finamente elaborada usada durante siglos por los guardabosques. "\
+	"Se rumorea que esta arma fue originalmente diseñada por elfos."
+obj17c9000b "Una espada pesada y duradera de cinco pies, fabricada por los bárbaros de los desiertos del norte."
+obj403c0026 "Una espada enorme famosa entre los highlanders del norte. "\
+	"Su tamaño por sí solo es suficiente para infundir miedo en los corazones de tus enemigos."
+objadf80012 "Esta espada es la elección de la tribu de guerreras conocida como las valquirias."
+obj65130019 "Una versión de hierro templado negro del Morning Star. Un arma pesada capaz de infligir daño serio."
+obj1fee000f "Esta hoja ha sido el pilar del combate oriental durante siglos. Es el arma preferida "\
+	"de la mayoría de los asesinos."
+obj9af20010 "Similar en tamaño a la claymore, la flamberge tiene una hoja doble curva capaz "\
+	"de causar lesiones internas masivas."
+obj403c0034 "Una versión de la flamberge elaborada con oro. "\
+	"Ofrece un poco más de daño que su contraparte."
+obj81fc0013 "Una versión dorada del Morning Star. Un arma pesada capaz de infligir daño serio."
+obj403c0036 "Un híbrido de katana, el ninja-to es una versión más pesada y poderosa de la espada oriental."
 //missing magic scepter
-obj77070016 "This claymore sword was recovered from the body of a slain dragon. "\
-	"It was found blackened to a crisp and has remained that way ever since. A high level sword capable of heavy damage."
-obj403c0028 "The most powerful hammer available, the spiked maul is a fearsome tool of destruction."
-obj820a0017 "The Berserker sword came into existence during the eastern wars. "\
-	"A division of barbarians was forced to drink a magic potion that enraged them with blood lust. "\
-	"The amount of destruction they caused earned them the berserker name, now legendary throughout Ur."
-obj403c002f "The Shining Razor Mace is one of the most terrible weapons ever crafted. "\
-	"Not only is it the most powerful bludgeoning weapon available, but it is also covered with razor sharp blades. "\
-	"The results can be truly horrific."
-obje8f50011 "This axe was crafted by the dwarven gods deep within the bowels of the planet. "\
-	"It is said this weapon was crafted with magma taken directly from the planet core. "\
-	"The most powerful axe in existence, it is capable of devastating power."
-obj403c0037 "This sword was rumored to be a gift from the gods to the barbarians of the northern wastes. "\
-	"It has had many owners, and all of them are legendary for their feats in combat."
-obj403c002e "This weapon is the known throughout Ur as the strongest sword in all the land. "\
-	"Once rumored to be owned by the king of the ancient empire, the Wyrmm�s tooth sword was used to "\
-	"command the mighty dragon Kloraath."
-obj403c0024 "Demonic blade that emanates intense evil power. Its origins are unknown."
+obj77070016 "Esta espada claymore fue recuperada del cuerpo de un dragón asesinado. "\
+	"Se encontró ennegrecida y así ha permanecido desde entonces. Una espada de alto nivel capaz de infligir daño pesado."
+obj403c0028 "El martillo más poderoso disponible, el mazo con pinchos es una herramienta temible de destrucción."
+obj820a0017 "La espada Berserker surgió durante las guerras orientales. "\
+	"Una división de bárbaros fue forzada a beber una poción mágica que los enfureció con sed de sangre. "\
+	"La cantidad de destrucción que causaron les dio el nombre de Berserker, ahora legendario en todo Ur."
+obj403c002f "El Shining Razor Mace es uno de los armas más terribles jamás creadas. "\
+	"No solo es el arma contundente más poderosa disponible, sino que también está cubierta de hojas afiladas. "\
+	"Los resultados pueden ser realmente horribles."
+obje8f50011 "Este hacha fue creada por los dioses enanos en lo profundo del planeta. "\
+	"Se dice que esta arma fue forjada con magma tomado directamente del núcleo del planeta. "\
+	"El hacha más poderosa existente, capaz de un poder devastador."
+obj403c0037 "Se rumoreaba que esta espada era un regalo de los dioses para los bárbaros del norte. "\
+	"Ha tenido muchos dueños, y todos son legendarios por sus hazañas en combate."
+obj403c002e "Esta arma es conocida en todo Ur como la espada más fuerte de la tierra. "\
+	"Se rumoreaba que alguna vez perteneció al rey del antiguo imperio, la espada Diente de Wyrmm se usó para "\
+	"comandar al poderoso dragón Kloraath."
+obj403c0024 "Espada demoníaca que emana un intenso poder maligno. Sus orígenes son desconocidos."
 
 //Bows
-obje86b0428 "A basic wooden bow strung tightly with catgut."
-obj119a042a "This bow is similar to the light bow, but is made of steel. "\
-	"Its reinforced construction makes it capable of heavier damage."
-obj1ea1042b "The longbow is the weapon of choice for most woodland adventurers. "\
-	"While it is heavier and more difficult to draw than most, it allows much heavier "\
-	"damage than its smaller counterparts."
-obj521d001c "The battle bow came into existence during the eastern wars. "\
-	"It was used with deadly accuracy and power to decimate the ground forces invading the eastern territories. "\
-	"It requires a great deal of strength to draw, but is brutal once mastered."
-obj59a7042c "This bow has been crafted by sorcerous means. Despite its beautiful appearance, the golden "\
-	"bow is capable of massive damage. Truly a weapon to be feared."
-obj59a7042d "Demonic bow that emanates intense evil power. Its origins are unknown."
+obje86b0428 "Un arco básico de madera tensado con tripa de animal."
+obj119a042a "Este arco es similar al arco ligero, pero está hecho de acero. "\
+	"Su construcción reforzada lo hace capaz de infligir un daño mayor."
+obj1ea1042b "El arco largo es el arma preferida de la mayoría de los aventureros del bosque. "\
+	"Aunque es más pesado y difícil de tensar que la mayoría, permite infligir un daño mucho mayor "\
+	"que sus contrapartes más pequeñas."
+obj521d001c "El arco de batalla surgió durante las guerras orientales. "\
+	"Se usó con mortal precisión y poder para diezmar a las fuerzas terrestres que invadían los territorios orientales. "\
+	"Requiere gran fuerza para tensarlo, pero es brutal una vez dominado."
+obj59a7042c "Este arco ha sido creado por medios hechiceros. A pesar de su hermosa apariencia, el arco dorado "\
+	"es capaz de infligir un daño masivo. Verdaderamente un arma temible."
+obj59a7042d "Arco demoníaco que emana un intenso poder maligno. Sus orígenes son desconocidos."
 
 //Enemies
 obj00000090 "The Druhg are a short stocky goblin like creature that is found in abundance on Ahkuilon. "\
