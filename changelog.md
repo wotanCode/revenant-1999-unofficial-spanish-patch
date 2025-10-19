@@ -1,3 +1,6 @@
+### 19-10-2025
+- add original_english ahkuilon
+
 ### 12-10-2025
 - 915 - 4128 english.def
 - add originals keys
